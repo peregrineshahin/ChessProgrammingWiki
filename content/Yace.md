@@ -47,6 +47,7 @@ operated by their authors [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter B�
 
 
 ```
+
 [Event "IPCCC 2001"]
 [Site "Paderborn GER"]
 [Date "2001.02.25"]
@@ -75,6 +76,7 @@ g3+ 37.Kxg3 Ra6 38.Rg5 Be6 39.Bxe6 Rxe6 40.Rxe6 Kf7 41.Rge5 b6 42.Kg4 Kg7
 
 
 ```
+
 [Event "IPCCC 2003"]
 [Site "Paderborn GER"]
 [Date "2003.02.23"]

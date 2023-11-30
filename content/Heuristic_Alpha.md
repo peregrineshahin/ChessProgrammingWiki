@@ -12,6 +12,7 @@ the first [PC](IBM_PC "IBM PC") chess program of [Julio Kaplan's](Julio_Kaplan "
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "2nd Harvard Cup 1991 G/25"]
 [Site "Boston, MA USA"]
 [Date "1991.05.03"]

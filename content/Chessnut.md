@@ -28,6 +28,7 @@ There was the solitary amateur entry, [Geoff Bulmer's](Geoffrey_Bulmer "Geoffrey
 [WMCCC 1984](WMCCC_1984 "WMCCC 1984"), round 5: [Intelligent Chess Software](Intelligent_Chess_Software "Intelligent Chess Software") - Chessnut 3 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
+
 [Event "WMCCC 1984"]
 [Site "Glasgow, United Kingdom"]
 [Date "1984.09.13"]
@@ -47,6 +48,7 @@ There was the solitary amateur entry, [Geoff Bulmer's](Geoffrey_Bulmer "Geoffrey
 [WMCCC 1984](WMCCC_1984 "WMCCC 1984"), round 6: Chessnut 3 - [Sargon 3 / Compaq](Sargon "Sargon") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "WMCCC 1984"]
 [Site "Glasgow, United Kingdom"]
 [Date "1984.09.14"]

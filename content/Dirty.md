@@ -24,6 +24,7 @@ Dirty played the [ACCA 2008](ACCA_2008 "ACCA 2008"), various [ACCA World Compute
 [ACCA 2008](ACCA_2008 "ACCA 2008"), round 3, [Telepath](Telepath "Telepath") - Dirty (Deltomatex)
 
 ```
+
 [Event "ACCA 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.11.08"]
@@ -51,6 +52,7 @@ a2 49.Ra4 Ke6 50.Ra8 Rb1+ 51.Kf2 a1=Q 52.Rxa1 Rxa1 53.Kf3 g4+ 54.Kxg4 b5
 [ICT 2013](ICT_2013 "ICT 2013") round 6, [Fonzy Bluemers](Fonzy_Bluemers "Fonzy Bluemers") and [Bart Weststrate](Bart_Weststrate "Bart Weststrate") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, Dirty - [Kallisto](Kallisto "Kallisto")
 
 ```
+
 [Event "ICT 2013"]
 [Site "Leiden"]
 [Date "2013.06.02"]

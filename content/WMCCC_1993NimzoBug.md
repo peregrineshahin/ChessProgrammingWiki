@@ -703,6 +703,7 @@ Round 3, [Mephisto Gideon](Gideon "Gideon") - [Nimzo-Guernica](Nimzo "Nimzo")
 
 
 ```
+
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.01"]
@@ -745,6 +746,7 @@ Round 8, [The King](The_King "The King") - [Nimzo-Guernica](Nimzo "Nimzo") » [
 
 
 ```
+
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.06"]
@@ -778,6 +780,7 @@ In the last round, [Kasparov Sparc](Kasparov_Sparc "Kasparov Sparc"), operated b
 
 
 ```
+
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.07"]

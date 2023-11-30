@@ -26,6 +26,7 @@ Doch was never intended to be the name that would stick. When I first decided to
 Doch was a 64-bit aka [bitboard](Bitboards "Bitboards") program, applying a [Copy-Make](Copy-Make "Copy-Make") approach with a [position](Chess_Position "Chess Position") state of 192 byte allocated on the [stack](Stack "Stack") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```C++
+
 position search( position_state *prev,  ...  )
 {
    position_state  new_position;

@@ -19,6 +19,7 @@ a data structure to [collect](https://en.wikipedia.org/wiki/Collection_%28abstra
 
 
 ```C++
+
 TNode* pNode = m_pHead;
 while ( pNode ) {
    doSomething( pNode );
@@ -36,6 +37,7 @@ To find a particular node requires traversal, that is iteration, starting from t
 
 
 ```C++
+
 TNode* TList::findNode(Property property, TNode **ppPrevious) {
   TNode* pNode = m_pHead;
   *ppPrevious = NULL
@@ -59,6 +61,7 @@ To insert behind a found node requires modification of two references. The found
 
 
 ```C++
+
 TNode* TList::insertBehind(TNode *pNewNode, Property property) {
   TNode* pPrevious;
   TNode* pNode = findNode(property, &pPrevious);
@@ -87,6 +90,7 @@ The removal of a node requires to refer the previous node no longer to the found
 
 
 ```C++
+
 TNode* TList::remove(Property property) {
   TNode* pPrevious;
   TNode* pNode = findNode(property, &pPrevious);
@@ -133,6 +137,7 @@ Programming languages such as the [functional](https://en.wikipedia.org/wiki/Fun
 
 
 ```C++
+
   std::forward_list<TSquare> knightTargetsd4 = {e6,f5,f3,e2,c2,b3,b5,c6};
 
   std::cout << "knight on d4 attacks:";
@@ -148,6 +153,7 @@ or, alternatively with modifying or non-modifying sequence operation <a id="cite
 
 
 ```C++
+
   std::forward_list<TSquare> knightTargetsd4 = {e6,f5,f3,e2,c2,b3,b5,c6};
   std::cout << "knight on d4 attacks:";
   for_each (knightTargetsd4.begin(), knightTargetsd4.end(), print);

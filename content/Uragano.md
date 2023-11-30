@@ -10,7 +10,7 @@ title: Uragano
 [ L'uragano atlantico Katrina <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Uragano**, (Uragano 3D)  
 
-a chess program and GUI by [Luca Naddei](Luca_Naddei "Luca Naddei") featuring 2D- and optional [3D graphics board](3D_Graphics_Board "3D Graphics Board") with change view angle and board rotate, 
+a chess program and GUI by [Luca Naddei](Luca_Naddei "Luca Naddei") featuring 2D- and optional   with change view angle and board rotate, 
 engine and GUI compatible with the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). Uragano 3D played various [Italian Computer Chess Championships](Italian_Computer_Chess_Championship "Italian Computer Chess Championship") and the [WCCC 2006](WCCC_2006 "WCCC 2006") in [Turin](https://en.wikipedia.org/wiki/Turin).
 
 
@@ -24,6 +24,7 @@ engine and GUI compatible with the [Chess Engine Communication Protocol](Chess_E
 
 
 ```
+
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.29"]

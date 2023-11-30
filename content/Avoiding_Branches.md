@@ -16,6 +16,7 @@ The tricks shown here, might be useful if compiler don't support those functions
 Abs as [C](C "C") intrinsic <a id="cite-note-1" href="#cite-ref-1">[1]</a> is likely implemented based on following code snippet ...
 
 ```C++
+
 int abs(int a) {
    int s = a >> 31; // cdq, signed shift, -1 if negative, else 0
    a ^= s;  // ones' complement if negative
@@ -39,6 +40,7 @@ Following trick only works for a reduced integer range of effectively one bit le
 If a is greater b, a - 0 is returned, otherwise a - (a - b) == +b
 
 ```C++
+
 int max(int a, int b) {
   int diff = a - b;
   int dsgn = diff >> 31;
@@ -59,6 +61,7 @@ Following trick only works for a reduced integer range of effectively one bit le
 If a is greater b, b + 0 is returned, otherwise b + (a - b) == +a
 
 ```C++
+
 int min(int a, int b) {
   int diff = a - b;
   int dsgn = diff >> 31;
@@ -74,6 +77,7 @@ int min(int a, int b) {
 A conditional assignment in [C](C "C") or [C++](Cpp "Cpp") may be implemented by compilers as [x86](X86 "X86") conditional move (cmovCC) instruction.
 
 ```C++
+
 x = ( a > b ) ? C : D;
 
 ```
@@ -81,6 +85,7 @@ x = ( a > b ) ? C : D;
 otherwise it might be reformulated with conditional increment:
 
 ```C++
+
 x = D;
 if ( a > b ) x += C - D;
 
@@ -91,6 +96,7 @@ if ( a > b ) x += C - D;
 If a > b is hard to predict,
 
 ```C++
+
 if ( a > b ) x += C;
 
 ```
@@ -98,6 +104,7 @@ if ( a > b ) x += C;
 it might be reformulated branch-less in [C](C "C"), which likely emits a [x86](X86 "X86") setCC instruction:
 
 ```C++
+
 x += -( a > b ) & C; // with any boolean expression
 
 ```
@@ -105,6 +112,7 @@ x += -( a > b ) & C; // with any boolean expression
 With a reduced value range and INT_MIN \<= b - a \<= INT_MAX, greater and less relations might be implemented using a sign mask:
 
 ```C++
+
 x += (( b - a ) >> 31) & C;
 
 ```
@@ -114,6 +122,7 @@ x += (( b - a ) >> 31) & C;
 During list generation, while conditionally writing data to an [array](Array "Array") with post-incrementing a pointer or index, one may try to avoid the conditional branch by storing always and to increment the pointer by the condition, which is either 0 or 1 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 ```C++
+
 if (a > b)
   *ptr++ = value;
 
@@ -122,6 +131,7 @@ if (a > b)
 might be rewritten by
 
 ```C++
+
   *ptr = value;
   ptr += (a > b);
 

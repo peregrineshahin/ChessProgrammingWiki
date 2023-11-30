@@ -17,6 +17,7 @@ Armageddon regularly played the [Polish Computer Chess Championship](Polish_Comp
 [PCCC 2002](PCCC_2002 "PCCC 2002"), round 6, [Belzebub](Belzebub "Belzebub") - Armageddon <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "PCCC 2002"]
 [Site "Lodz"]
 [Date "2002.09.14"]

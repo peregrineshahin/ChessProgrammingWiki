@@ -110,7 +110,7 @@ A game window, associated with the game document or model, is usually a frame ar
 A pure [2D board](2D_Graphics_Board "2D Graphics Board") window should be [isotropic](https://en.wikipedia.org/wiki/Isotropy) and quadratic. If the board window has keyboard [focus](https://en.wikipedia.org/wiki/Focus_%28computing%29), one may control a square [cursor](https://en.wikipedia.org/wiki/Cursor_%28computers%29) to select two squares to make a move, similar to clicking with the mouse.
 
 - [2D Graphics Board](2D_Graphics_Board "2D Graphics Board")
-- [3D Graphics Board](3D_Graphics_Board "3D Graphics Board")
+-  
 
 ## Notation Window
 

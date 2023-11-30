@@ -82,6 +82,7 @@ Kanguruh is a Winboard compatible chess engine written in PowerBASIC 3.02 Consol
 
 
 ```
+
 [Event "NC3 2003"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2003.07.22"]

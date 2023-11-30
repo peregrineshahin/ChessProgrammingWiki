@@ -20,6 +20,7 @@ an early microprocessor chess program, written by [Mike Johnson](Mike_Johnson "M
 
 
 ```
+
 [Event "ACM 1978"]
 [Site "Washington USA"]
 [Date "1978.12.04"]

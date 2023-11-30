@@ -15,6 +15,7 @@ The process of isolating subsets is performed by [intersection](General_Setwise_
 This obvious loop approach is similar to [Brian Kernighan's way](Population_Count#BrianKernighansway "Population Count") to count the number of one-bits by consecutively isolating and clearing the LS1B:
 
 ```C++
+
 while ( x ) {
    U64 ls1b = x & -x; // isolate LS1B
    ...
@@ -26,6 +27,7 @@ while ( x ) {
 or with likely the same generated assembly:
 
 ```C++
+
 if ( x ) do {
    U64 ls1b = x & -x; // isolate LS1B
    ...
@@ -36,6 +38,7 @@ if ( x ) do {
 Of course we may also reset the LS1B by
 
 ```C++
+
    x ^= ls1b; // reset LS1B
 
 ```
@@ -55,6 +58,7 @@ For most applications LS1B-isolation alone is not appropriate, but the conversio
 ### Scanning Forward
 
 ```C++
+
 if ( x ) do {
    int idx = bitScanForward(x); // square index from 0..63
    *list++ = foo(idx, ...);
@@ -69,6 +73,7 @@ Per definition bitScanForward reveals the index of LS1B.
 If - for some reason - we like to traverse the sets in reverse or unknown order anyway, we can not (or don't want to) rely on the independent LS1B reset.
 
 ```C++
+
 if ( x ) do {
    int idx = bitScanReverse(x); // square index from 0..63
    *list++ = foo(idx, ...);
@@ -81,6 +86,7 @@ if ( x ) do {
 A win of abstraction is to use a combined [bitscan with reset](BitScan#BitscanwithReset "BitScan") found bit routine. This is fine. But probably harder for compilers to generate optimal code in the if-do-while-sense, where reset last bit already sets the zero-flag. If you don't care on such micro-optimizations, this is the preferred control structure <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 ```C++
+
 while ( x ) {
    int idx = bitScanAndReset(&x); // square index from 0..63
    *list++ = foo(idx, ...);
@@ -95,6 +101,7 @@ One may even don't care about the order.
 If bitscan is able to properly handle empty sets - leaving an value outside the 0..63 range (like leading or trailing zero count), we may think about to skip the leading while condition and to break on bitscan(x) > 63 for instance. That was not recommend - since the reset leaves the condition en-passant, and the computational cost of an additional bitscan or zero count was higher. If you like to play the optimization game, it might be fine for [x86-64](X86-64 "X86-64") [Core 2 duo](https://en.wikipedia.org/wiki/Intel_Core_2) thought - using [bitscan](X86-64#gpinstructions "X86-64") and [bittestandreset](X86-64#gpinstructions "X86-64") intrinsics or wrappers - if kept all in registers of course.
 
 ```C++
+
 while (_BitScanForward64(&idx, x)) { // or reverse
    *list++ = foo(idx, ...);
    _bittestandreset64(&x, idx);
@@ -105,6 +112,7 @@ while (_BitScanForward64(&idx, x)) { // or reverse
 The loop is intended to look like this in [x86-64](X86-64 "X86-64") [assembly](Assembly "Assembly"):
 
 ```C++
+
 ; input rdx - move target set
 ;       ecx - move from aspects
 ;       rdi - pointer to movelist
@@ -126,6 +134,7 @@ over:
 With bitboard serialization one minor problem is the relative order in [move generation](Move_Generation "Move Generation") considering [side to move](Side_to_move "Side to move"). Bsf scans the board in a1..h1, a2..h2, a8..h8 order, assuming [little-endian rank-file mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations"), which might be the desired order for an attacking black player. Traversing white pieces and target squares the same way may result in asymmetries and different search behavior of [color flipped positions](Color_Flipping "Color Flipping"). Despite other features considered in [move ordering](Move_Ordering "Move Ordering"), the initial order in generation has more or less influence. Therefore, it is desired to traverse the "white" bitboards with priority for the black back-rank as well <a id="cite-note-3" href="#cite-ref-3">[3]</a> . This might be done by bitscan reverse, which covers the rank symmetry, but also mirrors the files. Another alternative is to traverse a [vertically flipped](Flipping_Mirroring_and_Rotating#FlipVertically "Flipping Mirroring and Rotating") "white" bitboard, which can be done outside the do-while loop by a "conditional" [x86-64](X86-64 "X86-64") [byte swap](X86-64#gpinstructions "X86-64"), and requires one further register and xor per loop cycle, which might be combined with other stuff, f.i. the [from square](Origin_Square "Origin Square") of a move:
 
 ```C++
+
 if ( x ) {
    U64 m = (U64)color - 1; // e.g. -1 if white, 0 for black
    int o = (int)m & 56;
@@ -143,6 +152,7 @@ if ( x ) {
 [Rein Halbersma](Rein_Halbersma "Rein Halbersma") has written a prototype of a [generic](Generic_Programming "Generic Programming") [C++11](Cpp "Cpp") bitset [template](Cpp#Template "Cpp") that can be used to traverse a set in [STL iterator](https://en.wikipedia.org/wiki/Iterator#C.2B.2B) style, hiding bitscan and reset <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> ...
 
 ```C++
+
 typedef bit_set<int64_t, 1> bitset;
 
 void testLoop(int* p, const bitset & x) {
@@ -159,6 +169,7 @@ void testCopy(int* p, const bitset & x) {
 ... which yields in following [X86-64](X86-64 "X86-64") [assembly](Assembly "Assembly"), almost identical for the iterator loop and std::copy <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
 ```C++
+
 ; testLoop(int*, bit_set<long, 1ul>):
   test  rsi, rsi
   jne   .L13
@@ -180,6 +191,7 @@ void testCopy(int* p, const bitset & x) {
 Similar to the idea to hash occupancies in [kindergarten bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") and [magic bitboards](Magic_Bitboards "Magic Bitboards"), one may hash certain move-target subsets of one piece in one run, to lookup tables with pre-calculated moves-lists <a id="cite-note-7" href="#cite-ref-7">[7]</a> . Sounds like doing up to eight bitscans in parallel. The idea is to muliply-shift-lookup a move-target bitboard, to do an almost branch-less [move-generation](Move_Generation "Move Generation") with pre-calculated moves inside [move-lists](Move_List "Move List"). For instance king- and knight-moves <a id="cite-note-8" href="#cite-ref-8">[8]</a> as well as moves of sliding pieces per line:
 
 ```C++
+
 moveTarget = KingAttacks[sq] & ~(ownPieces | attackedSquares);
 idx = (moveTarget * kingMagic[sq]) >> kingShift[sq]);
 movelists = kingMoveLists[sq];
@@ -192,6 +204,7 @@ A king in a corner may have up to three moves. Thus there are 2^3 == 8 possible 
 For instance for a king on a1 (number of moves: vector of moves):
 
 ```C++
+
 0:{empty}
 1:{a1-b1}
 1:{a1-a2}

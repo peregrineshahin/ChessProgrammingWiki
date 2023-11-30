@@ -26,6 +26,7 @@ Confucius team, [Martin Anders](index.php?title=Martin_Anders&action=edit&redlin
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "IPCCC 1997"]
 [Site "Paderborn, GER"]
 [Date "1997.02.22"]

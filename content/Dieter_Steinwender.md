@@ -19,6 +19,7 @@ Dieter Steinwender is editor in chief of the German computer chess magazine [Com
 Dieter Steinwender participated at the [Aegon 1996](Aegon_1996 "Aegon 1996") human-machine championship, and demonstrated some [Anti-Computerchess](index.php?title=Anti-Computerchess&action=edit&redlink=1 "Anti-Computerchess (page does not exist)"), especially in the game against [Shredder](Shredder "Shredder") <a id="cite-note-12" href="#cite-ref-12">[12]</a> .
 
 ```
+
 [Event "11th AEGON man-mach"]
 [Site "The Hague NED"]
 [Date "1996.04.15"]

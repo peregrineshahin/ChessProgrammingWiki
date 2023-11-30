@@ -26,6 +26,7 @@ Best tournament results : 2 and a half points at [Aegon 1993](Aegon_1993 "Aegon
 ## The Fritz Game
 
 ```
+
 [Event "14th World Microcomputer Chess Championship"]
 [Site "Jakarta, Indonesia"]
 [Date "1996.10.??"]

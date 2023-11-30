@@ -16,6 +16,7 @@ Whether a (rook-) battery deserves a general bonus in [evaluation](Evaluation "E
 In my opinion, another reason is that any other pair of pieces suffers from redundancy. Two knights, two rooks, bishop and knight, or major plus minor piece are all capable of guarding the same squares, and therefore there is apt to be some duplication of function.
 
 ```C++
+
 ```
 With two bishops traveling on opposite colored squares there is no possibility of any duplication of function. So, in theory, rather than giving a bonus to two bishops, we should penalize every other combination of pieces, but it is obviously much easier to reward the bishop pair. 
 

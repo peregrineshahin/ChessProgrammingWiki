@@ -18,6 +18,7 @@ The development of Bobby started in 1982 as part of Kraas' and Schrüfer's MSc t
 [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and [Richard Lang](Richard_Lang "Richard Lang") <a id="cite-note-10" href="#cite-ref-10">[10]</a>, [WCCC 1986](WCCC_1986 "WCCC 1986"), round 4, vs. [Mephisto X](Mephisto "Mephisto") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -43,6 +44,7 @@ Qf3+ 33.Ke1 Qh1+ 34.Kd2 Qg2 35.Kc1 Qg6 36.Qb3 c6 37.Ba4 c5 38.Qg3 Ra8
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 5, [Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort), [Frans Morsch](Frans_Morsch "Frans Morsch"), [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, Bobby vs. [Sun Phoenix](Phoenix "Phoenix")
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -68,6 +70,7 @@ Bobby applied a so called *Strategic Quiescence Search* as described in a 1989 [
 ## Pseudo Code
 
 ```C++
+
 int StategicQS(CNode n, int α, int ß) {
    int bestval = eval(n);
    if ( bestval >= ß ) return bestval;   // FP1, fail soft
@@ -93,6 +96,7 @@ int StategicQS(CNode n, int α, int ß) {
 The *evalPlus* value is +oo in case of checking moves near the horizon, but scaled to zero for deeper searches to avoid "infinite" checks and [search explosion](Search_Explosion "Search Explosion"). Otherwise *evalPlus* is [incrementally calculated](Incremental_Updates "Incremental Updates") by eval(n) and [move](Moves "Moves") properties. In case of [tactical moves](Tactical_Moves "Tactical Moves"), the sum of eval(n) and the value of a captured and/or promoted piece and a constant representing half the value of a Pawn is taken. For [quiet](Quiet_Moves "Quiet Moves") or strategical moves, evalPlus relies on maximum [score](Score "Score") differences of two consecutive evaluations n´ and n, triggered by [history success counters](History_Heuristic "History Heuristic"):
 
 ```C++
+
 if ( isCheck ) 
    return infiniteIfNearBelowHorizon(depth);
 if ( isCapture && isPromotion ) 
@@ -110,6 +114,7 @@ return eval(n) + hist[from][to].diff;
 Positive history based success counters are associated with the maximum difference of two consecutive evaluations n´ and n found so far, while zero saturated counters also have zero difference and are therefor always pruned by FP3. Following scheme is used to update the [butterfly boards](Butterfly_Boards "Butterfly Boards"):
 
 ```C++
+
    for all n´€ SUCC(n) do {
       int actval = -search(n´, -ß, -α);
       ...

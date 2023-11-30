@@ -16,6 +16,7 @@ This version played the [CCCCISC 2008](CCCCISC_2008 "CCCCISC 2008") in [Moscow](
 [IOPCCC 2008](IOPCCC_2008 "IOPCCC 2008"), round 2, [Tytan](Tytan "Tytan") - Anechka <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "IOPCCC 2008"]
 [Site "Lodz"]
 [Date "2008.06.27"]

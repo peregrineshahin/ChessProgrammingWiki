@@ -61,6 +61,7 @@ A chess game ends with a draw if a sequence of moves - with all pieces in exactl
 
 
 ```C++
+
 0:   Nb1-c3   Nb8-c6   Nc3-b1   Nc6-b8
 1:   Ng1-f3   Ng8-f6   Nf3-g1   Nf6-g8
 
@@ -72,6 +73,7 @@ The Prouhet–Thue–Morse sequence is the sequence t satisfying for all positiv
 
 
 ```C++
+
  t[0]    = 0
  t[2n]   = t[n]
  t[2n+1] = 1 - t[n]
@@ -116,6 +118,7 @@ In 1970 or 1971, Euwe played the game with [Chess 3](Chess_(Program) "Chess (Pro
 
 
 ```
+
 [Event "?"]
 [Site "?"]
 [Date "1970?"]

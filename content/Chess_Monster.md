@@ -14,6 +14,7 @@ Chess Monster played the [Halloween](https://en.wikipedia.org/wiki/Halloween) ev
 [WMCCC 1986](WMCCC_1986 "WMCCC 1986"), round 5, Chess Monster - [Cyrus A](Cyrus_68K "Cyrus 68K") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "WMCCC 1986"]
 [Site "Dallas, USA"]
 [Date "1986.11.03"]

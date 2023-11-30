@@ -15,6 +15,7 @@ Gambiet was base of [Microtrend Experimental](Microtrend_Experimental "Microtren
 Gambiet is a [Shannon Type-A Stategy](Type_A_Strategy "Type A Strategy") program, performing [alpha-beta](Alpha-Beta "Alpha-Beta") with a classical [mailbox](Mailbox "Mailbox") board representation and following [byte-wise](Byte "Byte") [piece coding](Pieces#PieceCoding "Pieces") optimized for efficiency <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
 ```C++
+
         7654 3210
 king    x110 1111
 queen   x000 1001
@@ -30,6 +31,7 @@ empty   0000 0000
 [MSB](https://en.wikipedia.org/wiki/Most_significant_bit), [bit](Bit "Bit") 7 is the piece color, x = 0 for white and x = 1 for black pieces. While [LSB](https://en.wikipedia.org/wiki/Least_significant_bit), bit 0, acts as piece indicator - set for any piece, the lower [nibble](Nibble "Nibble") already contains their [point value](Point_Value "Point Value") equivalence in a {1,3,3,5,9,15} solution, luckily all values odd. The bits 1 to 4 (or even 0 to 4) may act as table index for [move generation](Move_Generation "Move Generation") purpose, similar, bit 4 and 5 enumerate to the four possibly useful states of {[sliding piece](Sliding_Pieces "Sliding Pieces"), [pawn](Pawn "Pawn"), [king](King "King"), [knight](Knight "Knight")}. However, the leading code saving trick in conjunction with bit 6 after loading the code into the [accumulator](https://en.wikipedia.org/wiki/Accumulator_%28computing%29) and shifting it left one (SLA) , is to use disjoint [Z80](Z80 "Z80") [processor flags](https://en.wikipedia.org/wiki/Flag_%28computing%29) <a id="cite-note-9" href="#cite-ref-9">[9]</a> with four [conditional jumps](https://en.wikipedia.org/wiki/Conditional_jump) in the right order for up to five cases to distinguish. [Zero flag](https://en.wikipedia.org/wiki/Zero_flag) is set for empty squares, [parity](https://en.wikipedia.org/wiki/Parity_flag) (odd) for squares off the board, [sign flag](https://en.wikipedia.org/wiki/Sign_flag) in case of a king, [carry](https://en.wikipedia.org/wiki/Carry_flag) for black pieces and white pieces otherwise.
 
 ```C++
+
 LDA  A,(SQUARE)    ; get piece code to Accu (A)
 SLA  A             ; A := A << 1
 JP   Z, EMPTY      ; if ( A == 0 ) empty square 
@@ -63,6 +65,7 @@ Gambiet order form by [Microtrend](Microtrend "Microtrend"), U.S.A., [InfoWorld]
 [WMCCC 1980](WMCCC_1980 "WMCCC 1980"), round 3, Gambiet 80 - [Sargon 2.5 Auto RB](Sargon "Sargon") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ```
+
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.05"]
@@ -88,6 +91,7 @@ Gambiet order form by [Microtrend](Microtrend "Microtrend"), U.S.A., [InfoWorld]
 [DOCCC 1982](DOCCC_1982 "DOCCC 1982"), round 8, upcoming tournament winner Gambiet 82 loses from newcomer [Rebel](Rebel "Rebel") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ```
+
 [Event "DOCCC 1982"]
 [Site "Wageningen NED"]
 [Date "1982.10.??"]

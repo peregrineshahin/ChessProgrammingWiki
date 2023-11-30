@@ -26,6 +26,7 @@ As available chess computer, the Sensory 9 competed with the [East German](https
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.13"]

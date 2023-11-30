@@ -14,6 +14,7 @@ Futé applied the **Plan of Attack**, a [pre-processing](Piece-Square_Tables#Pre
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "13th World Computer Chess Championship"]
 [Site "Reykjavík, Iceland"]
 [Date "2005.08.15"]

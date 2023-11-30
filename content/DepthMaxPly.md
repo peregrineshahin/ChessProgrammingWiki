@@ -13,6 +13,7 @@ Despite [quiescence search](Quiescence_Search "Quiescence Search"), where usuall
 Most likely inside the search routine, a ply-index is used to index [stacks](Stack "Stack") or [arrays](Array "Array") with pre-saved search information. This index is initialized with zero at the [root](Root "Root"), and is then incremented after making a move each time the [recursive](Recursion "Recursion") search is called. This index measures the ply-distance from the current [node](Node "Node") to the root and would therefor be sufficient to determine the remaining depth to the horizon, also called draft:
 
 ```C++
+
 draft ::= depth at the root - ply index
 
 ```
@@ -44,6 +45,7 @@ Due to different implementations, the reported search depth of chess programs is
 Some programs also report a selective search depth beside the nominal search depth, most often much greater than the nominal search depth. Some programs determine the highest distance to the root at any node, others only at the horizon.
 
 ```C++
+
 int highestDepth;
 
 int iterativeDeepening() {

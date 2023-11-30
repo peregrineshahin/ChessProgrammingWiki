@@ -59,6 +59,7 @@ Mr. Langer was not able or willing to provide any evidence Quickstep was origina
 
 
 ```
+
 [Event "WMCCC 1989"]
 [Site "Portorož, Slovenia"]
 [Date "1989.09.??"]
@@ -86,6 +87,7 @@ g6 20.Rdc1 Nxe5 21.dxe5 Qc6 22.Qh3 Bxc3 23.bxc3 Ne4 24.Bxe4 Qxe4 25.Re1 Qc6 26.B
 
 
 ```
+
 [Event "WMCCC 1989"]
 [Site "Portorož, Slovenia"]
 [Date "1989.09.??"]

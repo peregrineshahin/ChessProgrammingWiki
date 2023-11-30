@@ -60,6 +60,7 @@ Three Portorose versions were shipped - with [68000](68000 "68000") and [68020](
 
 
 ```
+
 [Event "ACM 1989"]
 [Site "Reno USA"]
 [Date "1989.11.14"]
@@ -92,6 +93,7 @@ SKA-Mephisto-Tournament, [Munich](https://en.wikipedia.org/wiki/Munich), April 1
 
 
 ```
+
 [Event "Karpov Simul"]
 [Site "Munich GER"]
 [Date "1990.04.??"]

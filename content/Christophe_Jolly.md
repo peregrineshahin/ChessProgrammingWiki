@@ -17,6 +17,7 @@ After a long break, Christophe Jolly came back with a new release of KnightX in 
 [WMCCC 1997](WMCCC_1997 "WMCCC 1997") round 9, [Techno Chess](Techno_Chess "Techno Chess") vs. [Ananse](Ananse "Ananse"), Christophe Jolly and [Walter Bannerman](Walter_Bannerman "Walter Bannerman") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "WMCCC 1997"]
 [Site "Paris, France"]
 [Date "1997.10.31"]

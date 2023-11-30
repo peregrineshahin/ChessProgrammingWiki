@@ -26,6 +26,7 @@ but negotiations between Rybka and Junior teams broke down due to disputes over 
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.20"]
@@ -56,6 +57,7 @@ Rc1 54.Rxa6 Rc4 55.Bd4 Ne7 56.Kh3 Nc6 57.Bh8 Kf7 58.g4 Nb8 59.Ra7+ Ke6 60.Kg3 Nc
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.21"]
@@ -91,6 +93,7 @@ Kf8 109.Bxb2 Kxe8 110.g6 1-0
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.22"]
@@ -120,6 +123,7 @@ Kf8 109.Bxb2 Kxe8 110.g6 1-0
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.22"]
@@ -164,6 +168,7 @@ Kg4 137.Qg8+ Kf3 138.Qa8+ Kg3 139.Qg8+ Kf2 140.Qg5 Rb4+ 141.Kc5 Rff4 142.d7 Bxd7
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.23"]
@@ -200,6 +205,7 @@ Ra5 124.Qd3+ Kh5 125.Kf6 Kh4 126.Qc4+ Kh5 127.Qe2+ Kh4 128.Qe1+ Kg4 129.Qxa5 Kf3
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.24"]
@@ -227,6 +233,7 @@ Qxf2+ 44.Kh2 Rxd8 45.Qe7+ Kg6 46.Qxd8 Qf4+ 47.Kg1 Qc1+ 48.Kf2 Qxb2+ 49.Kf3 Qc3+ 
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.25"]
@@ -255,6 +262,7 @@ Qxb6+ 46.Kh2 Re8 47.h5 Qb2+ 48.Kh3 Qe2 49.Qf5 d2 50.h6 Qc4 51.Ra3 Qc8 52.Qxc8 Rx
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.26"]
@@ -283,6 +291,7 @@ Nf3+ 29.Kg2 Nxe1+ 30.Bxe1 dxe5 31.Qc4 Rfd8 32.a5 Qa7 33.Bc3 Rd1 34.f3 h6 35.Qe2 
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.26"]
@@ -313,6 +322,7 @@ Rxd3 29.Bxd3 Bc3 30.bxa5 Bxa5 31.Bg3 Kg8 32.Bf2 Bc3 33.Bg1 Ne4 34.Qc2 Bxe5 35.fx
 
 
 ```
+
 [Event "Zappa vs. Rybka"]
 [Site "Mexico City MEX"]
 [Date "2007.09.27"]

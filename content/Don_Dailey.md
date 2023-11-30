@@ -45,6 +45,7 @@ Don's 2009/2010 program [Doch](Doch "Doch") as well as its successor [Komodo](Ko
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 5, [Ard van Bergen](Ard_van_Bergen "Ard van Bergen"), [Sam Sloan](Sam_Sloan "Sam Sloan"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), Don Dailey <a id="cite-note-13" href="#cite-ref-13">[13]</a> , [Rex](Rex "Rex") - [Shess](Shess "Shess") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -72,6 +73,7 @@ Ra4+ 52.Kd5 Rhxe4 53.Kc5 Ra5+ 54.Kd6 Rd4+ 55.Ke6 Kg8 56.Ke7 Re5# 0-1
 [HIARCS](HIARCS "HIARCS") - [CilkChess](CilkChess "CilkChess") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ```
+
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.19"]

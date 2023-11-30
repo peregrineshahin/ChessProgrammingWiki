@@ -63,6 +63,7 @@ Deuterium participated at most [ACCA World Computer Rapid Chess Championships](A
 [CCT14](CCT14 "CCT14"), round 5, Deuterium - [Pandix](Pandix "Pandix")
 
 ```
+
 [Event "CCT14"]
 [Site "Internet Chess Club"]
 [Date "2012.02.26"]

@@ -18,6 +18,7 @@ Dart 4.1 played the [ACM 1974](ACM_1974 "ACM 1974") in [San Diego](https://en.wi
 [ACM 1974](ACM_1974 "ACM 1974"), round 1, Dart 4.1 - [Chess 4.2](</Chess_(Program)> "Chess (Program)")
 
 ```
+
 [Event "ACM 1974"]
 [Site "San Diego USA"]
 [Date "1974.11.10"]
@@ -42,6 +43,7 @@ a2 44.Rg1 a1=Q 45.Rxa1 Nb3+ 46.Kc3 Nxa1 47.Kb2 Rh1 48.Kc3 Ke5 49.c5 Rh2 50.Kc4 a
 [ACM 1974](ACM_1974 "ACM 1974"), round 3, Dart 4.1 - [Ostrich](Ostrich "Ostrich")
 
 ```
+
 [Event "ACM 1974"]
 [Site "San Diego USA"]
 [Date "1974.11.11"]

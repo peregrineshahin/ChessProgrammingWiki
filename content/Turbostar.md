@@ -35,6 +35,7 @@ The Kasparov Selected Openings 8 KiB ROM module featured many of Garry Kasparovâ
 
 
 ```
+
 [Event "Kasparov sim-32 (26)"]
 [Site "Hamburg"]
 [Date "1985.06.??"]
@@ -72,6 +73,7 @@ Three Turbostars played the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") in [Amsterdam]
 
 
 ```
+
 [Event "WMCCC 1985"]
 [Site "Amsterdam, The Netherlands"]
 [Date "1985.09.07"]

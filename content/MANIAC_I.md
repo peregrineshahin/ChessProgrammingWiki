@@ -83,6 +83,7 @@ MANIAC I played a game against a young lady who had learnt the game a week earli
 
 
 ```
+
 [Event "6x6 Los Alamos Chess"]
 [Site "Los Alamos"]
 [Date "1956.??.??"]

@@ -84,6 +84,7 @@ The difference is how they handle re-searches: PVS passes alpha/beta while NegaS
 
 
 ```C++
+
 value = PVS(-(alpha+1),-alpha)
 if(value > alpha && value < beta) {
   value = PVS(-beta,-alpha);
@@ -97,6 +98,7 @@ if(value > alpha && value < beta) {
 
 
 ```C++
+
 value = NegaScout(-(alpha+1),-alpha)
 if(value > alpha && value < beta && depth > 1) {
   value2 = NegaScout(-beta,-value)
@@ -146,6 +148,7 @@ This demonstrates PVS in a [fail-hard](Fail-Hard "Fail-Hard") framework, where a
 
 
 ```C++
+
 int pvSearch( int alpha, int beta, int depth ) {
    if( depth == 0 ) return quiesce( alpha, beta );
    bool bSearchPv = true;
@@ -187,6 +190,7 @@ Often, programmers split PVS inside a pure [PV-node](Node_Types#pv-node "Node Ty
 
 
 ```C++
+
 int pvSearch( int alpha, int beta, int depth ) {
    if( depth == 0 ) return quiesce(alpha, beta);
    bool bSearchPv = true;
@@ -250,6 +254,7 @@ A state of the art [fail-soft](Fail-Soft "Fail-Soft") PVS implementation, called
 
 
 ```C++
+
 Call from root:
    rootscore = PVS(-infinite, infinite, depthleft);
 

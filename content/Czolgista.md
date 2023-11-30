@@ -16,6 +16,7 @@ Czolgista exclusively uses [Multi-Cut](Multi-Cut "Multi-Cut") rather than [Null 
 [CCT5](CCT5 "CCT5"), round 6, Czolgista - [Alarm](Alarm "Alarm") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "CCT5"]
 [Site "Internet Chess Club"]
 [Date "2003.01.19"]

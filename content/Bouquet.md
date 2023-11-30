@@ -17,6 +17,7 @@ Bouquet 1.8 has a [parallel search](Parallel_Search "Parallel Search") which sup
 [TCEC Season 5, Stage 3](TCEC_Season_5#Stage3 "TCEC Season 5"), Bouquet 1.8b - [Stockfish 151013](Stockfish "Stockfish") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "TCEC - Stage 3 - Season 5"]
 [Site "http://www.tcec-chess.net"]
 [Date "2013.10.24"]

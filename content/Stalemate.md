@@ -18,6 +18,7 @@ Often there are tactical motives associated with so called [Desperados](https://
 At the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in Munich, round 8, [The King](The_King "The King") found an amazing drawing [combination](Combination "Combination") in the game against [Nimzo Guernica](Nimzo "Nimzo") due to the rook desperados, to either give [perpetual check](Check#Perpetual "Check") forcing a [threefold repetition](Repetitions "Repetitions"), or to stalemate <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
 ```
+
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.06"]
@@ -59,6 +60,7 @@ r7/8/4p2k/5bR1/3p3r/Np6/1P6/K7 w - - 2 61
 Almost 20 years later, at [TCEC Season 5, Stage 1](TCEC_Season_5#Stage1 "TCEC Season 5"), [Spark](Spark "Spark"), already with a huge winning score, became victim of a [Delphil's](Delphil "Delphil") desperado
 
 ```
+
 [Event "TCEC - Stage 1 - Season 5"]
 [Site "http://www.tcec-chess.net"]
 [Date "2013.09.02"]

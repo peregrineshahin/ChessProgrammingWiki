@@ -12,6 +12,7 @@ a chess program by [Ludwig Zagler](Ludwig_Zagler "Ludwig Zagler") from [Technica
 [WCCC 1977](WCCC_1977 "WCCC 1977"), round 4, [Bs6676](Bs6676 "Bs6676") vs. Elsa <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "2nd World Computer Chess Championship"]
 [Site "Toronto, Canada"]
 [Date "1977.08.09"]

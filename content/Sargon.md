@@ -43,6 +43,7 @@ After first tournament successes in 1978, at [The Second West Coast Computer Fai
 
 
 ```
+
 [Event "ACM 1978"]
 [Site "Washington USA"]
 [Date "1978.12.04"]
@@ -81,6 +82,7 @@ I think the most exciting part for us was the last round of the tournament, when
 
 
 ```
+
 [Event "ACM 1978"]
 [Site "Washington USA"]
 [Date "1978.12.05"]

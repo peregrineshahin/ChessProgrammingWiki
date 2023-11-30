@@ -29,6 +29,7 @@ At the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in Munich, round 8, [The King](The_
 
 
 ```
+
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.06"]
@@ -76,6 +77,7 @@ Almost 20 years later, at [TCEC Season 5, Stage 1](TCEC_Season_5#Stage1 "TCEC Se
 
 
 ```
+
 [Event "TCEC - Stage 1 - Season 5"]
 [Site "http://www.tcec-chess.net"]
 [Date "2013.09.02"]

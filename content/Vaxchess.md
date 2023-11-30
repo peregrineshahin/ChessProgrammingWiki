@@ -22,6 +22,7 @@ The game Vaxchess vs [Lachex](Lachex "Lachex"), round 3 <a id="cite-note-4" href
 
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.13"]
@@ -52,6 +53,7 @@ Kxf8 44.Rg5 Rxg5 45.hxg5 b6 46.g6 Ba6 47.a4 e5 48.dxe5 Bxe5 49.Ke3 Bc7 50.f3 Bc8
 
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]

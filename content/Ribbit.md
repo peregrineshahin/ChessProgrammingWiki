@@ -82,6 +82,7 @@ During the first decade of the [computer chess championship](ACM_North_American_
 
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.05"]
@@ -109,6 +110,7 @@ During the first decade of the [computer chess championship](ACM_North_American_
 
 
 ```
+
 [Event "ACM 1974"]
 [Site "San Diego, USA"]
 [Date "1974.11.12"]

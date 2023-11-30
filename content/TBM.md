@@ -23,6 +23,7 @@ Fill From Lowest Set Bit. [Union](General_Setwise_Operations#Union "General Setw
 
 
 ```C++
+
 BLSFILL reg64, reg/mem64
 dest ::= src | (src - 1);
 
@@ -52,6 +53,7 @@ Isolate Lowest Set Bit and Complement. [Union](General_Setwise_Operations#Union 
 
 
 ```C++
+
 BLSIC reg64, reg/mem64
 dest ::= ~src | (src - 1);
 
@@ -81,6 +83,7 @@ Mask From Trailing Zeros. [Intersection](General_Setwise_Operations#Intersection
 
 
 ```C++
+
 dest ::= ~src & (src - 1);
        src        ->       ~src        &     (src - 1)     =       dest
 0x0040201008040200  0x00402010080401FF  0x00402010080403FF  0x00000000000001FF
@@ -111,6 +114,7 @@ Fill From Lowest Clear Bit. [Intersection](General_Setwise_Operations#Intersecti
 
 
 ```C++
+
 BLCFILL reg64, reg/mem64
 dest ::= src & (src + 1);
 
@@ -140,6 +144,7 @@ Isolate Lowest Clear Bit. [Union](General_Setwise_Operations#Union "General Setw
 
 
 ```C++
+
 BLCI reg64, reg/mem64
 dest ::= src | ~(src + 1);
 
@@ -169,6 +174,7 @@ Isolate Lowest Clear Bit and Complement. [Intersection](General_Setwise_Operatio
 
 
 ```C++
+
 BLCIC reg64, reg/mem64
 dest ::= ~src & (src + 1);
 
@@ -198,6 +204,7 @@ Mask From Lowest Clear Bit. [Exclusive or](General_Setwise_Operations#ExclusiveO
 
 
 ```C++
+
 BLCMSK reg64, reg/mem64
 dest ::= src ^ (src + 1);
 
@@ -227,6 +234,7 @@ Set Lowest Clear Bit. [Union](General_Setwise_Operations#Union "General Setwise 
 
 
 ```C++
+
 BLCS reg64, reg/mem64
 dest ::= src | (src + 1);
 
@@ -256,6 +264,7 @@ Inverse Mask From Trailing Ones. [Union](General_Setwise_Operations#Union "Gener
 
 
 ```C++
+
 T1MSKC reg64, reg/mem64
 dest ::= ~src | (src + 1);
 
@@ -288,6 +297,7 @@ An immediate form of the variable [BMI1 Bit Field Extract](BMI1#BEXTR "BMI1").
 
 
 ```C++
+
 BEXTR reg32, reg/mem32, imm32
 BEXTR reg64, reg/mem64, imm32
 

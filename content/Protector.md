@@ -25,6 +25,7 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 ```
+
 [Event "WCCC 2015"]
 [Site "Leiden, The Netherlands"]
 [Date "2015.06.29"]
@@ -53,6 +54,7 @@ c5 32.f5 Qd6 33.h4 Qe5 34.Qc2 Bb7 35.Bg2 b4 36.cxb4 c3 37.bxc5 Qxc5 38.Kh3 Bc6
 
 
 ```
+
 [Event "WCSC 2015"]
 [Site "Leiden, The Netherlands"]
 [Date "2015.07.04"]

@@ -29,6 +29,7 @@ Kiwi played two over the board tournaments in 2005, it became runner-up at the [
 
 
 ```
+
 [Event "Chess Computer Cup"]
 [Site "Bologna"]
 [Date "2005.09.25"]

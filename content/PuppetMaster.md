@@ -38,6 +38,7 @@ PuppetMaster had its official tournament debut at the [CSVN 1st Open Internet To
 
 
 ```
+
 [Event "CSVN PT 46"]
 [Site "Leiden"]
 [Date "2014.05.18"]

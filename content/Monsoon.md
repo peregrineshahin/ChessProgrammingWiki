@@ -36,6 +36,7 @@ Monsoon played the [CCT3](CCT3 "CCT3"), [CCT4](CCT4 "CCT4") and [CCT5](CCT5 "CCT
 
 
 ```
+
 [Event "CCT4"]
 [Site "Internet Chess Club"]
 [Date "2002.01.26"]
@@ -64,6 +65,7 @@ Kh7 36.Rb4 Ra1 37.Be5 Rxa3 38.Bc3 Ra2 39.Bb2 a5 40.Rbb5 Qg4+ 41.Kf1 a4 42.Rc7 Qe
 
 
 ```
+
 [Event "CCT4"]
 [Site "Internet Chess Club"]
 [Date "2002.01.26"]

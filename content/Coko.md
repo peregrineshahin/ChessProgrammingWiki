@@ -65,6 +65,7 @@ During the [ACM 1971](ACM_1971 "ACM 1971"), Coko III offered a pawn versus [Geni
 Apparently due to a [bug](Engine_Testing#bugs "Engine Testing"), Coko III found other moves better than mate in one and threw the win ...
 
 ```
+
 [Event "ACM 1971"]
 [Site "Chicago"]
 [Date "1972.08.03"]

@@ -123,6 +123,7 @@ r3rnk1/ppp1qNp1/7p/2P1b3/3P1Q2/1B6/PP4PP/5RK1 w - - 0 22
 
 
 ```
+
 [Event "URS-ch"]
 [Site "Leningrad"]
 [Date "1960.??.??"]

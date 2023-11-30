@@ -56,6 +56,7 @@ DarkThought is a sophisticated alpha-beta searcher written in ANSI-C that uses P
 [WCCC 1995](WCCC_1995 "WCCC 1995") DarkThought team [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [Markus Gille](Markus_Gille "Markus Gille") and [Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch") playing [Virtua Chess](Virtua_Chess "Virtua Chess") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "WCCC 1995"]
 [Site "Shatin, Hong Kong - China"]
 [Date "1995.05.27"]
@@ -83,6 +84,7 @@ Kb4 56.Rd6 f5 57.Re6 Nd3 58.Rxg6 f4+ 59.Kh4 Nxb2 60.Rf6 Kc3 61.Rxf4 1-0
 [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") watching <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "12th AEGON Man-Mach"]
 [Site "The Hague NED"]
 [Date "1997.04.21"]

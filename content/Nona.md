@@ -42,6 +42,7 @@ Nona and [Ed Schröder's](Ed_Schroder "Ed Schroder") [Rebel](Rebel "Rebel") were
 
 
 ```
+
 [Event "DOCCC 1985"]
 [Site "Leiden NED"]
 [Date "1985.10.??"]
@@ -76,6 +77,7 @@ Ke7 58.Qxf2 Rd6  59.Qe2+ Re6 60.Qxe6+ Kxe6 61.a7 Kf5 62.a8=Q 1-0
 
 
 ```
+
 [Event "5th World Computer Chess Championship"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -113,6 +115,7 @@ Kxe7 26.Re1 Ke6 27.c4 Raf8 28.cxd5+ Bxd5 29.Nxd5 Kxd5 30.e6 Be7
 
 
 ```
+
 [Event "DOCCC 1985"]
 [Site "Leiden NED"]
 [Date "1986.10.??"]
@@ -142,6 +145,7 @@ Kxe7 26.Re1 Ke6 27.c4 Raf8 28.cxd5+ Bxd5 29.Nxd5 Kxd5 30.e6 Be7
 
 
 ```
+
 [Event "DOCCC 1987"]
 [Site "Leiden NED"]
 [Date "1987.10.??"]

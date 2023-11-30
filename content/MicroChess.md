@@ -66,6 +66,7 @@ The [point values](Point_Value "Point Value") for 16 pieces, king (11), queen (1
 
 
 ```C++
+
 POINTS     db  $0B, $0A, $06, $06, $04, $04, $04, $04
            db  $02, $02, $02, $02, $02, $02, $02, $02
 

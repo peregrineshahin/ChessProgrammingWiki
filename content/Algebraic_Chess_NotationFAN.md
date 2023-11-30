@@ -10,6 +10,7 @@ title: Algebraic Chess NotationFAN
 Chess programs need to convert the [list](Move_List "Move List") of [encoded moves](Encoding_Moves "Encoding Moves") into a sequence of printable strings, or to render them inside a [notation window](GUI#NotationWindow "GUI"). The move number of the game, starting by '1.' from the [initial position](Initial_Position "Initial Position"), is prefix of the white halfmove, followed by a the black reply, often in a second column of a grid view. If a move notation starts with Black, also after embedded comments or annotations, a trailing [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) is used instead of a single dot.
 
 ```C++
+
 <move> ::= <move number><move descriptor>
 <move number> ::= <digit>[<digit>...]{'.' | '...'}
 
@@ -22,6 +23,7 @@ Modern chess programs, and their [graphical user interface](GUI "GUI") often sup
 Considering the common From-To [move encoding](Encoding_Moves "Encoding Moves") inside a chess program, pure coordinate notation is a straight-forward chess notation to use only algebraic From- and To-coordinates. This notation omits any machine redundant piece letters for the moving and/or capturing pieces, and only has to specify the promoted piece as trailing [letter](https://en.wikipedia.org/wiki/Algebraic_chess_notation#Naming_the_pieces_in_various_languages) in case of [promotions](Promotions "Promotions").
 
 ```C++
+
 <move descriptor> ::= <from square><to square>[<promoted to>]
 <square>        ::= <file letter><rank number>
 <file letter>   ::= 'a'|'b'|'c'|'d'|'e'|'f'|'g'|'h'
@@ -56,6 +58,7 @@ The language independent [ICCF numeric notation](https://en.wikipedia.org/wiki/I
 The Smith notation designed by [Warren D. Smith](Warren_D._Smith "Warren D. Smith") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, as used in the [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") chess server, encodes moves with from-square, to-square, and to make it reversible, so it is as easy to go backwards in a game as forwards, what piece was captured, if any ('E' for [En passant](En_passant "En passant"), the redundant 'c' and 'C' indicate king- or queen side [castling](Castling "Castling")):
 
 ```C++
+
 <Smith move descriptor> ::= <from square><to square>[<capture indicator>][<promoted to>]
 <capture indicator> ::=  'p' | 'n' | 'b' | 'r' | 'q' | 'k' | 'E' | 'c' | 'C'
 
@@ -66,6 +69,7 @@ The Smith notation designed by [Warren D. Smith](Warren_D._Smith "Warren D. Smit
 Beside the already sufficient and unambiguous pure origin- and target-coordinates, LAN uses a leading redundant, national dependent uppercase [piece letter](https://en.wikipedia.org/wiki/Algebraic_chess_notation#Naming_the_pieces_in_various_languages) or figurine piece symbol of the moving piece usually other than a [pawn](Pawn "Pawn"), to represent the move, which makes it more [human readable](https://en.wikipedia.org/wiki/Human-readable_medium) and compatible with SAN and [desciptive notation](https://en.wikipedia.org/wiki/Descriptive_chess_notation). However, for chess programs using pure from-to move encoding, converting the move list to LAN already requires a board representation in sync with the leading moves already played, to lookup the piece on the board.
 
 ```C++
+
 <LAN move descriptor piece moves> ::= <Piece symbol><from square>['-'|'x']<to square>
 <LAN move descriptor pawn moves>  ::= <from square>['-'|'x']<to square>[<promoted to>]
 <Piece symbol> ::= 'N' | 'B' | 'R' | 'Q' | 'K'
@@ -91,6 +95,7 @@ Standard algebraic notation (SAN) is the official notation of the [FIDE](FIDE "F
 While otherwise similar to LAN, SAN suppresses redundant information concerning the from-square, while keeping the descriptive letter or symbol of pieces other than a pawn. SAN further suppresses the from-to hyphen, and in some variations also the capture indicator 'x' (or ':').
 
 ```C++
+
 <SAN move descriptor piece moves>   ::= <Piece symbol>[<from file>|<from rank>|<from square>]['x']<to square>
 <SAN move descriptor pawn captures> ::= <from file>[<from rank>] 'x' <to square>[<promoted to>]
 <SAN move descriptor pawn push>     ::= <to square>[<promoted to>]

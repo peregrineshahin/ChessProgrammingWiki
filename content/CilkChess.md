@@ -13,6 +13,7 @@ a massive [parallel](Parallel_Search "Parallel Search") chess program written in
 [WCCC 1999](WCCC_1999 "WCCC 1999"), round 7, [HIARCS](HIARCS "HIARCS") - CilkChess, [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes"), [Charles Leiserson](Charles_Leiserson "Charles Leiserson") (back of head), and [Don Dailey](Don_Dailey "Don Dailey") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.19"]

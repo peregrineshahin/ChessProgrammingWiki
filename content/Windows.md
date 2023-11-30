@@ -209,6 +209,7 @@ Windows programs are [event-driven](https://en.wikipedia.org/wiki/Event-driven_p
 
 
 ```C++
+
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
    WNDCLASS wc;
@@ -238,6 +239,7 @@ The callback or [Window procedure](http://msdn.microsoft.com/en-us/library/ms632
 
 
 ```C++
+
 LRESULT CALLBACK MyWndProc(
     HWND hwnd,        // handle to window
     UINT uMsg,        // message identifier
@@ -372,8 +374,6 @@ The document contains details about data representation, function calling conven
 
 ### 1995 ...
 
-
-* [hash mem in win-chess progs](https://groups.google.com/d/msg/rec.games.chess.computer/Taxgk4l-S90/ggkiWEVavYsJ) by [Pc Sol](Adrian_Millett "Adrian Millett"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 28, 1995 » [Transposition Table](Transposition_Table "Transposition Table")
 * [Win32 based "professional" chess software](http://groups.google.com/group/alt.chess.ics/browse_frm/thread/ce35d86e9dfde6ae) by Chris Smith, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 17, 1997
 * [What will be the position of Windows in 3, 4 years in the future?](https://www.stmintz.com/ccc/index.php?id=79963) by [Leonid](Leonid_Liberman "Leonid Liberman"), [CCC](CCC "CCC"), November 29, 1999
 

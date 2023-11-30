@@ -15,6 +15,7 @@ a private chess engine by [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") and as succe
 [ICT 2006](ICT_2006 "ICT 2006"), round 4, Argonaut - [Neurosis](Neurosis "Neurosis") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "ICT 2006"]
 [Site "Leiden, NED"]
 [Date "2006.05.06"]
@@ -37,6 +38,7 @@ a private chess engine by [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") and as succe
 [Volker Annuss](Volker_Annuss "Volker Annuss") and [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") in [Hermann](Hermann "Hermann") vs. Argonaut, [ICT 2006](ICT_2006 "ICT 2006") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "ICT 2006"]
 [Site "Leiden NED"]
 [Date "2006.05.07"]

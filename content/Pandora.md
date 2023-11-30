@@ -26,6 +26,7 @@ Pandora opened the box and played two times the [Hungarian Chessprogram Open](Hu
 
 
 ```
+
 [Event "MASPV 2001"]
 [Site "Sopron, Hungary"]
 [Date "2001.07.28"]
@@ -56,6 +57,7 @@ a1=Q 58.Kd3 Kf7 59.Ke3 Qe5+ 60.Kd2 Rg2+ 61.Kd3 Rg3+ 62.Kc2 Qe2+ 63.Kb1 Rg1#
 
 
 ```
+
 [Event "MASPV 2002"]
 [Site "Sopron, Hungary"]
 [Date "2002.04.20"]

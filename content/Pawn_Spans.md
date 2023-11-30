@@ -17,6 +17,7 @@ Front- and rearspans are the [front- and rearfills](Pawn_Fills "Pawn Fills") shi
 
 
 ```C++
+
 white frontspans    black rearspans
 1 1 1 . . 1 1 1     1 1 1 1 . 1 1 1
 1 1 1 . . 1 1 1     1 . 1 1 . . . 1
@@ -51,6 +52,7 @@ white rearspans     black frontspans
 
 
 ```C++
+
 U64 wFrontSpans(U64 wpawns) {return nortOne (nortFill(wpawns));}
 U64 bRearSpans (U64 bpawns) {return nortOne (nortFill(bpawns));}
 U64 bFrontSpans(U64 bpawns) {return soutOne (soutFill(bpawns));}
@@ -72,6 +74,7 @@ The intersection of white and black frontspans is called interspan. Obviously in
 
 
 ```C++
+
 white frontspan  &  black frontspan  =  interspan
 1 1 1 . . 1 1 1     . . . . . . . .     . . . . . . . .
 1 1 1 . . 1 1 1     . . . . . . . .     . . . . . . . .
@@ -97,6 +100,7 @@ white frontspan  &  black frontspan  =  interspan
 
 
 ```C++
+
 U64 wStop(U64 wpawns) {return nortOne (wpawns);}
 U64 bStop(U64 bpawns) {return soutOne (bpawns);}
 
@@ -108,6 +112,7 @@ Thus, the frontfills of the stop squares are the frontspans of the pawns:
 
 
 ```C++
+
 U64 wFrontSpan(U64 wpawns) {return nortFill(wStop(wpawns));}
 U64 bFrontSpan(U64 bpawns) {return soutFill(bStop(bpawns));}
 
@@ -119,6 +124,7 @@ Telestop squares all the squares of the frontspan, except the stop squares
 
 
 ```C++
+
 U64 wTeleStops(U64 wpawns) {return wFrontSpans(wStop(wpawns)) ^ wStop(wpawns);}
 U64 bTeleStops(U64 bpawns) {return bFrontSpans(bStop(bpawns)) ^ bStop(bpawns);}
 

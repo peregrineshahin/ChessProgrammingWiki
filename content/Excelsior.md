@@ -17,6 +17,7 @@ the C# version played the [IOPCCC 2007](IOPCCC_2007 "IOPCCC 2007").
 [IOPCCC 2007](IOPCCC_2007 "IOPCCC 2007"), round 3, Excelsior - [Atak](Atak "Atak")
 
 ```
+
 [Event "IOPCCC 2007"]
 [Site "Lodz POL"]
 [Date "2007.06.29"]

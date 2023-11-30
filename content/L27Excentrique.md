@@ -29,6 +29,7 @@ a chess program by [Claude Jarry](Claude_Jarry "Claude Jarry") running on [Amdah
 
 
 ```
+
 [Event "3rd World Computer Chess Championship"]
 [Site "Linz, Austria"]
 [Date "1980.09.25"]
@@ -54,6 +55,7 @@ Rhxd6 31.Rxd6 Rxd6 32.Kf2 Rd2+ 33.Ke3 Rxb2 34.Rd1 Rb3+ 35.Kf2 Be4 36.Rd8+ Kh7
 
 
 ```
+
 [Event "3rd World Computer Chess Championship"]
 [Site "Linz, Austria"]
 [Date "1980.09.27"]

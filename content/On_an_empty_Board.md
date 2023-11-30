@@ -23,6 +23,7 @@ Ray-Attacks may be conducted from Line-Attacks by intersection with "positive" a
 
 
 ```C++
+
  positiveRay[sq] = lineAttacks[sq] & (0 - 2*singleBit[sq]);
  negativeRay[sq] = lineAttacks[sq] & (singleBit[sq] - 1);
 
@@ -34,6 +35,7 @@ or with shifts instead of lookups
 
 
 ```C++
+
  positiveRay[sq] = lineAttacks[sq] & (C64(-2) << sq);
  negativeRay[sq] = lineAttacks[sq] & ((C64(1) << sq) - 1);
 
@@ -55,6 +57,7 @@ or with shifts instead of lookups
 
 
 ```C++
+
 East (+1)           Nort (+8)            NoEa (+9)           NoWe (+7)
 . . . . . . . .     . . . 1 . . . .      . . . . . . . 1     . . . . . . . .
 . . . . . . . .     . . . 1 . . . .      . . . . . . 1 .     1 . . . . . . .
@@ -76,6 +79,7 @@ North attacks are simple to initialize inside a loop, starting from a1, shifting
 
 
 ```C++
+
 U64 nort = C64(0x0101010101010100);
 for (int sq=0; sq < 64; sq++, nort <<= 1)
    rayAttacks[sq][Nort] = nort;
@@ -89,6 +93,7 @@ Similar, but tad trickier for [ranks](Ranks "Ranks") and [diagonals](Diagonals "
 
 
 ```C++
+
 U64 noea = C64(0x8040201008040200);
 for (int f=0; f < 8; f++, noea = eastOne(noea) {
    U64 ne = noea;
@@ -107,6 +112,7 @@ Orthogonal positive rays are quite cheap to calculate on the fly. For diagonal r
 
 
 ```C++
+
 U64 eastMaskEx(int sq) {
    const U64 one = 1;
    return 2*( (one << (sq|7)) - (one << sq) );
@@ -134,6 +140,7 @@ Remember [Square Mapping Considerations](Square_Mapping_Considerations "Square M
 
 
 ```C++
+
 West (-1)           Sout (-8)            SoWe (-9)           SoEa (-7)
 . . . . . . . .     . . . . . . . .      . . . . . . . .     . . . . . . . .
 . . . . . . . .     . . . . . . . .      . . . . . . . .     . . . . . . . .
@@ -155,6 +162,7 @@ South attacks are simple to initialize inside a loop, starting from h8, shifting
 
 
 ```C++
+
 U64 sout = C64(0x0080808080808080);
 for (int sq=63; sq >= 0; sq--, sout >>= 1)
    rayAttacks[sq][Sout] = sout;
@@ -174,6 +182,7 @@ Orthogonal negative rays are quite cheap to calculate on the fly. For diagonal r
 
 
 ```C++
+
 U64 westMaskEx(int sq) {
    const U64 one = 1;
    return (one << sq) - (one << (sq&56));
@@ -194,6 +203,7 @@ U64 soutMaskEx(int sq) {
 
 
 ```C++
+
  RankAttacks[sq]         = EastAttacks[sq] | WestAttacks[sq];
  FileAttacks[sq]         = NortAttacks[sq] | SoutAttacks[sq];
  DiagonalAttacks[sq]     = NoEaAttacks[sq] | SoWeAttacks[sq];
@@ -206,6 +216,7 @@ U64 soutMaskEx(int sq) {
 
 
 ```C++
+
 Rank                File                 Diagonal            Anti-Diagonal
 . . . . . . . .     . . . 1 . . . .      . . . . . . . 1     . . . . . . . .
 . . . . . . . .     . . . 1 . . . .      . . . . . . 1 .     1 . . . . . . .
@@ -227,6 +238,7 @@ To calculate line masks for [ranks](Ranks "Ranks"), [files](Files "Files"), [dia
 
 
 ```C++
+
 U64 rankMask(int sq) {return  C64(0xff) << (sq & 56);}
 
 U64 fileMask(int sq) {return C64(0x0101010101010101) << (sq & 7);}
@@ -255,6 +267,7 @@ The [generalized shift](General_Setwise_Operations#GeneralizedShift "General Set
 
 
 ```C++
+
 U64 diagonalMask(int sq) {
    const U64( maindia = C64(0x8040201008040201);
    int diag  = (sq&7) - (sq>>3);
@@ -275,6 +288,7 @@ Excluding the square bit:
 
 
 ```C++
+
 U64 rankMaskEx    (int sq) {return (C64(1) << sq) ^ rankMask(sq);}
 U64 fileMaskEx    (int sq) {return (C64(1) << sq) ^ fileMask(sq);}
 U64 diagonalMaskEx(int sq) {return (C64(1) << sq) ^ diagonalMask(sq);}
@@ -291,6 +305,7 @@ U64 antiDiagMaskEx(int sq) {return (C64(1) << sq) ^ antiDiagMask(sq);}
 
 
 ```C++
+
 RookAttacks[sq]   = RankAttacks[sq]     | FileAttacks[sq];
 BishopAttacks[sq] = DiagonalAttacks[sq] | AntiDiagonalAttacks[sq];
 QueenAttacks[sq]  = RookAttacks[sq] | BishopAttacks[sq];
@@ -302,6 +317,7 @@ QueenAttacks[sq]  = RookAttacks[sq] | BishopAttacks[sq];
 
 
 ```C++
+
                                    Queen
                                . . . 1 . . . 1
                                1 . . 1 . . 1 .
@@ -323,6 +339,7 @@ QueenAttacks[sq]  = RookAttacks[sq] | BishopAttacks[sq];
 
 
 ```C++
+
 U64 rookMask    (int sq) {return rankMask(sq)     | fileMask(sq);}
 U64 bishopMask  (int sq) {return diagonalMask(sq) | antiDiagMask(sq);}
 

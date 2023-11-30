@@ -21,6 +21,7 @@ CAPTURE is a "classical" chess program. It uses [alpha-beta search](Alpha-Beta "
 [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), round 2, [Chess Tiger](Chess_Tiger "Chess Tiger") - Capture <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "WMCCC 1997"]
 [Site "Paris, France"]
 [Date "1997.10.27"]

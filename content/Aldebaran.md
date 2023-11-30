@@ -15,6 +15,7 @@ Aldebaran played the [CIPS 2001](CIPS_2001 "CIPS 2001") and [CIPS 2002](CIPS_200
 [CIPS 2002](CIPS_2002 "CIPS 2002"), round 2, [Golem](Golem "Golem") - Aldebaran
 
 ```
+
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.01"]

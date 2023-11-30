@@ -19,6 +19,7 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:
 
 
 ```
+
 [Event "Chess Computer Cup 2008"]
 [Site "Turin"]
 [Date "2008.12.06"]

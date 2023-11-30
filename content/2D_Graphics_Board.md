@@ -8,11 +8,8 @@ title: 2D Graphics Board
 
 a [2D graphics](https://en.wikipedia.org/wiki/2D_computer_graphics) image of a [chessboard](Chessboard "Chessboard") and the [pieces](Pieces "Pieces") of a [chess position](Chess_Position "Chess Position") on a [computer display](https://en.wikipedia.org/wiki/Computer_monitor), either [fullscreen](https://en.wikipedia.org/wiki/Fullscreen) or [board window](GUI#BoardWindow "GUI") of a chess [GUI](GUI "GUI"), or [printer](https://en.wikipedia.org/wiki/Printer_%28computing%29), similar to a [chess diagram](index.php?title=Chess_Diagrams&action=edit&redlink=1 "Chess Diagrams (page does not exist)") in print media. A 2D board window should be [isotropic](https://en.wikipedia.org/wiki/Isotropy) and quadratic, with all squares of same size.
 
-## Screenshots
-
 ## [GNU Chess](GNU_Chess "GNU Chess")
 
-\[
 [GNU Chess](GNU_Chess "GNU Chess") on [XBoard](XBoard "XBoard") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ## [MChess](MChess "MChess")
@@ -25,16 +22,17 @@ a [2D graphics](https://en.wikipedia.org/wiki/2D_computer_graphics) image of a [
 [](File:IsiChess.jpg)
 [IsiChess](IsiChess "IsiChess") 2D board with [vector graphics](https://en.wikipedia.org/wiki/Vector_graphics)
 
-## Drawing Pieces
-
 ## 2D Vector Graphics
+<table class="wikitable">
 
-|  |  |
-| --- | --- |
-| [IsiKnight.JPG](File:IsiKnight.JPG) |  The [C++](Cpp "Cpp") code is based on the [Windows](Windows "Windows") [Microsoft Foundation Class Library](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library), a class extension of the [Device Context](https://en.wikipedia.org/wiki/Graphics_Device_Interface#Technical_details) of the [Graphics Device Interface](https://en.wikipedia.org/wiki/Graphics_Device_Interface) <a id="cite-note-6" href="#cite-ref-6">[6]</a> , in conjunction with "handmade" [polygons](https://en.wikipedia.org/wiki/Polygon) with coordinates in a x- and y-range of ±16 (positive values right and down), is used in [IsiChess](IsiChess "IsiChess") to apply [vector graphics](https://en.wikipedia.org/wiki/Vector_graphics) to draw the [pieces](Pieces "Pieces") in the [board window](GUI#BoardWindow "GUI") or as [figurine notation](Algebraic_Chess_Notation#FAN "Algebraic Chess Notation"). For each piece an array of connected lines is declared, the first one a closed polygon, which is filled by the piece color <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
-|
+<tbody><tr>
+<td>  <div class="floatnone"><a href="/File:IsiKnight.JPG" class="image"><img alt="IsiKnight.JPG" src="/images/8/86/IsiKnight.JPG" width="103" height="101" style="vertical-align: text-bottom" class="thumbborder"></a></div>
+</td>
+<td>  The <a href="/Cpp" title="Cpp">C++</a> code is based on the <a href="/Windows" title="Windows">Windows</a> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library">Microsoft Foundation Class Library</a>, a class extension of the <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Graphics_Device_Interface#Technical_details">Device Context</a> of the <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Graphics_Device_Interface">Graphics Device Interface</a> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> , in conjunction with "handmade" <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Polygon">polygons</a> with coordinates in a x- and y-range of ±16 (positive values right and down), is used in <a href="/IsiChess" title="IsiChess">IsiChess</a> to apply <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Vector_graphics">vector graphics</a> to draw the <a href="/Pieces" title="Pieces">pieces</a> in the <a href="/GUI#BoardWindow" title="GUI">board window</a> or as <a href="/Algebraic_Chess_Notation#FAN" title="Algebraic Chess Notation">figurine notation</a>. For each piece an array of connected lines is declared, the first one a closed polygon, which is filled by the piece color <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>&nbsp;:
+</td></tr></tbody></table>
 
 ```C++
+
 /* Piece Coordinates */
 static POINT KnightPoint0[] = {
    { 10, 12},{ 11,  2},{ 10, -3},{  8, -6},
@@ -131,37 +129,183 @@ A more common way is to display pieces in form of [bitmaps](https://en.wikipedia
 
 An alternative technique for [drawing pieces](Pieces#Unicode "Pieces") is the use of [Symbols](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode#Chessboard_using_Unicode_symbols) in [Unicode](https://en.wikipedia.org/wiki/Unicode) as scalable [TrueType](https://en.wikipedia.org/wiki/TrueType)[fonts](https://en.wikipedia.org/wiki/Font) <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  8
-| ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
-|  7
-| ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
-|  6
-|  |  |  |  |  |  |  |  |
-|  5
-|  |  |  |  |  |  |  |  |
-|  4
-|  |  |  |  |  |  |  |  |
-|  3
-|  |  |  |  |  |  |  |  |
-|  2
-| ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
-|  1
-| ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
-|  |  a
-|  b
-|  c
-|  d
-|  e
-|  f
-|  g
-|  h
-|
+<table style="text-align:center;border-spacing:0pt;font-family:'Arial Unicode MS'; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 0pt">
+
+<tbody><tr>
+<td style="width:12pt"> 8
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 1pt"> <span style="font-size:150%;">♜</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♞</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 0pt"> <span style="font-size:150%;">♝</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♛</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 0pt"> <span style="font-size:150%;">♚</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♝</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 0pt 0pt 0pt"> <span style="font-size:150%;">♞</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 1pt 1pt 0pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♜</span>
+</td></tr>
+<tr>
+<td style="width:12pt"> 7
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 1pt" bgcolor="silver"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt;"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt;"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt;"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver"> <span style="font-size:150%;">♟</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 0pt 0pt"> <span style="font-size:150%;">♟</span>
+</td></tr>
+<tr>
+<td style="width:12pt"> 6
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 1pt"> <span style="font-size:150%;"><br></span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 0pt 0pt" bgcolor="silver">
+</td></tr>
+<tr>
+<td style="width:12pt"> 5
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 1pt" bgcolor="silver"> <span style="font-size:150%;"><br></span>
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 0pt 0pt">
+</td></tr>
+<tr>
+<td style="width:12pt"> 4
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 1pt"> <span style="font-size:150%;"><br></span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 0pt 0pt" bgcolor="silver">
+</td></tr>
+<tr>
+<td style="width:12pt"> 3
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 1pt" bgcolor="silver"> <span style="font-size:150%;"><br></span>
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt;">
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver">
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 0pt 0pt">
+</td></tr>
+<tr>
+<td style="width:12pt"> 2
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 0pt 1pt"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt;"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt;"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt;" bgcolor="silver"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt;"> <span style="font-size:150%;">♙</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 0pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♙</span>
+</td></tr>
+<tr>
+<td style="width:12pt"> 1
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 1pt" bgcolor="silver"> <span style="font-size:150%;">♖</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 0pt"> <span style="font-size:150%;">♘</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♗</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 0pt"> <span style="font-size:150%;">♕</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♔</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 0pt"> <span style="font-size:150%;">♗</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 0pt 1pt 0pt" bgcolor="silver"> <span style="font-size:150%;">♘</span>
+</td>
+<td style="width:24pt; height:24pt; border-collapse:collapse; border-color: black; border-style: solid; border-width: 0pt 1pt 1pt 0pt"> <span style="font-size:150%;">♖</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td> a
+</td>
+<td> b
+</td>
+<td> c
+</td>
+<td> d
+</td>
+<td> e
+</td>
+<td> f
+</td>
+<td> g
+</td>
+<td> h
+</td></tr></tbody></table>
 
 ## See also
 
-- [3D Graphics Board](3D_Graphics_Board "3D Graphics Board")
+-  
 - [GPU](GPU "GPU")
 - [Pieces](Pieces "Pieces")
 

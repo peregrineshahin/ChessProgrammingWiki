@@ -15,6 +15,7 @@ Current [ICGA](ICGA "ICGA")-President and [International Master](https://en.wiki
 
 
 ```
+
 [Event "Canadian National Exhibition, Levy-Chess 4.7 Match"]
 [Site "Toronto"]
 [Date "1978.08.26"]
@@ -40,6 +41,7 @@ Kh5 64.Be1 1/2-1/2
 
 
 ```
+
 [Event "Canadian National Exhibition, Levy-Chess 4.7 Match"]
 [Site "Toronto"]
 [Date "1978.??.??"]
@@ -62,6 +64,7 @@ Bxd1 20.Kxd1 Be3 21.b3 Bxd2 22.Kxd2 Rbc8 23.Qa4 Qf2+ 24.Kd3 Qxg2 25.Qd4 Qf3+ 26.
 
 
 ```
+
 [Event "Canadian National Exhibition, Levy-Chess 4.7 Match"]
 [Site "Toronto"]
 [Date "1978.??.??"]
@@ -84,6 +87,7 @@ Qxb3 20.Nxb3 f5 21.Bc5 Bd6 22.Rb2 Kh8 23.Rab1 a6 24.Bxd6 cxd6 25.Nd2 f4 26.Kg2 f
 
 
 ```
+
 [Event "Canadian National Exhibition, Levy-Chess 4.7 Match"]
 [Site "Toronto"]
 [Date "1978.??.??"]
@@ -108,6 +112,7 @@ Ra4+ 54.Kh5 Rd4 55.Rc7 Be7
 
 
 ```
+
 [Event "Canadian National Exhibition, Levy-Chess 4.7 Match"]
 [Site "Toronto"]
 [Date "1978.??.??"]
@@ -143,6 +148,7 @@ David Levy and [Chess 4.8](Chess_(Program) "Chess (Program)") finally shake hand
 
 
 ```
+
 [Event "ZDF"]
 [Site "Hamburg"]
 [Date "1979.02.07"]

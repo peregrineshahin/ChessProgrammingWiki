@@ -60,6 +60,7 @@ On the day of the tournament panic occurred. The terminals from Texas Instrument
 
 
 ```
+
 [Event "ACM 1982"]
 [Site "Dallas USA"]
 [Date "1982.10.26"]
@@ -85,6 +86,7 @@ gxh4 26.Bxh8 hxg3+ 27.Kxg3 Rxh8 28.Qd4 Rg8+ 29.Kh2 Qg4 0-1
 
 
 ```
+
 [Event "WCCC 1983"]
 [Site "New York, USA"]
 [Date "1983.10.22"]

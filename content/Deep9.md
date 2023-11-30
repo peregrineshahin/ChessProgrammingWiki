@@ -19,6 +19,7 @@ Only after evidence of cloning was presented, Denis Grafen admitted Deep\<9> was
 [CSS](Computerschach_und_Spiele "Computerschach und Spiele") Online-Masters 2002/2003, round 1, [Fritz 8](Fritz "Fritz") ([Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes")) - Deep\<9> ([Denis Grafen](Denis_Grafen "Denis Grafen")) <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
+
 [Event "CSS Online Masters"]
 [Site "CSS"]
 [Date "2002.12.07"]

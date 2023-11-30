@@ -17,6 +17,7 @@ Betsabe was initially based on [Dieter Steinwender's](Dieter_Steinwender "Dieter
 Betsabe II maintains a [10x12 board](10x12_Board "10x12 Board") as internal [board representation](Board_Representation "Board Representation") and to [generate moves](Move_Generation "Move Generation"). Definition of (part of) the [initial position](Initial_Position "Initial Position") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
+
 const int Tablero_Inicio[120] =  {
 FUERA, FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA, FUERA,
 FUERA, FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA, FUERA,
@@ -46,6 +47,7 @@ The [evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluation "Lazy 
 [SCCC 1999](SCCC_1999 "SCCC 1999"), round 7, Betsabe - [Genesis](Genesis_AR "Genesis AR") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "SCCC 1999"]
 [Site "Parets del Valles"]
 [Date "29.12.99"]

@@ -82,6 +82,7 @@ Rodent II 0.8.7 x64 vs. [Gaviota 1.0 AVX x64](Gaviota "Gaviota"), March 11, 1016
 
 
 ```
+
 [Event "40/10"]
 [Site "rodentII_087-x64, FCP-3"]
 [Date "2016.03.11"]

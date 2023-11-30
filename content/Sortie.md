@@ -21,6 +21,7 @@ a chess program by [Stephen F. Becker](Stephen_F._Becker "Stephen F. Becker") fr
 
 
 ```
+
 [Event "ACM 1975"]
 [Site "Minneapolis, MN"]
 [Date "1975.10.19"]

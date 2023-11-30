@@ -12,6 +12,7 @@ a common way of implementing [minimax](Minimax "Minimax") and derived algorithms
 
 
 ```C++
+
 max(a, b) == -min(-a, -b)
 
 ```

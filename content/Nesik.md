@@ -19,6 +19,7 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Marek Strejczek](Ma
 
 
 ```
+
 [Event "IOPCCC 2007"]
 [Site "Lodz POL"]
 [Date "2007.07.01"]

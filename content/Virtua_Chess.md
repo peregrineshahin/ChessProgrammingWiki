@@ -32,6 +32,7 @@ VirtuaChess is the commercial version of the [Écume](%C3%89cume "Écume") and [
 
 
 ```
+
 [Event "Aegon 1995"]
 [Site "The Hague"]
 [Date "1995.05.01"]

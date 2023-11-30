@@ -24,6 +24,7 @@ Slightly modified pseudo code in [C](C "C"):
 
 
 ```C++
+
 int mtdf(int f, int depth) {
    int bound[2] = {-oo, +oo}; // lower, upper
    do {

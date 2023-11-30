@@ -1542,6 +1542,7 @@ The Season 8 Superfinal between [Stockfish 021115](Stockfish "Stockfish") and [K
 
 
 ```
+
 [Event "TCEC Season 8 - Stage 1b"]
 [Site "http://tcec.chessdom.com"]
 [Date "2015.09.06"]
@@ -1577,6 +1578,7 @@ Ke5 99.Rg7 Ke6 100.Ka2 Rf3 101.Rb7 0-1
 
 
 ```
+
 [Event "TCEC Season 8 - Superfinal"]
 [Site "http://tcec.chessdom.com"]
 [Date "2015.11.11"]

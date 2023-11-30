@@ -15,6 +15,7 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 HeavyChess is a [bitboard](Bitboards "Bitboards") engine and uses compact [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). It performs eight [byte lookups](Population_Count#Lookup "Population Count") to [count populations](Population_Count "Population Count"), and [bitscan](BitScan "BitScan") by conditional 64k lookups, where the most significant bit on the chess board maps the least significant arithmetical one <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
+
 // Devuelve el Most Significant Bit de un Bitboard
 inline Casilla Bitboards::MSB(const Bitboard &b) {
    if (b&65535) return static_cast<Casilla>(TablaMSB[b&65535]);

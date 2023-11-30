@@ -14,6 +14,7 @@ Those bitboards may part of a central position object which is [incrementally up
 *To be aware of their scalar 64-bit origin, we use so far a type defined unsigned integer U64 in our [C](C "C")/[C++](Cpp "Cpp") source snippets, the scalar 64-bit long in [Java](Java "Java"). Feel free to define a distinct type or wrap U64 into classes for better abstraction and type-safety during compile time.*
 
 ```C++
+
 class CBoard
 {
    U64 whitePawns;
@@ -39,6 +40,7 @@ class CBoard
 For better generalization and to [avoid branches](Avoiding_Branches "Avoiding Branches"), one may encapsulate [arrays](Array "Array") of bitboards. For instance, inside the [Beowulf](Beowulf "Beowulf") sources (sample from moves.c) one finds a lot of branches on [side to move](Side_to_move "Side to move") to either fetch white or black piece bitboards, as already criticized by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") in 2001 <a id="cite-note-2" href="#cite-ref-2">[2]</a> ...
 
 ```C++
+
   switch (side) {
    case WHITE: tsq = B->whiteRooks; break;
    case BLACK: tsq = B->blackRooks; break;
@@ -49,6 +51,7 @@ For better generalization and to [avoid branches](Avoiding_Branches "Avoiding Br
 .. where an indexed access with appropriate defined {0,1} color range for the side to move would avoid those branches, per piece-kind, ...
 
 ```C++
+
   tsq = B->rooks[side];
 
 ```
@@ -56,6 +59,7 @@ For better generalization and to [avoid branches](Avoiding_Branches "Avoiding Br
 ... or over all piece-kinds, ...
 
 ```C++
+
   tsq = B->pieceBB[nWhiteRook + side];
 
 ```
@@ -63,6 +67,7 @@ For better generalization and to [avoid branches](Avoiding_Branches "Avoiding Br
 ... for instance, on [x86](X86 "X86") or [x86-64](X86-64 "X86-64"), utilizing its [addressing modes](https://en.wikipedia.org/wiki/X86#Addressing_modes) with base- and scalable [index register](https://en.wikipedia.org/wiki/Index_register), plus displacement:
 
 ```C++
+
    ; rsi pointer to structure, rcx side (0 == White, 1 == Black)
    mov  rax, qword ptr [rsi + rookOffset + 8*rcx] 
 
@@ -71,6 +76,7 @@ For better generalization and to [avoid branches](Avoiding_Branches "Avoiding Br
 Likely one also keeps some often used redundant [union](General_Setwise_Operations#Union "General Setwise Operations") sets like white and black pieces, [occupancy](Occupancy "Occupancy") or their complement, the empty squares.
 
 ```C++
+
 class CBoard
 {
    U64 pieceBB[14];
@@ -103,6 +109,7 @@ On initialization and update of the bitboards, see [general setwise operations](
 A common alternative to reduce the size of the board structure is to keep two color bitboards and six color independent piece bitboards, which are the [union](General_Setwise_Operations#Union "General Setwise Operations") of black and white respective pieces, i.e. all queens. This space saving requires a cheap [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") of a color and a piece bitboard to get the required pieces of that color only.
 
 ```C++
+
 class CBoard
 {
    U64 pieceBB[8];

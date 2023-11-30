@@ -23,6 +23,7 @@ Peter represented and operated Crafty at three consecutive [World Computer Chess
 
 
 ```
+
 [Event "WCCC 2005"]
 [Site "Reykjavík, Iceland"]
 [Date "2005.08.14"]
@@ -50,6 +51,7 @@ Rb8 34.Qc3 Qxa4 35.Rb1 Rxb1 36.Rxb1 Qd7 37.Ra1 Qd6 38.g3 Qd7 39.Bc1 Qxf5 40.Kg2 
 
 
 ```
+
 [Event "WCCC 2005"]
 [Site "Reykjavík, Iceland"]
 [Date "2005.08.18"]
@@ -77,6 +79,7 @@ Peter, [Anthony](Anthony_Cozzie "Anthony Cozzie") and [Erdo](Erdogan_G%C3%BCnes 
 
 
 ```
+
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.06.01"]

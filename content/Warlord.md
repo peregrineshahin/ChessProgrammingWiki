@@ -22,6 +22,7 @@ Warlord Beta V1 played the [CCT4](CCT4 "CCT4") with respectable 5/11.
 
 
 ```
+
 [Event "CCT4"]
 [Site "Internet Chess Club"]
 [Date "2002.01.27"]

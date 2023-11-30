@@ -23,6 +23,7 @@ It is the successor of the weaker [Szeregowiec](Szeregowiec "Szeregowiec"), and 
 
 
 ```
+
 [Event "5th PCCC 2006"]
 [Site "Lodz"]
 [Date "2006.09.16"]
@@ -67,6 +68,7 @@ To compare the quality of move ordering, a [beta-cutoff](Beta-Cutoff "Beta-Cutof
 
 
 ```C++
+
 int alphabeta (ply, depth, alpha, beta) {
   for (a = 1; a <= NMoves; a++) {
      make ();

@@ -27,6 +27,7 @@ Delfi won all the six [Campionato Italiano per Programmi Scacchistici (CIPS)](It
 [Marco Pagnoncelli](Marco_Pagnoncelli "Marco Pagnoncelli") and [Fabio Cavicchio](Fabio_Cavicchio "Fabio Cavicchio") in [CyberPagno](CyberPagno "CyberPagno") vs Delfi, [CIPS 2002](CIPS_2002 "CIPS 2002") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.01"]
@@ -61,6 +62,7 @@ Rd2+ 100.Kc1 Be3 101.Bd3 Rg2+ 102.Kd1 Rg1+ 103.Kc2 Rxh1 104.Kb3 Re1 105.Kc4 h1=Q
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 4, Delfi - [Ikarus](Ikarus "Ikarus") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, [Munjong Kolss](Munjong_Kolss "Munjong Kolss") (back), [Fabio Cavicchio](Fabio_Cavicchio "Fabio Cavicchio") and [Alex Brunetti](Alex_Brunetti "Alex Brunetti")
 
 ```
+
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.27"]
@@ -88,6 +90,7 @@ Qe8 54.Rf3 Rf7 55.Kg1 Rfe7 56.Kf1 Qf7 57.Rfh3 Qe8 58.Rh5 Rc7 59.Kg1 Rcd7 60.Kh1 
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 6, [IsiChess](IsiChess "IsiChess") - Delfi <a id="cite-note-7" href="#cite-ref-7">[7]</a>, [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") and [Alex Brunetti](Alex_Brunetti "Alex Brunetti") operating Delfi
 
 ```
+
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.29"]

@@ -21,6 +21,7 @@ Mauro Riccardi is in the process to find the right balance of [passed pawn](Pass
 [CCC 2009](CCC_2009 "CCC 2009"), round 2, Chexa - [BremboCE](BremboCE "BremboCE")
 
 ```
+
 [Event "Computer Chess Cup 4"]
 [Site "Carugate"]
 [Date "2009.11.07"]
@@ -48,6 +49,7 @@ fxe6 71.Rg7+ Kh6 72.Rxg8 Rd4 73.Bxd4 Ra2+ 74.Kg3 Rxa6 75.Rxa6 Kh7 76.Rg7+ Kh6 77
 [CCT15](CCT15 "CCT15"), round 4, [ProChess](ProChess_IT "ProChess IT") - Chexa
 
 ```
+
 [Event "CCT15"]
 [Site "Variant-ICS, Amsterdam, NL"]
 [Date "2013.02.23"]

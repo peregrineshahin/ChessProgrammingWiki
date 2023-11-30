@@ -14,6 +14,7 @@ title: Beal
 [WCCC 1974](WCCC_1974 "WCCC 1974"), round 2, [Ostrich](Ostrich "Ostrich") - Beal <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.06"]
@@ -33,6 +34,7 @@ title: Beal
 [WCCC 1974](WCCC_1974 "WCCC 1974"), round 3, Beal - [A16chs](A16chs "A16chs") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.07"]

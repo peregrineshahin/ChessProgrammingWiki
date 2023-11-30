@@ -20,6 +20,7 @@ CXG Sphinx 40 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 [WMCCC 1987](WMCCC_1987 "WMCCC 1987"), round 6, Newcrest Technology Sphinx C - [Mephisto Roma A](Mephisto "Mephisto") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "WMCCC 1987 (Manufacturers)"]
 [Site "Rome, Italy"]
 [Date "1987.09.19"]

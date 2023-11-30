@@ -21,6 +21,7 @@ So far, Buzz played the first three [ACCA Americas' Computer Chess Championships
 Buzz - [Tinker](Tinker "Tinker") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "ACCA 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.11.09"]

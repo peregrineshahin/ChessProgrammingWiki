@@ -13,6 +13,7 @@ In a sequential [command line interface](CLI "CLI") the chess program prompts fo
 The user has to type in his move according to the syntax or [notation](Game_Notation "Game Notation") the program or GUI understands, most common [pure algebraic coordinate notation](Algebraic_Chess_Notation#PureCoordinateNotation "Algebraic Chess Notation") as used in the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and the [Universal Chess Interface](UCI "UCI"), that is:
 
 ```C++
+
 <move notation> ::= <from square><to square>[<promoted to>]
 <square>        ::= <file letter><rank number>
 <file letter>   ::= 'a'|'b'|'c'|'d'|'e'|'f'|'g'|'h'

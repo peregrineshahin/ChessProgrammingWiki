@@ -27,6 +27,7 @@ This paper introduces the idea of pre-searching a position — searching it befo
 
 
 ```C++
+
 // Assumptions:
 // * search depth counts down to 0 (leaf node)
 // * IDDepth is the iterative deepening search depth

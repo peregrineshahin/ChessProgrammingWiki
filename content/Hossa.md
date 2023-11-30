@@ -18,6 +18,7 @@ Hossa played the eight first [CCT Tournaments](CCT_Tournaments "CCT Tournaments"
 [WCCC 2003](WCCC_2003 "WCCC 2003"), Round 4, [ParSOS](ParSOS "ParSOS") - Hossa <a id="cite-note-6" href="#cite-ref-6">[6]</a>, [Rudolf Huber](Rudolf_Huber "Rudolf Huber") and [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "[WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.24"]
@@ -40,6 +41,7 @@ Hossa played the eight first [CCT Tournaments](CCT_Tournaments "CCT Tournaments"
 [WCCC 2003](WCCC_2003 "WCCC 2003"), Round 5, Hossa - [Ruy Lopez](Ruy_Lopez "Ruy Lopez") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "[WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.25"]

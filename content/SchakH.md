@@ -19,6 +19,7 @@ an early chess program by [Hans](index.php?title=Hans_van_der_Liet&action=edit&r
 
 
 ```
+
 [Event "DCCC 1981"]
 [Site "Utrecht NED"]
 [Date "1981.09.25"]

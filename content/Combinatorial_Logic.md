@@ -268,6 +268,7 @@ Assuming there are 13 times 64 digital inputs from a hardware wired [chessboard]
 With [C](C "C")-like operators, that is '&' for AND and '|' for OR, the DNF would look like this:
 
 ```C++
+
 southAttackByWhiteRook(a8) ::=
     wrook(a7)
 | ( empty(a7) & wrook(a6) )
@@ -284,6 +285,7 @@ southAttackByWhiteRook(a8) ::=
 The same sample as circuit f. i. in [Diode logic](https://en.wikipedia.org/wiki/Diode_logic) with 34 [diodes](https://en.wikipedia.org/wiki/Diode) and 7 [resistors](https://en.wikipedia.org/wiki/Resistor):
 
 ```C++
+
  Board bus
  empty                    white rook                    
  a1 a2 a3 a4 a5 a6 a7 a8  a1 a2 a3 a4 a5 a6 a7 a8      ANDs (MIN)         OR (MAX)

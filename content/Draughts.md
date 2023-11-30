@@ -125,7 +125,6 @@ The starting position of international draughts has 20 men each placed on its ho
 - [Dam](http://hjetten.home.xs4all.nl/dameng.html) by [Harm Jetten](index.php?title=Harm_Jetten&action=edit&redlink=1 "Harm Jetten (page does not exist)")
 - [Damage](http://members.chello.nl/h.tuyt/) by [Bert Tuyt](index.php?title=Bert_Tuyt&action=edit&redlink=1 "Bert Tuyt (page does not exist)")
 - [Dragon draughts](http://mdgsoft.home.xs4all.nl/draughts/) by [Michel Grimminck](index.php?title=Michel_Grimminck&action=edit&redlink=1 "Michel Grimminck (page does not exist)")
-- [Dynamo Draughts](http://pcsol-sage.tripod.com/pages/dynamo.htm) by [Adrian Millett](Adrian_Millett "Adrian Millett")
 - [Kingsrow International](http://edgilbert.org/InternationalDraughts/kingsrow_international.htm) by [Ed Gilbert](index.php?title=Ed_Gilbert&action=edit&redlink=1 "Ed Gilbert (page does not exist)")
 - [Maximus](https://jhorssen.home.xs4all.nl/Maximus/index.htm) by [Jan-Jaap van Horssen](Jan-Jaap_van_Horssen "Jan-Jaap van Horssen")
 

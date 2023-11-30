@@ -15,6 +15,7 @@ Along with [David E. Welsh](David_E._Welsh "David E. Welsh"), Boris Baczynskyj c
 On [Fidelity X's](Fidelity "Fidelity") 3...e5 in round 1 of the [ACM 1984](ACM_1984 "ACM 1984") versus [Cray Blitz](Cray_Blitz "Cray Blitz") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, its [book author](Category:Opening_Book_Author "Category:Opening Book Author") elaborates in the [ICCA Journal](ICGA_Journal#8_3 "ICGA Journal") <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
 ```
+
 [Event "ACM 1984"]
 [Site "San Francisco USA"]
 [Date "1984.10.07"]

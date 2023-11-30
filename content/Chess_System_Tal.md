@@ -25,6 +25,7 @@ Chess System Tal at [Aegon 1996](Aegon_1996 "Aegon 1996") operated by [Thorsten 
 [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), round 4, [Chess Genius](Chess_Genius "Chess Genius") - Chess System Tal <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
+
 [Event "WMCCC 1995"]
 [Site "Paderborn, Germany"]
 [Date "1995.10.11"]

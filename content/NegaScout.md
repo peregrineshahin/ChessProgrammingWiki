@@ -29,6 +29,7 @@ The difference is how they handle re-searches: PVS passes alpha/beta while NegaS
 
 
 ```C++
+
 value = PVS(-(alpha+1),-alpha)
 if(value > alpha && value < beta) {
   value = PVS(-beta,-alpha);
@@ -42,6 +43,7 @@ if(value > alpha && value < beta) {
 
 
 ```C++
+
 value = NegaScout(-(alpha+1),-alpha)
 if(value > alpha && value < beta && depth > 1) {
   value2 = NegaScout(-beta,-value)
@@ -102,6 +104,7 @@ by [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") <a id="cite-
 
 
 ```C++
+
 int NegaScout ( position p; int alpha, beta )
 {                     /* compute minimax value of position p */
    int a, b, t, i;
@@ -133,6 +136,7 @@ Following implementation addresses the mentioned issues, wider window for re-sea
 
 
 ```C++
+
 int NegaScout ( position p; int alpha, beta )
 {                     /* compute minimax value of position p */
    int b, t, i;

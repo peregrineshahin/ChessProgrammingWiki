@@ -42,6 +42,7 @@ Rank index 0 maps the eight Rank, index 7 the first Rank.
 - [Files](Files "Files") are the big-end over [ranks](Ranks "Ranks"):
 
 ```C++
+
 squareIndex = 8*fileIndex + rankIndex
 fileIndex   = squareIndex div 8
 rankIndex   = squareIndex mod 8
@@ -51,6 +52,7 @@ rankIndex   = squareIndex mod 8
 The BERF-coordinates with Big-endian [Files](Files "Files") and Big-endian [Ranks](Ranks "Ranks"):
 
 ```C++
+
 enum enumSquare {
   h8, h7, h6, h5, h4, h3, h2, h1, //  0 ..  7
   g8, g7, g6, g5, g4, g3, g2, g1, //  8 .. 15
@@ -67,6 +69,7 @@ enum enumSquare {
 *Note: If printing boards from top to bottom, one has to start with the big-end rank.*
 
 ```C++
+
      A    B    C    D    E    F    G    H
    +----+----+----+----+----+----+----+----+
  8 | 56 | 48 | 40 | 32 | 24 | 16 |  8 |  0 |  8th rank

@@ -24,6 +24,7 @@ a chess program by [Reinhold Gellner](Reinhold_Gellner "Reinhold Gellner") and [
 
 
 ```
+
 [Event "WMCCC 1990"]
 [Site "Lyon, France"]
 [Date "1990.01.01"]
@@ -51,6 +52,7 @@ Nxb4 36.Nf2 a4 37.a3 Nc2 38.Nxd3 Nxd3 39.Kxc2 Ne1+ 40.Kd2 Nxg2 41.Ke2 Kf8 42.Kf2
 
 
 ```
+
 [Event "WMCCC 1996"]
 [Site "Jakarta, ID"]
 [Date "1996.10.09"]

@@ -76,6 +76,7 @@ in particular using a [copy-make stack](Copy-Make#Stack "Copy-Make") to copy the
 [PT 55](PT_55 "PT 55"), Round 4, FrankWalter - [The King](The_King "The King"), [Johan de Koning](Johan_de_Koning "Johan de Koning") and [Laurens Winkelhagen](Laurens_Winkelhagen "Laurens Winkelhagen") <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 ```
+
 [Event "PT55"]
 [Site "Amersfoort"]
 [Date "2019.05.19"]

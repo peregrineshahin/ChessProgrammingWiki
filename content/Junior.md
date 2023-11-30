@@ -24,6 +24,7 @@ a chess engine by primary programmer [Amir Ban](Amir_Ban "Amir Ban") and [Shay B
 
 
 ```
+
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.27"]
@@ -99,6 +100,7 @@ You can create an object as you create an int, by putting it as an auto variable
 
 
 ```C++
+
  alphabeta(...)
  {
    ...

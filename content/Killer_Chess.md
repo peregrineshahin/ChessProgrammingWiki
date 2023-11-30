@@ -19,6 +19,7 @@ a minimalistic chess program written by [Andy Thomason](Andy_Thomason "Andy Thom
 
 
 ```
+
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.05"]
@@ -42,6 +43,7 @@ a minimalistic chess program written by [Andy Thomason](Andy_Thomason "Andy Thom
 
 
 ```
+
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.06"]

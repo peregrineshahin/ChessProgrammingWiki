@@ -10,7 +10,7 @@ title: Neurosis
 
 a [WinBoard](WinBoard "WinBoard") compatible chess engine by [Stan Arts](Stan_Arts "Stan Arts"), written in [Pascal](Pascal "Pascal"), compiled with the [Free-Pascal](https://en.wikipedia.org/wiki/Free_Pascal) compiler. 
 First released in May 2003, it evolved from Stan's earlier programs [Stan's Chess](index.php?title=Stan%27s_Chess&action=edit&redlink=1 "Stan's Chess (page does not exist)") aka S-chess, the new name in dependence on the [post-metal](https://en.wikipedia.org/wiki/Post-metal) band [Neurosis](https://en.wikipedia.org/wiki/Neurosis_%28band%29), one of Stan's favourites <a id="cite-note-1" href="#cite-ref-1">[1]</a>. 
-Beside the WinBoard engine, Stan offers the stand-alone [Windows](Windows "Windows") program Neurosis-3d with its own [3D graphics board](3D_Graphics_Board "3D Graphics Board"). 
+Beside the WinBoard engine, Stan offers the stand-alone [Windows](Windows "Windows") program Neurosis-3d with its own  . 
 
 
 
@@ -38,6 +38,7 @@ Neurosis had its debut at the [ICT 2004](ICT_2004 "ICT 2004"), and further playe
 
 
 ```
+
 [Event "24th DOCC"]
 [Site "Leiden NED"]
 [Date "2004.10.23"]

@@ -19,6 +19,7 @@ Daly CP was written in [assembly language](Assembly "Assembly") to run on the ID
 [ACM 1970](ACM_1970 "ACM 1970"), round 3, [Wita](Awit "Awit") - Daly CP <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 ```
+
 [Event "ACM 1970"]
 [Site "New York, USA"]
 [Date "1970.09.02"]

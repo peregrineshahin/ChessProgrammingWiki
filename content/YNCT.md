@@ -22,6 +22,7 @@ a chess program by [Luuk de Vries](index.php?title=Luuk_de_Vries&action=edit&red
 
 
 ```
+
 [Event "DOCCC 1982"]
 [Site "Wageningen NED"]
 [Date "1982.09.24"]
@@ -49,6 +50,7 @@ Kh7 37.Qxd6 Nd3 38.a5 Qe2 39.Kg1 Qe3+ 40.Kh1 Nf2+ 41.Kg1 Nh3+ 42.Kh1 Qg1+
 
 
 ```
+
 [Event "DOCCC 1982"]
 [Site "Wageningen NED"]
 [Date "1982.09.26"]

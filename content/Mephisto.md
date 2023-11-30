@@ -23,6 +23,7 @@ It was in 1994 when [Eric Winkler](Eric_Winkler "Eric Winkler"), CEO of [Saitek 
 
 
 ```
+
 [Event "19th NACCC ACM"]
 [Site "Orlando USA"]
 [Date "1988.11.13"]
@@ -58,6 +59,7 @@ Kc6 59.Qe8+ Kb6 60.Qb8+ Qb7 61.Qxb7+ Kxb7 62.Kg2 Rd5 63.g4 Rxe5 64.Kf3 Re1 65.Rf
 
 
 ```
+
 [Event "ACM 1989"]
 [Site "Reno USA"]
 [Date "1989.11.14"]

@@ -51,6 +51,7 @@ an invitational computer chess tournament, held during the *Jerusalem Conference
 
 
 ```
+
 [Event "Jerusalem Tournament"]
 [Site "Jerusalem, Israel"]
 [Date "1978.08.07"]

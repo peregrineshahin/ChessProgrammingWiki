@@ -24,6 +24,7 @@ Clash is entering its first ACM tournament. The program is written in [Fortran I
 Tournament Director [David Levy](David_Levy "David Levy") scans the other games
 
 ```
+
 [Event "ACM 1980"]
 [Site "Nashville USA"]
 [Date "1980.10.27"]

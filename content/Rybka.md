@@ -102,6 +102,7 @@ Rybka is a [bitboard](Bitboards "Bitboards") engine, first versions [rotated](Ro
 
 
 ```C++
+
 for (bb_t knights = Board.pieces [WN]; knights; knights &= knights-1)
 {
     int knight_sq = bit_scan (knights);

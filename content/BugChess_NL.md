@@ -63,6 +63,7 @@ The program continued to play as **QueenMaxima(C)** at ICC and was published as 
 [DOCCC 1998](DOCCC_1998 "DOCCC 1998"), round 10, BugChess - [CilkChess](CilkChess "CilkChess")
 
 ```
+
 [Event "Dutch Open Computer 1998"]
 [Site "Leiden NED"]
 [Date "1998.11.29"]

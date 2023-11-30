@@ -27,6 +27,7 @@ Game 1, 2, 5 and 6 were draws. Game 3 was a complex struggle following a deeply 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "Deep Fritz versus Deep Junior Match"]
 [Site "Elista"]
 [Date "2007/6/8"]
@@ -55,6 +56,7 @@ Kg5 55.Rf3 Kg4 56.Ra3 Kf4 57.Rc8 Nf2 58.Rcc3 Ne4 59.Rf3+ Kg4 60.h3+ Kg5 61.Ra5 N
 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
+
 [Event "Deep Fritz versus Deep Junior Match"]
 [Site "Elista"]
 [Date "2007/6/9"]

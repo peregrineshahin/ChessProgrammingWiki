@@ -8,7 +8,7 @@ title: Graphics ProgrammingASCIIDiagrams
 ## Visualization
 
 - [2D Graphics Board](2D_Graphics_Board "2D Graphics Board")
-- [3D Graphics Board](3D_Graphics_Board "3D Graphics Board")
+-  
 
 ## Pseudo Graphics
 
@@ -17,6 +17,7 @@ title: Graphics ProgrammingASCIIDiagrams
 ASCII Diagrams on [teleprinters](https://en.wikipedia.org/wiki/Teleprinter) were already used by early programs, such as [The Bernstein Chess Program](The_Bernstein_Chess_Program "The Bernstein Chess Program"), and are still appropriate today for a rudimentary text oriented [command line](CLI "CLI") [user interface](User_Interface "User Interface"), to display a position on a [terminal](https://en.wikipedia.org/wiki/Computer_terminal) with [monospaced](https://en.wikipedia.org/wiki/Monospaced_font) [ASCII](https://en.wikipedia.org/wiki/ASCII) [characters](https://en.wikipedia.org/wiki/Character_%28computing%29). One may further store the characters inside "*[human readable](https://en.wikipedia.org/wiki/Human-readable_medium)*" [ASCII files](https://en.wikipedia.org/wiki/Text_file#ASCII) for [logging-](Logging "Logging") or [debugging](Debugging "Debugging") purposes. Several proposals to display an ASCII board were made in [CCC](CCC "CCC") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> . [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") came up with the left one <a id="cite-note-3" href="#cite-ref-3">[3]</a> , [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl") proposed the right one with the remarks below <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
 ```C++
+
 kqKQ -
   +------------------------+       +-*--b--c--d--*--f--g--*-+
 8 |*R *N:*B *Q:*K *B:*N *R:|     8 |[r][n][b][q][k][b][n][r]|

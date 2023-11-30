@@ -25,6 +25,7 @@ Columns 10 and 1 are considered adjacent.
 In 1978, [Sargon](Sargon "Sargon") by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") used a classical 120 [Byte](Byte "Byte") array as board <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```
+
 ; *******************************************************
 ; BOARD	-- Board Array. Used to hold the current position 
 ; of the board during play. The board itself
@@ -73,6 +74,7 @@ BOARDA: .BLKB 120
 A textbook example of mailbox board representation is [TSCP](TSCP "TSCP"). The board are two 64 element arrays, containing empty square plus [pure piece code](Pieces#PieceTypeCoding "Pieces"), and empty square plus piece color code <a id="cite-note-4" href="#cite-ref-4">[4]</a>:.
 
 ```C++
+
 int color[64];  /* LIGHT, DARK, or EMPTY */
 int piece[64];  /* PAWN, KNIGHT, BISHOP, ROOK, QUEEN, KING, or EMPTY */
 
@@ -83,6 +85,7 @@ int piece[64];  /* PAWN, KNIGHT, BISHOP, ROOK, QUEEN, KING, or EMPTY */
 The 10x12 versus 8x8 and vice versa square mapping is applied by mailbox and mailbox64 lookup tables. A comment by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") describes the implementation as follows <a id="cite-note-5" href="#cite-ref-5">[5]</a>. However, as pointed out by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), not only the embedded 10x12 board, but various implementations are all mailbox, independently from elements in the array for padding that can act as a [sentinel value](https://en.wikipedia.org/wiki/Sentinel_value) <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
 ```C++
+
 /* Now we have the mailbox array, so called because it looks like a
    mailbox, at least according to Bob Hyatt. This is useful when we
    need to figure out what pieces can go where. Let's say we have a
@@ -128,6 +131,7 @@ int mailbox64[64] = {
 In the offset [move generation](Move_Generation "Move Generation") code, testing if a square is on the board looks as follows <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
 ```C++
+
 int side;  /* the side to move */
 int xside;  /* the side not to move */
 

@@ -15,6 +15,7 @@ Further, Algir played the [First International Chess-Computer Tournament in the 
 [First Soviet Computer-Chess Championship 1988](First_Soviet_Computer-Chess_Championship_1988 "First Soviet Computer-Chess Championship 1988"), round 1, Algir - [Intellect](Intellect "Intellect")
 
 ```
+
 [Event "First Soviet Computer-Chess Championship"]
 [Site "Ulan-Ude"]
 [Date "1988.06.27"]

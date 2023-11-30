@@ -38,6 +38,7 @@ Zarkov played the [WCCC 1989](WCCC_1989 "WCCC 1989"), and the five late [ACM Nor
 
 
 ```
+
 [Event "ACM 1993"]
 [Site "Indianapolis USA"]
 [Date "1993.02.15"]
@@ -71,6 +72,7 @@ Rg6 55.a3 Kh8 56.a4 Rg8 57.e6 Re8 58.Be2 Rxe6 59.axb5 Rxe2 60.Ra8+ Kg7 61.Ra7+ K
 
 
 ```
+
 [Event "ACM 1994"]
 [Site "Cape May USA"]
 [Date "1994.06.25"]
@@ -102,6 +104,7 @@ d4 24.c4 Bd7 25.Re1 Bc6 26.Ba3 Re6 27.Rb1 Nd7 28.Ba2 Rg6 29.f3 Re8 30.Bb4 Nf6
 
 
 ```
+
 [Event "1.BELCT2001"]
 [Site "Berlin"]
 [Date "2001.10.03"]

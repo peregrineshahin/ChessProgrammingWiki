@@ -31,6 +31,7 @@ Naum played the [Chess960CWC 2006](Chess960CWC_2006 "Chess960CWC 2006") and [Che
 
 
 ```
+
 [Event "CCT9"]
 [Site "Internet Chess Club"]
 [Date "2007.02.17"]
@@ -63,6 +64,7 @@ Kh7 20.c4 f5 21.Ree1 c5 22.Re2 e4 23.Ne1 b5 24.Rd1 Qd6 25.Qc3 Ne5
 
 
 ```
+
 [Event "Chess960CWC 2008"]
 [Site "Mainz GER"]
 [Date "2008.07.30"]
@@ -104,6 +106,7 @@ Rd8+ Ke5 52.Re8+ Kd6 1/2-1/2
 
 
 ```
+
 [Event "Chess960CWC 2008"]
 [Site "Mainz"]
 [Date "2008.07.30"]

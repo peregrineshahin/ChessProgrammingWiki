@@ -180,6 +180,7 @@ The algorithm needs a [move list](Move_List "Move List") containing the [game re
 
 
 ```C++
+
 bool repetition(SMove *pVariant) {
    SMove chainList[24], m;
    short c = 0, i;

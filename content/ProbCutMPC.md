@@ -21,6 +21,7 @@ This observation immediately leads to the implementation of the ProbCut alpha-be
 
 
 ```C++
+
 int alphaBetaProbCut(int α, int β, int depth) {
    const float T(1.5);
    const int DP(4);
@@ -65,6 +66,7 @@ Multi–ProbCut (MPC) enhances ProbCut by
 
 
 ```C++
+
 struct Param {
    int d;         /* shallow search depth */
    float t;       /* cut threshold */

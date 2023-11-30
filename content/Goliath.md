@@ -29,6 +29,7 @@ and the [WCCC 2002](WCCC_2002 "WCCC 2002"), both in [Maastricht](https://en.wiki
 [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), round 3, Goliath - [Gandalf](Gandalf "Gandalf") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
+
 [Event "WMCCC 1997"]
 [Site "Paris, France"]
 [Date "1997.10.27"]
@@ -59,6 +60,7 @@ Rf1+ 84.Kg7 Re1 85.e7 Rxe7 86.Rxe7 1-0
 [ICT 2001](ICT_2001 "ICT 2001"), [Tao](Tao "Tao") - Goliath X, [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal") kibitzing, [Bas Hamstra](Bas_Hamstra "Bas Hamstra") and [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ```
+
 [Event "ICT 2001"]
 [Site "Leiden NED"]
 [Date "2001.05.18"]
@@ -79,6 +81,7 @@ Rf1+ 84.Kg7 Re1 85.e7 Rxe7 86.Rxe7 1-0
 [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), round 5 (Blitz), Goliath - [Rebel](Rebel "Rebel") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 ```
+
 [Event "WMCCC 2001 (Blitz)"]
 [Site "Maastricht, The Netherlands"]
 [Date "2001.08.21"]

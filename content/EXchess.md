@@ -14,6 +14,7 @@ EXchess may optionally use an own [GUI](GUI "GUI") based on the [Fast Light Tool
 EXchess utilizes an [8x8 Board](8x8_Board "8x8 Board") and [piece lists](Piece-Lists "Piece-Lists") as demonstrated in its [move generation routine](Move_Generation "Move Generation") <a id="cite-note-1" href="#cite-ref-1">[1]</a> :
 
 ```C++
+
 // Typedef for square using unsigned 8 bits...  
 //  -- first 3 bits for piece type (0-6)
 //  -- next bit for side of piece (1 = white, 0 = black)

@@ -54,6 +54,7 @@ A Brutus prototype had its debut at the [IPCCC 2002](IPCCC_2002 "IPCCC 2002") wi
 [IPCCC 2002](IPCCC_2002 "IPCCC 2002"): [Alex Kure](Alex_Kure "Alex Kure"), [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [Mathias Feist](Mathias_Feist "Mathias Feist"), Brutus vs. [Fritz](Fritz "Fritz") 0 - 1 <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
+
 [Event "IPCCC 2002"]
 [Site "Paderborn GER"]
 [Date "2002.03.03"]
@@ -80,6 +81,7 @@ Kf2 48.Rg7 g1=R 49.Raxg1 Nxg1 50.Rf7+ Nf3 51.a4 Kg3 52.Rg7+ Kf4 53.Rf7+ Kg4 54.R
 [WCCC 2002](WCCC_2002 "WCCC 2002"), round 6, Brutus - [Deep Junior](Junior "Junior") <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
 ```
+
 [Event "WCCC 2002"]
 [Site "Maastricht, The Netherlands"]
 [Date "2002.07.09"]
@@ -104,6 +106,7 @@ axb3 26.axb3 Rxc4 27.bxc4 b3 28.h3 b2 29.Ng3 Qxc4 30.Rb1 Rb8 31.Rfd1 Rb3 32.Rd3 
 [WCCC 2003](WCCC_2003#Dark "WCCC 2003"), Brutus - [Diep](Diep "Diep") <a id="cite-note-14" href="#cite-ref-14">[14]</a>, [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Eva Moser](https://en.wikipedia.org/wiki/Eva_Moser) and [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ```
+
 [Event "WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.27"]

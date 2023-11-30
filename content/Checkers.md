@@ -30,7 +30,6 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 - [Cake](http://www.fierz.ch/cake.php) by [Martin Fierz](Martin_Fierz "Martin Fierz")
 - [Checker!](https://www.game-ai-forum.org/icga-tournaments/program.php?id=337) by [Gil Dodgen](index.php?title=Gil_Dodgen&action=edit&redlink=1 "Gil Dodgen (page does not exist)")
 - [Checker Hustler](https://www.game-ai-forum.org/icga-tournaments/program.php?id=341) by [Derek Oldbury](Derek_Oldbury "Derek Oldbury")
-- [Checkermate](https://www.game-ai-forum.org/icga-tournaments/program.php?id=390) by [Derek Oldbury](Derek_Oldbury "Derek Oldbury") and [Adrian Millett](Adrian_Millett "Adrian Millett")
 - [Checkers](http://www.aifactory.co.uk/AIF_Games_Checkers.htm) from [AI Factory](AI_Factory "AI Factory")
 - [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") et al. <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Colossus Draughts](https://www.game-ai-forum.org/icga-tournaments/program.php?id=389) by [Martin Bryant](Martin_Bryant "Martin Bryant")
@@ -38,7 +37,6 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 - [GuiNN Checkers 2.0](http://www.3dkingdoms.com/checkers.htm) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [KingsRow](http://edgilbert.org/Checkers/KingsRow.htm) by [Ed Gilbert](index.php?title=Ed_Gilbert&action=edit&redlink=1 "Ed Gilbert (page does not exist)")
 - [Nemesis](http://www.nemesis.info/index.html) by [Murray Cash](index.php?title=Murray_Cash&action=edit&redlink=1 "Murray Cash (page does not exist)")
-- [Sage Draughts](https://www.game-ai-forum.org/icga-tournaments/program.php?id=340) by [Adrian Millett](Adrian_Millett "Adrian Millett")
 - [Tournament Checkers](https://www.game-ai-forum.org/icga-tournaments/program.php?id=338) by [David Butler](https://www.game-ai-forum.org/icga-tournaments/person.php?id=314)
 - [Wyllie](http://www.wylliedraughts.com/) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel")
 
@@ -137,7 +135,6 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 - [Silicon Graphics World Checkers Championship](https://groups.google.com/d/msg/rec.games.chess/4SZY5cxp8wI/6DcEAhUEpgUJ) by [Robert Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 16, 1994
 - [Silicon Graphics World Checkers Championship - day 3](https://groups.google.com/d/msg/rec.games.chess/gXSmAjNdM60/fZfxspiOq60J) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 18, 1994
 - [Checkers Championship - additional information](https://groups.google.com/d/msg/rec.games.chess/4kE5IqBPb0Y/Js0nawCyu-cJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 20, 1994
-- [PDN - Portable Draughts Notation](https://groups.google.com/d/msg/rec.games.chess/_bc_FD4tSFI/nZq6ifCR58cJ) by [Pc Sol](Adrian_Millett "Adrian Millett"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), July 22, 1995
 
 ## 2000 ...
 

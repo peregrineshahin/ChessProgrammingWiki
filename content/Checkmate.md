@@ -13,6 +13,7 @@ title: Checkmate
 At the [root](Root "Root") the [score](Score "Score") of a mated player is the worst score one can get, that is a negative score with the greatest absolute value of the score range. It is quite common and sufficient to use something like this in [C](C "C"), [C++](Cpp "Cpp"):
 
 ```C++
+
 ##include <limits.h>
 /* (-32768/2 = -16384) */
 ##define VALUE_MATED (SHRT_MIN/2)

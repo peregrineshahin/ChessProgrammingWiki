@@ -22,6 +22,7 @@ Written by Jean-Christophe Weill, in association with Marc-François Baudot of [
 [WCCC 1992](WCCC_1992 "WCCC 1992"), round 4, Cumulus 2 - [Kallisto](Kallisto "Kallisto") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "WCCC 1992"]
 [Site "Madrid, Spain"]
 [Date "1992.11.26"]

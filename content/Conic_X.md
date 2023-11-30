@@ -13,6 +13,7 @@ an experimental [dedicated chess computer](Dedicated_Chess_Computers "Dedicated 
 [WMCCC 1981](WMCCC_1981 "WMCCC 1981"), round 5, Conic X - [Philidor X](Philidor "Philidor") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "WMCCC 1991"]
 [Site "Travemünde, Germany"]
 [Date "1981.09.25"]

@@ -29,6 +29,7 @@ but has alpha and beta flipped for the more conventional semantic.
 
 
 ```C++
+
 int bestEval (int beta, int depth, bool maxplayer) {
   int alpha = maxplayer ? -32000 : +32000;
   // generate moves ..
@@ -61,6 +62,7 @@ with the initial call
 
 
 ```C++
+
 bestEval (32000, 1, true);
 
 ```

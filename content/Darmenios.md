@@ -19,6 +19,7 @@ At the [WCRCC 2011](WCRCC_2011 "WCRCC 2011"), the Fifth Annual ACCA World Comput
 [WCCC 2010](WCCC_2010 "WCCC 2010"), round 2, [Hector for Chess](Hector_for_Chess "Hector for Chess") - Darmenios <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "WCCC 2010"]
 [Site "Kanazawa, Japan"]
 [Date "2010.09.25"]

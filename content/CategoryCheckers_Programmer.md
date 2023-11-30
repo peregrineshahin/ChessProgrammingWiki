@@ -51,7 +51,6 @@ The following 28 pages are in this category, out of 28 total.
 
 ### M
 
-- [Adrian Millett](Adrian_Millett "Adrian Millett")
 - [José Manuel Morán](Jos%C3%A9_Manuel_Mor%C3%A1n "José Manuel Morán")
 
 ### N

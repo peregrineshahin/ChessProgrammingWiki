@@ -92,6 +92,7 @@ The definition of the amount of [self-information](https://en.wikipedia.org/wiki
 
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.07"]

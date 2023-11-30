@@ -16,6 +16,7 @@ Holmes played the [IPCCC 2001](IPCCC_2001 "IPCCC 2001"), [IPCCC 2003](IPCCC_2003
 [ICT 2002](ICT_2002 "ICT 2002"), [GoldBar MMII](Goldbar "Goldbar") - Holmes <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann") talking with [Eric van Reem](Eric_van_Reem "Eric van Reem") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "ICT 2002"]
 [Site "Leiden NLD"]
 [Date "2002.05.31"]

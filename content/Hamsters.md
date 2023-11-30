@@ -14,6 +14,7 @@ It applies a [parallel search](Parallel_Search "Parallel Search") utilizing up t
 [CCC 2008](CCC_2008 "CCC 2008"), round 3, Hamsters - [Chiron](Chiron "Chiron") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "Chess Computer Cup 2008"]
 [Site "Turin"]
 [Date "2008.12.06"]

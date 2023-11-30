@@ -27,6 +27,7 @@ A [material](Material "Material") class encapsulates [point values](Point_Value 
 [WCRCC 2011](WCRCC_2011 "WCRCC 2011"), round 1, [Nightmare](Nightmare_NL "Nightmare NL") - Bobcat <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
+
 [Event "WCRCC 2011"]
 [Site "Internet Chess Club"]
 [Date "2011.07.23"]

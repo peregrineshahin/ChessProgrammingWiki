@@ -24,6 +24,7 @@ and was further incorporated inside the [Mephisto MM II](Mephisto_MM_II "Mephist
 
 
 ```
+
 [Event "WMCCC 1985"]
 [Site "Amsterdam, The Netherlands"]
 [Date "1985.09.13"]
@@ -54,6 +55,7 @@ Qd6 45.Nd2 e3 46.Nc4 Qd3 47.Nb2 Qd5 48.a4 Rd8 49.Kh2 g5 50.Rc3 Qe5 51.Rcc2 Kf8
 
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.12"]

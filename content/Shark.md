@@ -22,6 +22,7 @@ a private chess engine by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), 
 
 
 ```
+
 [Event "DOCCC 2002"]
 [Site "Leiden NED"]
 [Date "2002.10.20"]
@@ -49,6 +50,7 @@ a private chess engine by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), 
 
 
 ```
+
 [Event "DOCCC 2002"]
 [Site "Leiden NED"]
 [Date "2002.10.27"]

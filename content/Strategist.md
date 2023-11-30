@@ -24,6 +24,7 @@ roughly 600$ at that time <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 ```
+
 [Event "First Soviet Computer-Chess Championship"]
 [Site "Ulan-Ude"]
 [Date "1988.06.27"]

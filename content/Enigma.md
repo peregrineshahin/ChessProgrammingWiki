@@ -16,6 +16,7 @@ and focuses on [pawn structure](Pawn_Structure "Pawn Structure"), specially [pas
 [PCCC 2003](PCCC_2003 "PCCC 2003"), Enigma - [Matacz](Matacz "Matacz") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "2nd PCCC 2003"]
 [Site "Lodz"]
 [Date "2003.08.??"]

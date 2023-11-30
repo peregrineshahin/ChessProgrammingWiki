@@ -18,6 +18,7 @@ Fischer-Schneider was a for that time typical [Shannon Type B program](Type_B_St
 [Boris Spassky](https://en.wikipedia.org/wiki/Boris_Spassky) - Fischer-Schneider, [GMD-Forschungszentrum](https://de.wikipedia.org/wiki/GMD-Forschungszentrum_Informationstechnik), [Schloss Birlinghoven](https://de.wikipedia.org/wiki/Schloss_Birlinghoven) in [Sankt Augustin](https://en.wikipedia.org/wiki/Sankt_Augustin) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 ```
+
 [Event "GMD Demo Match"]
 [Site "Sankt Augustin"]
 [Date "1973.06.05"]

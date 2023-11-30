@@ -22,6 +22,7 @@ Barricelli devised the following extremely simple rules for sexual (symbiogeneti
 
 
 ```C++
+
 integer array this generation, next generation [1 :512];
 begin
  loop: for i : = 1 step 1 until 512 do 

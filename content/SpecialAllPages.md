@@ -50,7 +50,7 @@ Category talk
 * [20th Computer Olympiad](20th_Computer_Olympiad "20th Computer Olympiad")
 * [2D Graphics Board](2D_Graphics_Board "2D Graphics Board")
 * [2nd Computer Olympiad](2nd_Computer_Olympiad "2nd Computer Olympiad")
-* [3D Graphics Board](3D_Graphics_Board "3D Graphics Board")
+*  
 * [3rd Computer Olympiad](3rd_Computer_Olympiad "3rd Computer Olympiad")
 * [4th Computer Olympiad](4th_Computer_Olympiad "4th Computer Olympiad")
 * [5th Computer Olympiad](5th_Computer_Olympiad "5th Computer Olympiad")
@@ -151,7 +151,6 @@ Category talk
 * [Adi Botea](Adi_Botea "Adi Botea")
 * [Aditya Pande](Aditya_Pande "Aditya Pande")
 * [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot")
-* [Adrian Millett](Adrian_Millett "Adrian Millett")
 * [Adrien Regimbald](Adrien_Regimbald "Adrien Regimbald")
 * [Advance](Advance "Advance")
 * [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1")

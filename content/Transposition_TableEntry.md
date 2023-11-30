@@ -353,13 +353,6 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 * [Hash tables - Clash!!! What happens next?](http://groups.google.de/group/rec.games.chess/browse_thread/thread/87d436c2293f9138) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), March 14, 1994
 * [Hash table question](http://groups.google.com/group/rec.games.chess/browse_frm/thread/a9d5fb3e489196ed/68f9f93c938f3349) by [John Stanback](John_Stanback "John Stanback"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), March 23, 1994
 
-
-### 1995 ...
-
-
-* [hash mem in win-chess progs](https://groups.google.com/d/msg/rec.games.chess.computer/Taxgk4l-S90/ggkiWEVavYsJ) by [Pc Sol](Adrian_Millett "Adrian Millett"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 28, 1995 » [Windows](Windows "Windows")
-
-
 **1996**
 
 

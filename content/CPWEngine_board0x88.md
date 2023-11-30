@@ -4,6 +4,7 @@ title: CPWEngine board0x88
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Board (0x88)**
 
 ```C++
+
 ##include "stdafx.h"
 ##include "0x88_math.h"
 ##include "transposition.h"

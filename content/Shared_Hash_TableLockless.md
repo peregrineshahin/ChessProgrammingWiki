@@ -55,6 +55,7 @@ As an example, [CilkChess](CilkChess "CilkChess") used [Cilk's](Cilk "Cilk") sup
 
 
 ```C++
+
 typedef struct
 {
    Cilk_lockvar lock;
@@ -99,6 +100,7 @@ An important property of a lock is its [granularity](https://en.wikipedia.org/wi
 
 
 ```C++
+
 index = key % TABLESIZE;
 hashtable[index].key  = key ^ data;
 hashtable[index].data = data;
@@ -111,6 +113,7 @@ Since the retrieving position requires the same key for a probing hit, the store
 
 
 ```C++
+
 index = key % TABLESIZE;
 if (( hashtable[index].key ^ hashtable[index].data) == key )
 {

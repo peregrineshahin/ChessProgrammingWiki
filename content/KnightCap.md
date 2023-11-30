@@ -9,7 +9,7 @@ title: KnightCap
 **KnightCap**,  
 
 a [XBoard](XBoard "XBoard") compliant [open source chess engine](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter") and [Lex Weaver](Lex_Weaver "Lex Weaver"). 
-To [tune](Automated_Tuning "Automated Tuning") it's [evaluation](Evaluation "Evaluation") in game play, it uses [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") applied to [minimax](Minimax "Minimax") search in chess, [TDLeaf](Temporal_Difference_Learning#TDLeaf "Temporal Difference Learning") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. KnightCap features an own [GUI](GUI "GUI") with an optional [3D Graphics Board](3D_Graphics_Board "3D Graphics Board") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and played multiple [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), and won two times, last one the [NC3 2006](NC3_2006 "NC3 2006"). 
+To [tune](Automated_Tuning "Automated Tuning") it's [evaluation](Evaluation "Evaluation") in game play, it uses [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") applied to [minimax](Minimax "Minimax") search in chess, [TDLeaf](Temporal_Difference_Learning#TDLeaf "Temporal Difference Learning") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. KnightCap features an own [GUI](GUI "GUI") with an optional   <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and played multiple [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), and won two times, last one the [NC3 2006](NC3_2006 "NC3 2006"). 
 
 
 
@@ -54,6 +54,7 @@ One major modification for [TDLeaf](Temporal_Difference_Learning#TDLeaf "Tempora
 
 
 ```
+
 [Event "NC3 2006"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2006.08.20"]

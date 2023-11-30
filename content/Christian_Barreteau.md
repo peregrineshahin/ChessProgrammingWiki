@@ -15,6 +15,7 @@ As computer chess programmer, Christian Barreteau is author of the chess engine 
 [Massy 2001](Massy_2001 "Massy 2001"): [AnMon](AnMon "AnMon") - [Dragon](Dragon_FR "Dragon FR"), [Bruno Lucas](Bruno_Lucas "Bruno Lucas") and Christian Barreteau ... <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "Massy 2001"]
 [Site "Massy, France"]
 [Date "2001.06.10"]

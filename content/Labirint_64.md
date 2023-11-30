@@ -19,6 +19,7 @@ a compact, selfmade [dedicated chess computer](Dedicated_Chess_Computers "Dedica
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.18"]
@@ -49,6 +50,7 @@ a compact, selfmade [dedicated chess computer](Dedicated_Chess_Computers "Dedica
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.19"]

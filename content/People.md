@@ -1870,7 +1870,6 @@ M
 * [Karl-Heinz Milaster](Karl-Heinz_Milaster "Karl-Heinz Milaster")
 * [Anastasios Milikas](Anastasios_Milikas "Anastasios Milikas")
 * [Donald Miller](index.php?title=Donald_Miller&action=edit&redlink=1 "Donald Miller (page does not exist)")
-* [Adrian Millett](Adrian_Millett "Adrian Millett")
 * [Marvin Minsky](Marvin_Minsky "Marvin Minsky")
 * [Vadim Mirniy](Vadim_Mirniy "Vadim Mirniy")
 * [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani")

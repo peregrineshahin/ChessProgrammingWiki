@@ -55,37 +55,48 @@ King zone is usually defined as squares to which enemy King can move plus two or
  **valueOfAttacks \* attackWeight[attackingPiecesCount] / 100**.
 
 
+<table class="wikitable">
 
-
-
-|  Nr ofAttackers
- |  Attackweight
- |
-| --- | --- |
-|  1
- |  0
- |
-|  2
- |  50
- |
-|  3
- |  75
- |
-|  4
- |  88
- |
-|  5
- |  94
- |
-|  6
- |  97
- |
-|  7
- |  99
- |
-
-
-
+<tbody><tr>
+<th> Nr of<br>Attackers
+</th>
+<th> Attack<br>weight
+</th></tr>
+<tr>
+<td style="text-align:center;"> 1
+</td>
+<td style="text-align:right;"> 0
+</td></tr>
+<tr>
+<td style="text-align:center;"> 2
+</td>
+<td style="text-align:right;"> 50
+</td></tr>
+<tr>
+<td style="text-align:center;"> 3
+</td>
+<td style="text-align:right;"> 75
+</td></tr>
+<tr>
+<td style="text-align:center;"> 4
+</td>
+<td style="text-align:right;"> 88
+</td></tr>
+<tr>
+<td style="text-align:center;"> 5
+</td>
+<td style="text-align:right;"> 94
+</td></tr>
+<tr>
+<td style="text-align:center;"> 6
+</td>
+<td style="text-align:right;"> 97
+</td></tr>
+<tr>
+<td style="text-align:center;"> 7
+</td>
+<td style="text-align:right;"> 99
+</td></tr></tbody></table>
 
 
 
@@ -108,6 +119,7 @@ This is the table from [Glaurung](Glaurung "Glaurung") 1.2:
 
 
 ```C++
+
 static const int SafetyTable[100] = {
    0,   0,   0,   1,   1,   2,   3,   4,   5,   6,
    8,  10,  13,  16,  20,  25,  30,  36,  42,  48,
@@ -129,6 +141,7 @@ This is the table generated using a formula from [Stockfish](Stockfish "Stockfis
 
 
 ```C++
+
 static const int SafetyTable[100] = {
     0,  0,   1,   2,   3,   5,   7,   9,  12,  15,
   18,  22,  26,  30,  35,  39,  44,  50,  56,  62,

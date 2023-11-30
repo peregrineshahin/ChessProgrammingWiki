@@ -30,7 +30,7 @@ an Australian programmer, primary author of the [TD-learning](Temporal_Differenc
 ## Forum Posts
 
 - [KnightCap 1.0](https://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/1f7ba9d3c31f071) by Andrew Tridgell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 27, 1997
-- [Re: Going commercial, maybe](https://groups.google.com/group/rec.games.chess.computer/msg/ded7e4e4304d8d4e) by Andrew Tridgell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 9, 1997 » [3D Graphics Board](3D_Graphics_Board "3D Graphics Board")
+- [Re: Going commercial, maybe](https://groups.google.com/group/rec.games.chess.computer/msg/ded7e4e4304d8d4e) by Andrew Tridgell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 9, 1997 »  
 - [Re: Computer Chess Planning](https://groups.google.com/group/rec.games.chess.computer/msg/708196e40e9a4a7f) by Andrew Tridgell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 17, 1997
 - [Parallel searching](https://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/5a5ec0faffa05984) by Andrew Tridgell, post 16, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 22, 1997 » [Parallel Search](Parallel_Search "Parallel Search")
 - [KnightCap v1.8](https://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/e68ee1ab5a2603d3) by Andrew Tridgell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 03, 1997

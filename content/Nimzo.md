@@ -22,6 +22,7 @@ a chess program by primary developer [Chrilly Donninger](Chrilly_Donninger "Chri
 
 
 ```
+
 [Event "AEGON 1997"]
 [Site "The Hague NED"]
 [Date "1997.04.17"]
@@ -100,6 +101,7 @@ Following [forward pruning](Pruning "Pruning") code appears in Nimzo's 2.2.1 sea
 
 
 ```C++
+
   if((depth <= 1) && (!extflg) && (score > beta) && (GPtr->hung.w <= KNIGHTHUNG)) {
     return score;
   }

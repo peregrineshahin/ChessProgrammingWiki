@@ -25,6 +25,7 @@ Mike Parker's program, Albatross, which finished the Tournament with one and a h
 [WMCCC 1980](WMCCC_1980 "WMCCC 1980") round 1: [Sargon 2.0](Sargon "Sargon") - Albatross <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.04"]

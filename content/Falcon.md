@@ -21,6 +21,7 @@ Eli David has combined his secret efforts with scientific publications, since Fa
 Falcon's GA procedure as pseudo code <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
 ```C++
+
 1. initialization: randomly generate n 70-bit chromosomes
 2.   evaluate fitness of each chromosome of a population 
 3.   if (N generations is reached OR fitness value > threshold ) terminate
@@ -150,6 +151,7 @@ With a population size of 10, a crossover rate of 0.75, mutation rate of 0.05, a
 [WCCC 2004](WCCC_2004 "WCCC 2004") round 11, Falcon - [Shredder](Shredder "Shredder") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 ```
+
 [Event "WCCC 2004"]
 [Site "Ramat Gan, Israel"]
 [Date "2004.07.12"]

@@ -18,6 +18,7 @@ a [grid computing](https://en.wikipedia.org/wiki/Grid_computing) [cluster](https
 [WCCC 2016](WCCC_2016 "WCCC 2016"), round 3, GridGinkgo team facing [Shredder](Shredder "Shredder"), [Kai Himstedt](Kai_Himstedt "Kai Himstedt") and [Timo Haupt](Timo_Haupt "Timo Haupt")
 
 ```
+
 [Event "WCCC 2016"]
 [Site "Leiden"]
 [Date "2016.06.28"]
@@ -46,6 +47,7 @@ Nd4 60.Kg2 Nxf3 61.Kf2 Ne5 62.Ke2 g4 63.Kf2 g3+ 64.Kg2 Kg4 65.Kf1 Kf3 66.Ke1 Nd3
 | [WCCC 2016](WCCC_2016 "WCCC 2016"), round 6 versus [Komodo](Komodo "Komodo"), dual GridGinkgo screen with colored [logging](Logging "Logging") and [Shredder GUI](Shredder#GUI "Shredder") |
 
 ```
+
 [Event "WCCC 2016"]
 [Site "Leiden"]
 [Date "2016.06.29"]

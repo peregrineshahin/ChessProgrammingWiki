@@ -10,7 +10,7 @@ title: Nemeton
 
 a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Stan Arts](Stan_Arts "Stan Arts"). 
 It had its over the board tournament debut at the [PT 47](PT_47 "PT 47"), November 2014, in [Leiden](https://en.wikipedia.org/wiki/Leiden), and was introduced and released soon after <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-Beside the pure WinBoard open source version, two further [Windows](Windows "Windows") executables are provided. **Nemeton3D** comes with an own [GUI](GUI "GUI") with [3D Graphics Board](3D_Graphics_Board "3D Graphics Board"), while **NemetonSMP** features a [parallel search](Parallel_Search "Parallel Search") for up to 4 cores since version 1.7 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
+Beside the pure WinBoard open source version, two further [Windows](Windows "Windows") executables are provided. **Nemeton3D** comes with an own [GUI](GUI "GUI") with  , while **NemetonSMP** features a [parallel search](Parallel_Search "Parallel Search") for up to 4 cores since version 1.7 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 
 
@@ -25,7 +25,7 @@ A [nemeton](https://en.wikipedia.org/wiki/Nemeton) was a [sacred place](https://
 
 
  [](http://www.talkchess.com/forum/viewtopic.php?t=64177) 
-Nemeton3D 1.51 with its [3D Graphics Board](3D_Graphics_Board "3D Graphics Board") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
+Nemeton3D 1.51 with its   <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 

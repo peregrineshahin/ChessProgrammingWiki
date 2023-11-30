@@ -13,6 +13,7 @@ a chess program by [Wim van der Maaten](index.php?title=Wim_van_der_Maaten&actio
 [DOCCC 1985](DOCCC_1985 "DOCCC 1985"), Group B, round 4, [Storm](Storm "Storm") - Chessmate
 
 ```
+
 [Event "DOCCC 1985"]
 [Site "Leiden, NL"]
 [Date "1985.10.??"]

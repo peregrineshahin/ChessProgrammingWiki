@@ -22,6 +22,7 @@ In order to find mating sequences fast, BCP's [Quiescence Search](Quiescence_Sea
 [WCCC 1983](WCCC_1983 "WCCC 1983"): [Harry Nelson](Harry_Nelson "Harry Nelson"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Don Beal](Don_Beal "Don Beal"), [Cray Blitz](Cray_Blitz "Cray Blitz") - BCP <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
+
 [Event WCCC 1983"]
 [Site "New York, USA"]
 [Date "1983.10.22"]
@@ -48,6 +49,7 @@ In order to find mating sequences fast, BCP's [Quiescence Search](Quiescence_Sea
 [WCCC 1986](WCCC_1986 "WCCC 1986"), Round 2, [Nona](Nona "Nona") - BCP <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.12"]

@@ -73,6 +73,7 @@ a free [UCI](UCI "UCI") compliant chess engine by [Salvatore Giannotti](Salvator
 [IGT 2015](IGT_2015 "IGT 2015"), round 5, [Neurone](Neurone "Neurone") - Gogobello <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "International Gsei Tournament 2015"]
 [Site "Como"]
 [Date "2015.09.27"]

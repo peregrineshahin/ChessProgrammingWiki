@@ -13,6 +13,7 @@ a chess program developed in 1974 by [Fred Prouse](index.php?title=Fred_Prouse&a
 During the [1980 Candidates Match](https://en.wikipedia.org/wiki/World_Chess_Championship_1981#1980.2F81_Candidates_Tournament) between [Viktor Korchnoi](https://en.wikipedia.org/wiki/Viktor_Korchnoi) and [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian) in [Velden am Wörther See](https://en.wikipedia.org/wiki/Velden_am_W%C3%B6rther_See), Black Knight was used to analyze the games. It further played a short game vs. Petrosian, where a draw offer by Petrosian in a better position was accepted after move 14 <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
 ```
+
 [Event "Test match"]
 [Site "Velden am Wörther See"]
 [Date "1980.03.25"]

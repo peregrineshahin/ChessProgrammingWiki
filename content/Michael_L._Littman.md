@@ -31,15 +31,34 @@ Michael Littman's explanatory grid on [Markov Models](https://en.wikipedia.org/w
 
 
 
+<table class="wikitable" style="text-align:center;">
 
-|  |  |
-| --- | --- |
-| [Markov](Mathematician#Markov "Mathematician")[Models](https://en.wikipedia.org/wiki/Markov_model) |  Do we have controlover the state transitons?
- |
-| **NO** | **YES** |
-|  Are the statescompletely observable?
- | **YES** | [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain) | [MDP](https://en.wikipedia.org/wiki/Markov_decision_process) |
-| **NO** | [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model) | [POMDP](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process) |
+<tbody><tr>
+<td colspan="2" rowspan="2"> <a href="/Mathematician#Markov" title="Mathematician">Markov</a><br><a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Markov_model">Models</a>
+</td>
+<td colspan="2"> Do we have control<br>over the state transitons?
+</td></tr>
+<tr>
+<td> <b>NO</b>
+</td>
+<td> <b>YES</b>
+</td></tr>
+<tr>
+<td rowspan="2"> Are the states<br>completely observable?
+</td>
+<td> <b>YES</b>
+</td>
+<td> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Markov_chain">Markov Chain</a>
+</td>
+<td> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Markov_decision_process">MDP</a>
+</td></tr>
+<tr>
+<td> <b>NO</b>
+</td>
+<td> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Hidden_Markov_model">HMM</a>
+</td>
+<td> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process">POMDP</a>
+</td></tr></tbody></table>
 
 
 ## Selected Publications

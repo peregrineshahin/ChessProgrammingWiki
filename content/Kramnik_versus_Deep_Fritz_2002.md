@@ -47,6 +47,7 @@ After the [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kaspa
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.04"]
@@ -86,6 +87,7 @@ After the [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kaspa
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.06"]
@@ -131,6 +133,7 @@ Ra7 43.h5 Ra8 44.Rc5+ Kb6 45.Rb5+ Kc6 46.Rd5 Kc7 47.Kb5 b3 48.Rd3 Ra7 49.Rxb3 Rb
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.08"]
@@ -173,6 +176,7 @@ fxg4 45.hxg4 b3 46.Kc3 Ka4 47.Kb2 f6 48.Bf3 Kb5 49.g5 f5 50.Kc3 Kxc5 51.Be2 0-1
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.10"]
@@ -215,6 +219,7 @@ fxg4 45.hxg4 b3 46.Kc3 Ka4 47.Kb2 f6 48.Bf3 Kb5 49.g5 f5 50.Kc3 Kxc5 51.Be2 0-1
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.13"]
@@ -258,6 +263,7 @@ Qa5 33.Kg2 Qxa2 34.Nc8 Qc4 35.Ne7+ 1-0
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.15"]
@@ -310,6 +316,7 @@ Nf6 32.a5 Qd5 33.Qxd5 Nxd5 34.axb6 axb6 0-1
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.17"]
@@ -348,6 +355,7 @@ Nf6 32.a5 Qd5 33.Qxd5 Nxd5 34.axb6 axb6 0-1
 
 
 ```
+
 [Event "Brains in Bahrain"]
 [Site "Manama, Bahrain"]
 [Date "2002.10.19"]

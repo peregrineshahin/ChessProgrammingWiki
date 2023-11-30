@@ -127,6 +127,7 @@ The idea to permit a null move cutoff not only if the null move search returns a
 
 
 ```C++
+
 if ( nullMoveAllowed &&  ...) {
    int bound = beta;
    if ( inNullMoveSearch == 0 ) {
@@ -160,6 +161,7 @@ As suggested in Donninger's paper, concerning the deep search, null move is not 
 
 
 ```C++
+
 if ( nullMoveAllowed && depth >= X && ...) {
    makeNullMove()
    score = -zwSearch(1-beta, depth-R-1) // -AlphaBeta (0-beta, 1-beta, depth-R-1)

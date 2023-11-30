@@ -38,6 +38,7 @@ As a side note, several people were betting on the outcome of the match, as well
 
 
 ```
+
 [Event "Levy vs Deep Thought"]
 [Site "London, UK"]
 [Date "1989.12.12"]
@@ -68,6 +69,7 @@ Nac6 34.Nd6 Rxe2+ 35.Kxe2 Qxg2+ 36.Ke1 Qh1+ 0-1
 
 
 ```
+
 [Event "Levy vs Deep Thought"]
 [Site "London, UK"]
 [Date "1989.12.12"]
@@ -95,6 +97,7 @@ Bb7 34.a3 Nc7 35.axb4 axb4 36.Bd2 Na4 37.Bxb4 Nxb2 38.Ng4 e5 39.Nh6+ Kh8
 
 
 ```
+
 [Event "Levy vs Deep Thought"]
 [Site "London, UK"]
 [Date "1989.12.13"]
@@ -119,6 +122,7 @@ Bb7 34.a3 Nc7 35.axb4 axb4 36.Bd2 Na4 37.Bxb4 Nxb2 38.Ng4 e5 39.Nh6+ Kh8
 
 
 ```
+
 [Event "Levy vs Deep Thought"]
 [Site "London, UK"]
 [Date "1989.12.13"]

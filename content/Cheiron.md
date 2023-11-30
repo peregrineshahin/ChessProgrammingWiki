@@ -34,6 +34,7 @@ On a [Pentium](X86 "X86") 90MHz the program will search about 10,000 [nodes per 
 [WCCC 1995](WCCC_1995 "WCCC 1995"), round 1, [Gandalf](Gandalf "Gandalf") - Cheiron <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "WCCC 1995"]
 [Site "Shatin, Hong Kong"]
 [Date "1995.05.25"]
@@ -56,6 +57,7 @@ Bxf2 47.a5 0-1
 [Aegon 1996](Aegon_1996 "Aegon 1996"), round 4, Cheiron - [Sofia Polgár](https://en.wikipedia.org/wiki/Sofia_Polg%C3%A1r) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "AEGON 1996"]
 [Site "The Hague NED"]
 [Date "1996.04.15"]

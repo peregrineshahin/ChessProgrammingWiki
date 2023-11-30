@@ -21,6 +21,7 @@ a massive [parallel](Parallel_Search "Parallel Search") chess program from [Cali
 
 
 ```
+
 [Event "WCCC 1989"]
 [Site "Edmonton, Canada"]
 [Date "1989.05.28"]

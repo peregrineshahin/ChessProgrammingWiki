@@ -19,6 +19,7 @@ In his 1996 [ICCA Journal](ICGA_Journal#19_4 "ICGA Journal") paper on [CHE](inde
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 3, Enterprise - [Awit](Awit "Awit") <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, FRG"]
 [Date "1986.06.13"]

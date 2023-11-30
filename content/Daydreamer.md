@@ -17,6 +17,7 @@ First released in August 2009 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, it
 Daydreamer prior to **2.0** pre-release used [piece-lists](Piece-Lists "Piece-Lists") and a [16x16 vector attacks](Vector_Attacks "Vector Attacks") board around a [0x88](0x88 "0x88") board inside its middle 16x8 slots <a id="cite-note-4" href="#cite-ref-4">[4]</a>. [Move generation](Move_Generation "Move Generation") of pieces is unrolled over [directions](Direction "Direction"), [capture](Captures "Captures") generation of [sliding pieces](Sliding_Pieces "Sliding Pieces") for [quiescence](Quiescence_Search "Quiescence Search") uses the leading efficient [blocker loop](Vector_Attacks#blockerloop "Vector Attacks"), i.e. for one vertical direction <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
 ```C++
+
   for (to=from+16; pos->board[to]==EMPTY; to+=16) {}
   if (can_capture(piece, pos->board[to])) {
     moves = add_move(pos, create_move(from, to, piece,
@@ -49,6 +50,7 @@ Daydreamer's [evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluati
 [ACCA 2010](ACCA_2010 "ACCA 2010"), round 6, DayDreamer - [Gaviota](Gaviota "Gaviota") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
+
 [Event "ACCA 2010"]
 [Site "FICS, San Jose, California USA"]
 [Date "2010.11.07"]

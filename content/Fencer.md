@@ -17,6 +17,7 @@ Fencer played the [NC3 2004](NC3_2004 "NC3 2004"), [NC3 2005](NC3_2005 "NC3 2005
 [NC3 2006](NC3_2006 "NC3 2006"), round 5, [Awesome](Awesome "Awesome") - Fencer
 
 ```
+
 [Event "NC3 2006"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2006.08.20"]

@@ -14,6 +14,7 @@ The 131 KiB of executable code performed 6K [nodes per second](Nodes_per_Second 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "ACM 1994"]
 [Site "Cape May USA"]
 [Date "1994.06.27"]

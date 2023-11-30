@@ -18,6 +18,7 @@ As [bitboard](Bitboards "Bitboards") engine, Gk [generates moves](Move_Generatio
 Gk applies [rotated indices](Rotated_Indices "Rotated Indices") with 1/2 MiB pre-initialized lookup tables to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"), indexed by square and [8-bit line occupancy](Occupancy_of_any_Line "Occupancy of any Line") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
+
 BitBoard diag_h1_attack[64][256];
 BitBoard diag_a1_attack[64][256];
 BitBoard diag_file_attack[64][256];
@@ -28,6 +29,7 @@ BitBoard diag_rank_attack[64][256];
 Rather than keeping the [rotated](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating") [occupancies](Occupancy "Occupancy") inside [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"), a deconcentrated data structure of unsigned integer arrays is used keeping 8-bit occupancies for each enumerated line of either 8 [ranks](Ranks "Ranks") / [files](Files "Files") or 15 [diagonals](Diagonals "Diagonals") / [anti-diagonals](Anti-Diagonals "Anti-Diagonals"), [incrementally updated](Incremental_Updates "Incremental Updates") during [make](Make_Move "Make Move") and [unmake move](Unmake_Move "Unmake Move") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
 ```C++
+
 unsigned diag_h1_occ[15];
 unsigned diag_a1_occ[15];
 unsigned diag_file_occ[8];
@@ -48,6 +50,7 @@ INLINE int DiagA1DiagNum(int square) {
 [BitScan](BitScan "BitScan") is either implemented in 32-bit [x86](X86 "X86") [Assembly](Assembly "Assembly"), or with 16-bit indexed, 64K int lookup tables of 1/2 MiB and conditions for other architectures. FirstOne scans reverse, LastOne forward <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
 ```C++
+
 int first_ones[65536];
 int last_ones[65536];
 

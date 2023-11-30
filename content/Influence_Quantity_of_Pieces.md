@@ -22,6 +22,7 @@ Whole board tables cover pawn, knight, king and sliding pieces, and their [file]
 
 
 ```C++
+
 White pawn total                      white pawn a2                         white pawn d2
 +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+
 |   |   |   |   |   |   |   |   |     |   |   |   |   |   |   |   |   |     |   |   |   |   |   |   |   |   |
@@ -72,6 +73,7 @@ The [concentric](https://en.wikipedia.org/wiki/Concentric) "circles" around the 
 
 
 ```C++
+
 Bishop Circles                        Rook Circles                          Queen Circles
 +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+
 |              196              |     |              392              |     |              588              |

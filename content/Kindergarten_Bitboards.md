@@ -21,6 +21,7 @@ was a kind of interactive forum development <a id="cite-note-3" href="#cite-ref-
 
 
 ```C++
+
 U64 aFileAttacks [8][64];  // 4 KByte
 
 U64 fileAttacks(U64 occ, enumSquare sq) {
@@ -39,6 +40,7 @@ This is how it works:
 
 
 ```C++
+
 masked A-file    *  c2-h7 Diagonal    =  occupancy
 H . . . . . . .     . . . . . . . .     . .[G F E D C B]    . . . . . . . .
 G . . . . . . .     . . . . . . . 1     . . F E D C B A     . . . . . . . .
@@ -57,6 +59,7 @@ Note that the six inner bit occupancy is reversed - considered in the pre-calcul
 
 
 ```C++
+
 masked A-file    *  c7-h2 AntiDiag   =  occupancy
 H . . . . . . .     . . . . . . . .     . .[B C D E F G]    . . . . . . . .
 G . . . . . . .     . . 1 . . . . .     . . A B C D E F     . . . . . . . .
@@ -78,6 +81,7 @@ As often, [computation versus memory size](Space-Time_Tradeoff "Space-Time Trade
 
 
 ```C++
+
 const BYTE firstRankAttacks[8][64];
 
 U64 fileAttacks(U64 occ, enumSquare sq) {
@@ -119,6 +123,7 @@ It is quite strange, yes, but it is an out of order mapping. There are only 5 bi
 
 
 ```C++
+
 occ
 . . . . . . . .
 a . . . . . . .
@@ -137,6 +142,7 @@ The interesting thing is that this works for any masked file. In fact if it was 
 
 
 ```C++
+
 U64 arrFileAttacks[64][64]; // [sq][occ64] 32KByte
 
 U64 fileAttacks(U64 occ, enumSquare sq) {
@@ -154,6 +160,7 @@ Ranks and diagonals are trivial, this version favors rotated like memory size fo
 
 
 ```C++
+
 U64 arrDiagonalAttacks[64][64]; // [sq][occ64] 32KByte
 
 U64 diagonalAttacks(U64 occ, enumSquare sq) {
@@ -191,6 +198,7 @@ Grant's proposal, so far with {5,4,4,5,5,4,4,5} bit ranges for the lookups per s
 
 
 ```C++
+
 U64 aFileAttacks[4*32+4*16]; // 1.5KByte
 U64 aPtrFileAttacks[8]; // points to appropriate aFileAttacks
 U64 fileMagic[8] = {

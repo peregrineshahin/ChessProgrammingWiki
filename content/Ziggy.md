@@ -21,6 +21,7 @@ a chess program for the [Commodore 64](Commodore_64 "Commodore 64") by [Henk Kuy
 
 
 ```
+
 [Event "DOCCC 1987"]
 [Site "Leiden, NL"]
 [Date "1987.10.10"]
@@ -47,6 +48,7 @@ Qa5 26.Qb1 Rc7 27.g5 Rfc8 28.gxf6 gxf6 29.Qg6+ Kf8 30.Bxf6 Nxf6 31.Qxf6+ Kg8 32.
 
 
 ```
+
 [Event "DOCCC 1987"]
 [Site "Leiden, NL"]
 [Date "1987.10.18"]

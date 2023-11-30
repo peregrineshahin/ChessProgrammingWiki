@@ -31,6 +31,7 @@ Super Connie participated at the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") in [Budap
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.16"]
@@ -59,6 +60,7 @@ Kg5 50.h4+ Kxh4 0-1
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.18"]

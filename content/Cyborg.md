@@ -13,6 +13,7 @@ a chess program by [Juul Moormann](index.php?title=Juul_Moormann&action=edit&red
 [DOCCC 1983](DOCCC_1983 "DOCCC 1983"), round 6, [GVNAF](GVNA "GVNA") - Cyborg 1.0 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "DOCCC 1983"]
 [Site "Leiden NED"]
 [Date "1983.08.27"]

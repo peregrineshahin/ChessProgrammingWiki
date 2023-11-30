@@ -21,6 +21,7 @@ a chess program by [Henk Kuyer](Henk_Kuyer "Henk Kuyer"), which competed at the 
 
 
 ```
+
 [Event "DCCC 1989"]
 [Site "Leiden NED"]
 [Date "1989.10.??"]

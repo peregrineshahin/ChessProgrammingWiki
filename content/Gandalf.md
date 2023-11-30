@@ -24,6 +24,7 @@ Gandalf 2 Screen <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 [Mathias Feist](Mathias_Feist "Mathias Feist") - Gandalf, [Steen](Steen_Suurballe "Steen Suurballe") and [Dan](Dan_Wulff "Dan Wulff"), [Aegon 1997](Aegon_1997 "Aegon 1997") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
+
 [Event "Aegon 1997"]
 [Site "The Hague NED"]
 [Date "1997.04.21"]
@@ -44,6 +45,7 @@ Gandalf 2 Screen <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 [IPCCC 1998](IPCCC_1998 "IPCCC 1998"), round 7, [Chess Tiger](Chess_Tiger "Chess Tiger") - Gandalf <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
+
 [Event "7th IPCCC 1998"]
 [Site "Paderborn"]
 [Date "1998.02.15"]

@@ -20,6 +20,7 @@ Asterisk, from [Late Latin](https://en.wikipedia.org/wiki/Late_Latin) [asteriscu
 [MASPV 2003](MASPV_2003 "MASPV 2003"), round 3, Asterisk - [Merlin](</Merlin_(HU)> "Merlin (HU)") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, [Péter Horváth](P%C3%A9ter_Horv%C3%A1th "Péter Horváth") and [Balázs Jákó](Bal%C3%A1zs_Jako "Balázs Jako") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "MASPV 2003"]
 [Site "Sopron, Hungary"]
 [Date "2003.04.19"]

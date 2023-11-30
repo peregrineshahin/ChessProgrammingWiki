@@ -19,6 +19,7 @@ a chess program by [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche"), [Elmar Hen
 
 
 ```
+
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.26"]

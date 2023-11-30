@@ -20,6 +20,7 @@ It has since become a widely used word to indicate intense or profound [understa
 [CCT5](CCT5 "CCT5"), round 2, Grok - [Movei](Movei "Movei")
 
 ```
+
 [Event "CCT5 45 10"]
 [Site "Internet Chess Club"]
 [Date "2003.01.18"]

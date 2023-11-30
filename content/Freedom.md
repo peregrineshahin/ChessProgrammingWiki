@@ -24,6 +24,7 @@ Freedom and [Papa](Papa "Papa") both use [mobility](Mobility "Mobility") as thei
 [WCCC 1974](WCCC_1974 "WCCC 1974"), round 1, Freedom - [CHAOS](CHAOS "CHAOS") <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.05"]

@@ -314,6 +314,7 @@ Winners: [Johan de Koning](Johan_de_Koning "Johan de Koning") (2nd), [Jeroen Noo
 Round 5, [Chess Tiger](Chess_Tiger "Chess Tiger") - [The King](The_King "The King")
 
 ```
+
 [Event "DOCCC 2000"]
 [Site "Leiden NED"]
 [Date "2000.10.15"]
@@ -340,6 +341,7 @@ Round 5, [Chess Tiger](Chess_Tiger "Chess Tiger") - [The King](The_King "The Kin
 Round 9, [Tao](Tao "Tao") - [Quest](Quest "Quest") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "DOCCC 2000"]
 [Site "Leiden NED"]
 [Date "2000.10.21"]
@@ -365,6 +367,7 @@ Bc6 34.Qe5 Bf3 35.Rd4 Rxd4 36.Qxd4 g4 37.h4 Qa5 38.Rd2 Ra8 39.Qf4 Kg7
 [XiniX](XiniX "XiniX") was not able to mate [Ant](Ant "Ant") with three queens due to a [bug](Engine_Testing#bugs "Engine Testing") with overlapping [score range](Score#ValueRange "Score") of [mate scores](Score#MateScores "Score") versus huge [material](Material "Material") advantage, and finally lost on time <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 ```
+
 [Event "DOCCC 2000"]
 [Site "Leiden NED"]
 [Date "2000.10.22"]

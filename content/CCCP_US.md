@@ -22,6 +22,7 @@ I designed the overall structure of the program and coded much of the [human int
 [ACM 1971](ACM_1971 "ACM 1971"), round 3, CCCP - [David](David "David") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "ACM 1971"]
 [Site "Chicago USA"]
 [Date "1971.08.04"]

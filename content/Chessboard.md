@@ -15,7 +15,7 @@ The chessboard is fourfold [symmetrical](https://en.wikipedia.org/wiki/Symmetry)
 ## See also
 
 - [2D Graphics Board](2D_Graphics_Board "2D Graphics Board")
-- [3D Graphics Board](3D_Graphics_Board "3D Graphics Board")
+-  
 - [Squares](Squares "Squares")
 - [Ranks](Ranks "Ranks")
 - [Files](Files "Files")

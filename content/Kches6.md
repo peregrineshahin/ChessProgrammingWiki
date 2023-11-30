@@ -19,6 +19,7 @@ In May 1974, beforehand the *First Annual Computerized Chess Tournament, State o
 
 
 ```
+
 [Event "Exhibition Match"]
 [Site "Frankfort, KY"]
 [Date "1974.05.??"]
@@ -43,6 +44,7 @@ The [ACM 1974](ACM_1974 "ACM 1974") game between KChes6 and [Tech 2](Tech "Tech"
 
 
 ```
+
 [Event "ACM 1974"]
 [Site "San Diego, CA"]
 [Date "1974.11.11"]

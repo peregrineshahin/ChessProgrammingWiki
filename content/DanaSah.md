@@ -19,6 +19,7 @@ DanaSah played on-line the [CCT9](CCT9 "CCT9"), [CCT10](CCT10 "CCT10") and [CCT1
 [CCC 2009](CCC_2009 "CCC 2009"), round 1, [BremboCE](BremboCE "BremboCE") vs DanaSah operated by Sonia <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "Computer Chess Cup 4"]
 [Site "Carugate"]
 [Date "2009.11.07"]

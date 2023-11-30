@@ -51,6 +51,7 @@ During the opening phase Kramnik is allowed to view the moves and statistics in 
 
 
 ```
+
 [Event "Kramnik vs Deep Fritz"]
 [Site "Bonn GER"]
 [Date "2006.11.25"]
@@ -77,6 +78,7 @@ gxf6 18.Rfd1 Kf8 19.Ne1 Bxg2 20.Kxg2 f5 21.Rxd8+ Rxd8 22.Nd3 Bd4 23.Rc1 e5 24.Rc
 
 
 ```
+
 [Event "Kramnik vs Deep Fritz"]
 [Site "Bonn GER"]
 [Date "2006.11.27"]
@@ -102,6 +104,7 @@ Rxf8 31.Nd4 a4 32.Nxe6 Bxe3+ 33.Kh1 Bxc1 34.Nxf8 Qe3 35.Qh7# 1-0
 
 
 ```
+
 [Event "Kramnik vs Deep Fritz"]
 [Site "Bonn GER"]
 [Date "2006.11.29"]
@@ -124,6 +127,7 @@ a5 32.Bd4 Be7 33.Bc3 a4 34.bxa4 bxa4 35.Rd7 Bf8 36.Rd8 Kf7 37.Ra8 a3 38.Rxf8+ Kx
 
 
 ```
+
 [Event "Kramnik vs Deep Fritz"]
 [Site "Bonn GER"]
 [Date "2006.12.01"]
@@ -147,6 +151,7 @@ Ke6 51.Bb1 Kf6 52.Be4 Ke6 53.Bh1 Kf6 54.Bf3 Ke6 1/2-1/2
 
 
 ```
+
 [Event "Kramnik vs Deep Fritz"]
 [Site "Bonn GER"]
 [Date "2006.12.03"]
@@ -168,6 +173,7 @@ Rb3 25.Rxf5 Rxa3 26.Rb1 Re8 27.Rf4 Ra2+ 28.Ke1 h6 29.Rg4 g5 30.hxg6 Nxf2 31.Rh4 
 
 
 ```
+
 [Event "Kramnik vs Deep Fritz"]
 [Site "Bonn GER"]
 [Date "2006.12.05"]

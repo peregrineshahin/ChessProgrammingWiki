@@ -20,6 +20,7 @@ Günther Schrüfer, [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "WCCC 1996]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]

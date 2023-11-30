@@ -15,6 +15,7 @@ a German computer scientist, former chess programmer, and along with [Thomas Nit
 Round 5, [Sargon III / Compaq](Sargon#Sargon3 "Sargon") - [Mephisto III B](</Mephisto_(H)#Mephisto3> "Mephisto (H)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "WMCCC 1984"]
 [Site "Glasgow, UK"]
 [Date "1984.09.13"]

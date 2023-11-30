@@ -14,6 +14,7 @@ a mainframe chess program written by [Fritz Königshofer](Fritz_K%C3%B6nigshofer
 [WCCC 1974](WCCC_1974 "WCCC 1974"), round 1, [Kaissa](Kaissa "Kaissa") - Frantz <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.05"]
@@ -35,6 +36,7 @@ Qg6 23.g3 O-O-O 24.fxe4 fxe4 25.Bf6 Rd5 26.Rxd5 Bxd5 27.Qe5 Qf7 28.Rd1 Bxa2
 [WCCC 1974](WCCC_1974 "WCCC 1974"), round 4, [A16chs](A16chs "A16chs") - Frantz <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.08"]

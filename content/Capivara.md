@@ -16,6 +16,7 @@ Capivara LK, with [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") mentioned as co-au
 [CCT15](CCT15 "CCT15"), round 7, Capivara - [Chexa](Chexa "Chexa")
 
 ```
+
 [Event "CCT15"]
 [Site "Variant-ICS, Amsterdam, NL"]
 [Date "2013.02.24"]

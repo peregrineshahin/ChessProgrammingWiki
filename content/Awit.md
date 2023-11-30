@@ -30,6 +30,7 @@ Awit's greatest tournament success was the shared second place at the [WCCC 1983
 A real cliffhanger between Wita and [Bs6676](Bs6676 "Bs6676") from [WCCC 1977](WCCC_1977 "WCCC 1977"), [Albin Countergambit](https://en.wikipedia.org/wiki/Albin_Countergambit) <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
 ```
+
 [Event "2nd World Computer Chess Championship"]
 [Site "Toronto, Canada"]
 [Date "1977.08.08"]
@@ -52,6 +53,7 @@ Qe3+ 25.Kh1 Qe4+ 26.Kg1 Qe3+ 27.Kh1 Qf3+ 28.Kg1 Qe3+ 1/2-1/2
 [ACM 1979](ACM_1979 "ACM 1979"), Round 4, [Monroe Newborn](Monroe_Newborn "Monroe Newborn") standing, [Tony Marsland](Tony_Marsland "Tony Marsland"), [Ostrich 80](Ostrich "Ostrich") - Awit <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "10th North Am.CC (ACM)"]
 [Site "Detroit USA"]
 [Date "1979.10.30"]
@@ -79,6 +81,7 @@ a1=Q 65.R6a4+ Kd3 66.Rxa1 Bxa1 67.Rxa1 Rg8 68.Rd1+ Ke4 69.Re1+ Kf5 70.Rf1+ Ke4
 [WCCC 1983](WCCC_1983 "WCCC 1983"), round 5, [Phoenix](Phoenix "Phoenix") - Awit <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
+
 [Event "WCCC 1983"]
 [Site "New York, USA"]
 [Date "1983.10.25"]

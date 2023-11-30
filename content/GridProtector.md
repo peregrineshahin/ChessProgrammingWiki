@@ -24,6 +24,7 @@ GridProtector had its debut the [PT 49](PT_49 "PT 49") operated by [Timo Haupt](
 [PT 49](PT_49 "PT 49"), round 1, GridProtector - [HIARCS](HIARCS "HIARCS"), [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Timo Haupt](Timo_Haupt "Timo Haupt"), and [Kai Himstedt](Kai_Himstedt "Kai Himstedt") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "PT 49"]
 [Site "Leiden"]
 [Date "2015.10.17"]

@@ -21,6 +21,7 @@ a series of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Che
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.13"]
@@ -49,6 +50,7 @@ Ng3+ 49.Ke1 Nfe4 50.Qf3 Ra1+ 51.Qd1 Rxd1+ 52.Kxd1 0-1
 
 
 ```
+
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.15"]

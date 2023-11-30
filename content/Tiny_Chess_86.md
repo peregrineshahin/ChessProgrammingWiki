@@ -21,6 +21,7 @@ a chess program by [Jan Kuipers](Jan_Kuipers "Jan Kuipers") written in [8086](80
 
 
 ```
+
 [Event "Microcomputer Chess Championship 1980"]
 [Site " San Jose, CA"]
 [Date "1980.09.05"]

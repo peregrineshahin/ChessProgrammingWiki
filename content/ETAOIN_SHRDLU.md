@@ -13,6 +13,7 @@ a chess program by [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.")
 [ACM 1975](ACM_1975 "ACM 1975"), round 4, [Wita](Awit "Awit") - ETAOIN SHRDLU <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "ACM 1975"]
 [Site "Minneapolis, MN"]
 [Date "1975.10.21"]

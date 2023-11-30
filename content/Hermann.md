@@ -17,6 +17,7 @@ In Germany, Arminius was rechristened *Hermann* (Heer Mann - army man) by [Marti
 [Volker Annuss](Volker_Annuss "Volker Annuss") and [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") in Hermann vs. [Argonaut](Argonaut "Argonaut"), [ICT 2006](ICT_2006 "ICT 2006") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
+
 [Event "ICT 2006"]
 [Site "Leiden NED"]
 [Date "2006.05.07"]

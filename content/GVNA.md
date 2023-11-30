@@ -12,6 +12,7 @@ a series of mainframe chess programs written in the early 80s by [Gert Vriend](i
 [DOCCC 1981](DOCCC_1981 "DOCCC 1981"), Round 1, [Usurpator II](Usurpator "Usurpator") - GVNAA <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
+
 [Event "DCCC 1981"]
 [Site "Utrecht NED"]
 [Date "1981.10.??"]

@@ -330,6 +330,7 @@ A tiny [C++11](Cpp "Cpp") program to compute Elo difference and LOS from W/L/D c
 
 
 ```C++
+
 ##include <cstdio>
 ##include <cstdlib>
 ##include <cmath>
@@ -398,6 +399,7 @@ The [sequential probability ratio test](https://en.wikipedia.org/wiki/Sequential
 
 
 ```C++
+
 from __future__ import division
 
 import math

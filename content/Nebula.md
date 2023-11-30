@@ -21,6 +21,7 @@ an [UCI](UCI "UCI") compliant chess engine by [Dragan Zdravkovic](Dragan_Zdravko
 
 
 ```
+
 [Event "CCT15"]
 [Site "Variant-ICS, Amsterdam, NL"]
 [Date "2013.02.23"]

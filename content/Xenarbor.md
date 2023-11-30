@@ -24,6 +24,7 @@ a chess program written in [Fortran](Fortran "Fortran") <a id="cite-note-2" href
 
 
 ```
+
 [Event "ACM 1977"]
 [Site "Seattle USA"]
 [Date "1977.10.16"]
@@ -51,6 +52,7 @@ Qxe5 45.a5 Qhe4+ 46.Kd2 Q5d4# 0-1
 
 
 ```
+
 [Event "ACM 1984"]
 [Site "San Francisco USA"]
 [Date "1984.10.07"]

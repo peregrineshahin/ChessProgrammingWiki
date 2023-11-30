@@ -19,6 +19,7 @@ an early [microprocessor](https://en.wikipedia.org/wiki/Microprocessor) chess pr
 
 
 ```
+
 [Event "MCCT 1978"]
 [Site "San Jose, US-CA"]
 [Date "1978.03.??"]

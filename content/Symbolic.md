@@ -21,6 +21,7 @@ a chess playing program by [Steven Edwards](Steven_Edwards "Steven Edwards") wit
 
 
 ```
+
 [Event "WCRCC 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.06.21"]

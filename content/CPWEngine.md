@@ -21,6 +21,7 @@ Version 1.1 is probably about 2200 Elo on [CCRL](CCRL "CCRL") scale, but this ne
 The following game represents the current strength of the engine:
 
 ```
+
 [Event "Test game"]
 [Date "2008.08.19"]
 [Round "7"]

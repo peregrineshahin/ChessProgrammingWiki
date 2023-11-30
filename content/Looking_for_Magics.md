@@ -22,6 +22,7 @@ title: Looking for Magics
 |  Just trying out [random numbers](Pseudorandom_Number_Generator "Pseudorandom Number Generator") with a low number of nonzero bits until you find a number which works is by far the fastest and easiest way to generate the magic numbers, in my experience. On my Core Duo 2.8 GHz, it takes less than a second to find magic numbers for rooks and bishops for all squares (and I have made no attempt to optimize the code, it should be easy to make it much faster). Here is the source code:
 
 ```C++
+
 ##include <stdio.h>
 ##include <stdlib.h>
 

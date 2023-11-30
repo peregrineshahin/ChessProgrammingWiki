@@ -36,6 +36,7 @@ These are the relevant code snippets and data declarations of the attack and x-r
 
 
 ```C++
+
 static u64 rays[0x8000]; /* 256 KByte */
 u64 bmask45[64];
 u64 bmask135[64];
@@ -75,6 +76,7 @@ In [Java](Java "Java"), the code looks quite similar, embedded inside the class 
 
 
 ```C++
+
 final static long[] rays = new long[0x8000];
 final static long[] bmask45 = new long[64];
 final static long[] bmask135 = new long[64];
@@ -117,6 +119,7 @@ static int key135(long b, int f) {return keyDiag(b & bmask135[f]);}
 
 
 ```
+
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.01.31"]
@@ -145,6 +148,7 @@ Nxa3 49.Ra1 Nc4 50.Rb1 a3 51.Nc1 Nb2+ 52.Kc2 d4 53.Na2 d3+ 54.Kd2 Rd5 55.c4 Nxc4
 
 
 ```
+
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.02.01"]

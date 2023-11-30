@@ -23,6 +23,7 @@ The 8 games replayable in a Lichess study with eval on a graph : <https://liche
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.14"]
@@ -45,6 +46,7 @@ Rc8 38.Re1 1-0
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.15"]
@@ -68,6 +70,7 @@ Bc6 25.Rg1 Rhg8 26.Ne4 Bxe4 27.Bxe4 Rac8 28.Bd3 Qb6 29.Bb5 Nf6 30.Ba4 e4 31.Rde1
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.17"]
@@ -90,6 +93,7 @@ Bc6 25.Rg1 Rhg8 26.Ne4 Bxe4 27.Bxe4 Rac8 28.Bd3 Qb6 29.Bb5 Nf6 30.Ba4 e4 31.Rde1
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.18"]
@@ -111,6 +115,7 @@ Bb5+ 33.Kg1 Bd7 34.h3 Ra2 35.R7c2 Rxc2 36.Rxc2 Kh7 37.Rd2 Rxd2 38.Bxd2 Kg6 1/2-1
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.20"]
@@ -140,6 +145,7 @@ Be8 64.Ba3 Bg6 65.c5 Bxe4 66.c6 Ke6 67.c7 Bb7 68.Bc5 Kd5 69.Bg1 Bc8 70.b6 Ke4 71
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.21"]
@@ -165,6 +171,7 @@ Ke4 49.Kd2 Kd5 50.Ke2 Rd8 51.Rg7 Rf8 52.Rg5 Ke4 53.Rg3 Rh8 54.Rg2 a3 55.Rf2 Rh4 
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.23"]
@@ -187,6 +194,7 @@ Kf8 43.Rxc5 Nd1 44.Rxe5 a3 45.Rf5+ Ke8 46.Ra5 Nb2 47.Rxa3 1-0
 
 
 ```
+
 [Event "Shredder versus Hydra 2004"]
 [Site "Abu Dhabi"]
 [Date "2004.08.24"]

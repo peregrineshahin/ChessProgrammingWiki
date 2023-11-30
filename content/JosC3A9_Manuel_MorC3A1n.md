@@ -20,6 +20,7 @@ a Spanish [computer checkers](Checkers "Checkers") and computer chess programmer
 
 
 ```
+
 [Event "WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.22"]

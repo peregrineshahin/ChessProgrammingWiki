@@ -20,6 +20,7 @@ Ziggurat played the [WCSC 2017](WCSC_2017 "WCSC 2017"), here the round 1 game Zi
 with [David Norris](David_Norris "David Norris") and [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") operating their engines <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "WCSC 2017"]
 [Site "Leiden"]
 [Date "2017.07.01"]

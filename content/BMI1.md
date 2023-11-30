@@ -16,6 +16,7 @@ BMI1 instructions may speedup various [bitboard](Bitboards "Bitboards") [operati
 Logical And Not, the [relative complement](General_Setwise_Operations#RelativeComplement "General Setwise Operations"), no intrinsic due to compiler support.
 
 ```C++
+
 dest ::= ~src1 & src2;
 
 ```
@@ -25,6 +26,7 @@ dest ::= ~src1 & src2;
 Bit Field Extract. Nice to extract some consecutive bits from a ([rotated](Rotated_Bitboards "Rotated Bitboards")) [occupancy](Occupancy "Occupancy") bitboard, or, as they name suggests, from [bit-field](https://en.wikipedia.org/wiki/Bit_field) structures.
 
 ```C++
+
 dest ::= (src >> start) & ((1 << len)-1);
 
 unsigned __int32 _bextr_u32(unsigned __int32 src, unsigned __int32 start, unsigned __int32 len);
@@ -35,6 +37,7 @@ unsigned __int64 _bextr_u64(unsigned __int64 src, unsigned __int32 start, unsign
 A shiftless [sign extension](Score#SignExtension "Score") might be applied by <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
 ```C++
+
 dest_signextended ::= (dest ^ signbit) - signbit
 
 ```
@@ -44,6 +47,7 @@ dest_signextended ::= (dest ^ signbit) - signbit
 Extract Lowest Set Isolated Bit, [isolates](General_Setwise_Operations#LS1BIsolation "General Setwise Operations") [least significant one bit](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations").
 
 ```C++
+
 dest ::= src & -src;
 
 unsigned __int64 _blsi_u64(unsigned __int64 src);
@@ -55,6 +59,7 @@ unsigned __int64 _blsi_u64(unsigned __int64 src);
 Get Mask Up to Lowest Set Bit, [sets all bits below](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") the [least significant one bit](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations"), and clears all upper bits.
 
 ```C++
+
 dest ::= (src-1) ^ src;
 
 unsigned __int64 _blsmsk_u64(unsigned __int64 src);
@@ -66,6 +71,7 @@ unsigned __int64 _blsmsk_u64(unsigned __int64 src);
 Reset Lowest Set Bit, [resets](General_Setwise_Operations#LS1BReset "General Setwise Operations") [least significant one bit](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations").
 
 ```C++
+
 dest ::= (src-1) & src;
 
 unsigned __int64 _blsr_u64(unsigned __int64 src);
@@ -77,6 +83,7 @@ unsigned __int64 _blsr_u64(unsigned __int64 src);
 Count the Number of Leading Zero Bits, [Leading Zero Count](BitScan#LeadingZeroCount "BitScan"), initially from [AMD's](AMD "AMD") [SSE4a](SSE4#SSE4a "SSE4") aka [Advanced Bit Manipulations](SSE4#ABM "SSE4") (ABM).
 
 ```C++
+
 unsigned __int64 _lzcnt_u64(unsigned __int64 src);
 
 ```
@@ -86,6 +93,7 @@ unsigned __int64 _lzcnt_u64(unsigned __int64 src);
 Count the Number of Trailing Zero Bits, [Trailing Zero Count](BitScan#TrailingZeroCount "BitScan") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ```C++
+
 unsigned __int64 _tzcnt_u64(unsigned __int64 src);
 
 ```

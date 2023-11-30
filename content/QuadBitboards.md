@@ -21,6 +21,7 @@ A conversion of a quad-bitboard to 16 disjoint bitboards can be done quite effic
 
 
 ```C++
+
 void quad2hexBB(U64 h[], const QBB &s) {
    __m128i a,b,c,d,e,f, m1;
    __m128i* p = (__m128i*) &s;
@@ -59,6 +60,7 @@ Converting the 64 vertical [nibbles](Nibble "Nibble") to a [8x8 board](8x8_Board
 
 
 ```C++
+
 void quadBB2Board(char board[], const QBB &quad) {
    static u64 XMM_ALIGN sq2bb_masks[8] = {
       0x0101010101010101, 0x0202020202020202,
@@ -126,6 +128,7 @@ Another application is to perform [parallel prefix](Parallel_Prefix_Algorithms "
 
 
 ```C++
+
 qbb.bb[0] = white rooks or queens
 qbb.bb[1] = black rooks or queens
 qbb.bb[2] = black king
@@ -139,6 +142,7 @@ Using an appropriate [C++](Cpp "Cpp") QBB-class with overloaded operators using 
 
 
 ```C++
+
 void nortOccl(QBB &gen /* in, out */, U64 pro64) {
    QBB pro(pro64);
    gen |= pro & (gen <<  8);

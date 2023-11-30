@@ -22,6 +22,7 @@ When a piece captures, a capture flag is set on that piece. In the quiescence I 
 ```
 
 ```C++
+
 ##define QUIES_MAX 2
 
 int quies(int depth, int alpha, int beta)
@@ -60,6 +61,7 @@ I play test games against a very strong chess program ([Rybka](Rybka "Rybka")). 
 [IPCCC 1994](IPCCC_1994 "IPCCC 1994"), round 7, Zzzzzz - [Xxxx](XXXX "XXXX")
 
 ```
+
 [Event "IPCCC 1994"]
 [Site "Paderborn"]
 [Date "1994.10.01"]
@@ -80,6 +82,7 @@ I play test games against a very strong chess program ([Rybka](Rybka "Rybka")). 
 [DOCCC 2007](DOCCC_2007 "DOCCC 2007"), round 7, Zzzzzz - [Deep Junior](Junior "Junior") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "DOCCC 2007"]
 [Site "Leiden, NED"]
 [Date "2007.10.28"]

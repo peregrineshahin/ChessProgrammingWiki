@@ -54,6 +54,7 @@ Fascinated by his grace, skill, and good looks, the Norwegians hatched a plot to
 
 
 ```
+
 [Event "CCT3"]
 [Site "Internet Chess Club"]
 [Date "2001.05.26"]

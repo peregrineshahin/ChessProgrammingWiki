@@ -39,6 +39,7 @@ At one point I realized that I was drifting into trouble in a game against one o
 
 
 ```
+
 [Event "Kasparov sim-32 (1)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -62,6 +63,7 @@ Re5 30.a6 bxa6 31.b6 Nd8 32.b7 Nxb7 33.Rxb7 Ra5 34.Nc3 f5 35.Rh7 Rc5 36.Ne2 h4
 
 
 ```
+
 [Event "Kasparov sim-32 (2)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -85,6 +87,7 @@ Re5 30.a6 bxa6 31.b6 Nd8 32.b7 Nxb7 33.Rxb7 Ra5 34.Nc3 f5 35.Rh7 Rc5 36.Ne2 h4
 
 
 ```
+
 [Event "Kasparov sim-32 (3)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -108,6 +111,7 @@ Bxf3 10.Qxf3 O-O 11.d3 Na5 12.Bc2 Qd7 13.Nd2 Nc6 14.Nf1 d5 15.Ne3 Rfd8 16.Nf5 dx
 
 
 ```
+
 [Event "Kasparov sim-32 (4)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -133,6 +137,7 @@ Kf6 47.g4 g6 48.Re6+ Kg7 49.Be8 Ra6 50.b5 Ra4 51.Bc6 Rxg4 52.b6 Rxh4 53.b7 Rh1+
 
 
 ```
+
 [Event "Kasparov sim-32 (5)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -156,6 +161,7 @@ Rc8+ 40.Kd2 Ng6 41.Rb8 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (6)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -179,6 +185,7 @@ Kh7 39.Nf4 Qg8 40.Qxg8+ Kxg8 41.Nf5 Rh7 42.e5 Rh8 43.e6 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (7)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -199,6 +206,7 @@ Kh7 39.Nf4 Qg8 40.Qxg8+ Kxg8 41.Nf5 Rh7 42.e5 Rh8 43.e6 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (8)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -224,6 +232,7 @@ Bg7 33.Rxh8 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (9)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -247,6 +256,7 @@ Ke7 40.Rxd8 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (10)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -274,6 +284,7 @@ Rxa2 56.Rxe3 Rah2 57.Rf7+ Kg6 58.Ref3 Rxh7 59.Rxh7 Kxh7 60.Kxa6 Rh5 61.Rg3 Rd5 6
 
 
 ```
+
 [Event "Kasparov sim-32 (11)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -297,6 +308,7 @@ Kg7 33.Ra5 Rb6 34.Ke2 Bf7 35.Kd2 Bg8 36.Rac5 Rb7 37.Rc6 Ra7 38.f5 g5 39.Rg6+ Kh7
 
 
 ```
+
 [Event "Kasparov sim-32 (12)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -318,6 +330,7 @@ Kg7 33.Ra5 Rb6 34.Ke2 Bf7 35.Kd2 Bg8 36.Rac5 Rb7 37.Rc6 Ra7 38.f5 g5 39.Rg6+ Kh7
 
 
 ```
+
 [Event "Kasparov sim-32 (13)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -367,6 +380,7 @@ Kg6 34.Qe4 Qb8+ 35.Kh1 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (16)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -392,6 +406,7 @@ Kg6 34.Qe4 Qb8+ 35.Kh1 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (17)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -432,6 +447,7 @@ a3 57.Kf6 h6 58.Ra8+ Kh7 59.Ng6 1-0
 
 
 ```
+
 [Event "Kasparov sim-32 (19)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -537,6 +553,7 @@ c6 18.Nxf6+ Bxf6 19.h4 Be7 20.g5 cxb5 21.cxb5 f5 22.Bh3 Qc8 23.Bd2 Qc5 24.exf5 B
 
 
 ```
+
 [Event "Kasparov sim-32 (25)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -562,6 +579,7 @@ The [mentioned game](Turbostar#KasparovSimul "Turbostar"), where Turbostar 432 m
 
 
 ```
+
 [Event "Kasparov sim-32 (26)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -615,6 +633,7 @@ Rh3 39.Rc7 Kg8 40.Bf6 Ra3 41.Rg7+ Kf8 42.Rxg6 Rxa2+ 43.Kf3 h5 44.Rh6 Ra3+ 45.Ke4
 
 
 ```
+
 [Event "Kasparov sim-32 (29)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]
@@ -665,6 +684,7 @@ Re8 25.Rad1 Nh4 26.Bxc5 Nf3+ 27.Kf1 Nxe1 28.Rxe1 a5 29.a3 Nc2 30.Re2 Nd4 31.Re4 
 
 
 ```
+
 [Event "Kasparov sim-32 (32)"]
 [Site "Hamburg"]
 [Date "1985.06.06"]

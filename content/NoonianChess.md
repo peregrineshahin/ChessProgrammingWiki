@@ -21,6 +21,7 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 ```
+
 [Event "WCCC 2002"]
 [Site "Maastricht, The Netherlands"]
 [Date "2002.07.08"]

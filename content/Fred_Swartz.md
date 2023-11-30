@@ -14,6 +14,7 @@ an American computer scientist and former computer chess programmer. In the earl
 [Belle](Belle "Belle") vs [CHAOS](CHAOS "CHAOS"), [WCCC 1980](WCCC_1980 "WCCC 1980"), [Thompson](Ken_Thompson "Ken Thompson"), [Friedel](Frederic_Friedel "Frederic Friedel"), [Berman](Victor_Berman "Victor Berman") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, Swartz, [Donskoy](Mikhail_Donskoy "Mikhail Donskoy") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "3rd World Computer Chess Championship"]
 [Site "Linz, Austria"]
 [Date "1980.09.29"]

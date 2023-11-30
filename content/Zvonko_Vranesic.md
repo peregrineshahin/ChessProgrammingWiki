@@ -27,6 +27,7 @@ Zvonko Vranesic represented Canada at five [Chess Olympiads](https://en.wikipedi
 
 
 ```
+
 [Event "Olympiad"]
 [Site "Tel Aviv (Israel)"]
 [Date "1964.??.??"]
@@ -49,6 +50,7 @@ Zvonko Vranesic represented Canada at five [Chess Olympiads](https://en.wikipedi
 
 
 ```
+
 [Event "Lone Pine"]
 [Site "Lone Pine"]
 [Date "1975.??.??"]

@@ -14,6 +14,7 @@ and was also an early entry in the [ANU Carbon-Silicon Tournaments](ANU_Carbon-S
 [NC3 2005](NC3_2005 "NC3 2005"), round 6, HexxPawn - [Chompster](Chompster "Chompster") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "NC3 2005"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2005.07.17"]

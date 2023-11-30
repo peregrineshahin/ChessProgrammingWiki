@@ -65,6 +65,7 @@ The [C](C "C") like pseudo code is based on [Peter Mysliwietz'](Peter_Mysliwietz
 
 
 ```C++
+
 /**
  * simulatedAnnealing
  * @author Peter Mysliwietz, slightly modified

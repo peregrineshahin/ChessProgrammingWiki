@@ -6,6 +6,7 @@ title: CPWEngine transposition
 For definitions, see [CPW-Engine_transposition_h](CPW-Engine_transposition_h "CPW-Engine transposition h")
 
 ```C++
+
 ##include "stdafx.h"
 ##include "transposition.h"
 

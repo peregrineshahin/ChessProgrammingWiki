@@ -64,6 +64,7 @@ The mentioned game of Turochamp versus [Alick Glennie](https://en.wikipedia.org/
 
 
 ```
+
 [Event "Paper machine - Human"]
 [Site "Manchester, UK"]
 [Date "1952"]

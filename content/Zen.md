@@ -13,6 +13,7 @@ a chess program by [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap")
 [DOCCC 1988](DOCCC_1988 "DOCCC 1988"), round 6, [LChess](LChess "LChess") - Zen
 
 ```
+
 [Event "DOCCC 1988"]
 [Site "Leiden NED"]
 [Date "1988.10.??"]

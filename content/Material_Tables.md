@@ -30,6 +30,7 @@ much to huge, which was the main reason to use a smaller [material hash table](M
 
 
 ```C++
+
 value_t matValue[9][9][3][3][3][3][3][3][2][2];
 
 ```
@@ -40,6 +41,7 @@ or better a one dimensional error with an [incremental updated](Incremental_Upda
 
 
 ```C++
+
 value_t matValue[9*9*3*3*3*3*3*3*2*2];
 
 ```
@@ -50,6 +52,7 @@ Material tables along with imbalance tables, first appeared in [Jury Osipov's](J
 
 
 ```C++
+
   materialSum_key =
     pieceCount[WhiteQueen]  +
     pieceCount[BlackQueen]  * 2 +

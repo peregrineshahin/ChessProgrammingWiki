@@ -12,6 +12,7 @@ the [Delft University of Technology](Delft_University_of_Technology "Delft Unive
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 5, Dutch - [Ostrich](Ostrich "Ostrich") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]

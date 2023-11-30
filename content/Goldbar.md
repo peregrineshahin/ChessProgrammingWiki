@@ -21,6 +21,7 @@ In May [2014](Timeline#2014 "Timeline"), Goldbar won the [CSVN 1st Open Internet
 [ICT 2011](ICT_2011 "ICT 2011"), [Bart Goldhoorn](Bart_Goldhoorn "Bart Goldhoorn") and [Johan de Koning](Johan_de_Koning "Johan de Koning"), Goldbar - [The King](The_King "The King") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "ICT 2011"]
 [Site "Leiden"]
 [Date "2011.06.12"]

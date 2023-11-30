@@ -27,6 +27,7 @@ BugChess2 was first released in May 2006, and played a strong [WCRCC 2008](WCRCC
 [WCRCC 2008](WCRCC_2008 "WCRCC 2008"), round 14, BugChess2 - [Rybka](Rybka "Rybka") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "WCRCC 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.06.22"]

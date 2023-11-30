@@ -16,6 +16,7 @@ an American computer scientist with a Ph.D. from [University of Illinois at Urba
 Anthony Cozzie just before round 7, [Zappa](Zappa "Zappa") - [Junior](Junior "Junior"), [WCCC 2005](WCCC_2005 "WCCC 2005") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
+
 [Event "WCCC 2005"]
 [Site "Reykjavík, Iceland"]
 [Date "2005.08.19"]

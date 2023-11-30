@@ -25,6 +25,7 @@ It further won the [NC3 2003](NC3_2003 "NC3 2003") and [NC3 2004](NC3_2004 "NC3 
 
 
 ```
+
 [Event "WCCC 2002"]
 [Site "Maastricht, NL"]
 [Date "2002.07.07"]
@@ -53,6 +54,7 @@ Ne7 18.Rh3 Rfc8 19.Qh5 Nf8 20.Nd2 Neg6 21.Rf1 Qc6 22.Rf2 Qd7 23.f5 exf5 24.exf5 
 
 
 ```
+
 [Event "WCCC 2002"]
 [Site "Maastricht, NL"]
 [Date "2002.07.07"]

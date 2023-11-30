@@ -13,6 +13,7 @@ a [PC](IBM_PC "IBM PC") chess program by [Eric van Riet Paap](Eric_van_Riet_Paap
 [4th Computer Olympiad 1992](4th_Computer_Olympiad#Chess "4th Computer Olympiad"), round 5, Genesis - [The King](The_King "The King") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
+
 [Event "4th Computer Olympiad"]
 [Site "London, UK"]
 [Date "1992.08.??"]

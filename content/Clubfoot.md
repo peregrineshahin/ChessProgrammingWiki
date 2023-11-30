@@ -18,6 +18,7 @@ Links to 32 and 64 bit binaries for [Windows](Windows "Windows") and [Linux](Lin
 Here is a sample 5 minute game to demonstrate the [strength](Playing_Strength "Playing Strength") - or lack thereof - of Clubfoot:
 
 ```
+
 [Event "Clubfoot vs Komodo"]
 [Site "?"]
 [Date "2015.03.07"]

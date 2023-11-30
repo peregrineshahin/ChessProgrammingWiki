@@ -26,6 +26,7 @@ The **Elite Avant Garde V10** with a [Motorola](index.php?title=Motorola&action=
 [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") operating **Elite Avant Garde V10** and [David Bronstein](David_Bronstein "David Bronstein"), [Aegon 1991](Aegon_1991 "Aegon 1991") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "6th AEGON man-mach"]
 [Site "The Hague NED"]
 [Date "1991.05.29"]

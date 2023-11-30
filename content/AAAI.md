@@ -11,57 +11,128 @@ the **Association for the Advancement of Artificial Intelligence** is a [nonprof
 ## Presidents
 
 Since 1985, Presidents have served a two-year term, preceded by two years as President-Elect, and followed by two years as Past President. Prior to that time, presidents served one year in each position <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
+<table class="wikitable">
 
-|  President
-|  term
-|
-| --- | --- |
-| [Allen Newell](Allen_Newell "Allen Newell") |  1979-1980
-|
-| [Edward Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum") |  1980-1981
-|
-| [Marvin Minsky](Marvin_Minsky "Marvin Minsky") |  1981-1982
-|
-| [Nils J. Nilsson](Mathematician#NilsNilsson "Mathematician") |  1982-1983
-|
-| [John McCarthy](John_McCarthy "John McCarthy") |  1983-1984
-|
-| [Woodrow W. Bledsoe](Woodrow_W._Bledsoe "Woodrow W. Bledsoe") |  1984-1985
-|
-| [Patrick Winston](Patrick_Winston "Patrick Winston") |  1985-1987
-|
-| [Raj Reddy](Mathematician#RajReddy "Mathematician") |  1987-1989
-|
-| [Daniel Bobrow](Mathematician#DGBobrow "Mathematician") |  1989-1991
-|
-| [Patrick Hayes](Mathematician#PHayes "Mathematician") |  1991-1993
-|
-| [Barbara Grosz](Mathematician#BJGrosz "Mathematician") |  1993-1995
-|
-| [Randall Davis](Mathematician#RDavis "Mathematician") |  1995-1997
-|
-| [David Waltz](David_Waltz "David Waltz") |  1997-1999
-|
-| [Bruce Buchanan](Mathematician#BGBuchanan "Mathematician") |  1999-2001
-|
-| [Tom Mitchell](Tom_Mitchell "Tom Mitchell") |  2001-2003
-|
-| [Ron Brachman](https://en.wikipedia.org/wiki/Ronald_J._Brachman) |  2003-2005
-|
-| [Alan Mackworth](https://en.wikipedia.org/wiki/Alan_Mackworth) |  2005-2007
-|
-| [Eric Horvitz](Mathematician#EJHorvitz "Mathematician") |  2007-2009
-|
-| [Martha E. Pollack](Mathematician#MEPollack "Mathematician") |  2009-2010
-|
-| [Henry A. Kautz](Mathematician#HAKautz "Mathematician") |  2010-2012
-|
-| [Manuela M. Veloso](Manuela_Veloso "Manuela Veloso") |  2012-2014
-|
-| [Thomas G. Dietterich](Mathematician#TDietterich "Mathematician") |  2014-2016
-|
-| [Subbarao Kambhampati](Mathematician#SKambhampati "Mathematician") |  2017
-|
+<tbody><tr>
+<th> President
+</th>
+<th> term
+</th></tr>
+<tr>
+<td>  <a href="/Allen_Newell" title="Allen Newell">Allen Newell</a>
+</td>
+<td>  1979-1980
+</td></tr>
+<tr>
+<td>  <a href="/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a>
+</td>
+<td>  1980-1981
+</td></tr>
+<tr>
+<td>  <a href="/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a>
+</td>
+<td>  1981-1982
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#NilsNilsson" title="Mathematician">Nils J. Nilsson</a>
+</td>
+<td>  1982-1983
+</td></tr>
+<tr>
+<td>  <a href="/John_McCarthy" title="John McCarthy">John McCarthy</a>
+</td>
+<td>  1983-1984
+</td></tr>
+<tr>
+<td>  <a href="/Woodrow_W._Bledsoe" title="Woodrow W. Bledsoe">Woodrow W. Bledsoe</a>
+</td>
+<td>  1984-1985
+</td></tr>
+<tr>
+<td>  <a href="/Patrick_Winston" title="Patrick Winston">Patrick Winston</a>
+</td>
+<td>  1985-1987
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#RajReddy" title="Mathematician">Raj Reddy</a>
+</td>
+<td>  1987-1989
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#DGBobrow" title="Mathematician">Daniel Bobrow</a>
+</td>
+<td>  1989-1991
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#PHayes" title="Mathematician">Patrick Hayes</a>
+</td>
+<td>  1991-1993
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#BJGrosz" title="Mathematician">Barbara Grosz</a>
+</td>
+<td>  1993-1995
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#RDavis" title="Mathematician">Randall Davis</a>
+</td>
+<td>  1995-1997
+</td></tr>
+<tr>
+<td>  <a href="/David_Waltz" title="David Waltz">David Waltz</a>
+</td>
+<td>  1997-1999
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#BGBuchanan" title="Mathematician">Bruce Buchanan</a>
+</td>
+<td>  1999-2001
+</td></tr>
+<tr>
+<td>  <a href="/Tom_Mitchell" title="Tom Mitchell">Tom Mitchell</a>
+</td>
+<td>  2001-2003
+</td></tr>
+<tr>
+<td>  <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Ronald_J._Brachman">Ron Brachman</a>
+</td>
+<td>  2003-2005
+</td></tr>
+<tr>
+<td>  <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Alan_Mackworth">Alan Mackworth</a>
+</td>
+<td>  2005-2007
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#EJHorvitz" title="Mathematician">Eric Horvitz</a>
+</td>
+<td>  2007-2009
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#MEPollack" title="Mathematician">Martha E. Pollack</a>
+</td>
+<td>  2009-2010
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#HAKautz" title="Mathematician">Henry A. Kautz</a>
+</td>
+<td>  2010-2012
+</td></tr>
+<tr>
+<td>  <a href="/Manuela_Veloso" title="Manuela Veloso">Manuela M. Veloso</a>
+</td>
+<td>  2012-2014
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#TDietterich" title="Mathematician">Thomas G. Dietterich</a>
+</td>
+<td>  2014-2016
+</td></tr>
+<tr>
+<td>  <a href="/Mathematician#SKambhampati" title="Mathematician">Subbarao Kambhampati</a>
+</td>
+<td>  2017
+</td></tr></tbody></table>
 
 ## See also
 

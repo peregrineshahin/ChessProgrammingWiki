@@ -137,6 +137,7 @@ Since 1994 IsiChess played the [International Paderborn Computer Chess Champions
 
 
 ```
+
 [Event "WCCC 2004"]
 [Site "Ramat-Gan, Israel"]
 [Date "2004.07.05"]
@@ -171,6 +172,7 @@ Qe6+ 71.Ka7 Nc4 72.Qb3 Bc8 73.Qb5 Qf7+ 74.Kb8 Bd7 75.Qc5 Bxa4 76.Nd3 Kh7 77.Qc7 
 
 
 ```
+
 [Event "WCCC 2005"]
 [Site "Reykjavík, Iceland"]
 [Date "2005.08.21"]
@@ -199,6 +201,7 @@ Na5 20.d4 cxd4 21.cxd4 b4 22.d5 Qd7 23.Nc2 b3 24.Na1 Qa4 25.fxe5 dxe5 26.Qd3 Nc4
 
 
 ```
+
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.26"]

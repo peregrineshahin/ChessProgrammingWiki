@@ -18,6 +18,7 @@ Hector played five consecutive [Dutch Open Computer Chess Championships](Dutch_O
 [Aegon 1995](Aegon_1995 "Aegon 1995"), round 2, Hector 2 - [Zsuzsa Polgar](https://en.wikipedia.org/wiki/Susan_Polgar)
 
 ```
+
 [Event "Aegon 1995"]
 [Site "The Hague NED"]
 [Date "1995.04.26"]
@@ -40,6 +41,7 @@ Hector played five consecutive [Dutch Open Computer Chess Championships](Dutch_O
 [Aegon 1995](Aegon_1995 "Aegon 1995"), round 6, Hector 2 - [David Bronstein](David_Bronstein "David Bronstein")
 
 ```
+
 [Event "Aegon 1995"]
 [Site "The Hague NED"]
 [Date "1995.05.03"]
@@ -61,6 +63,7 @@ Re8 34.h3 Re7 35.Ba5 Re3 36.Kf2 Qe7 37.Bb6 Bh2 38.Bc5 Bxg1+ 39.Kg2 0-1
 [DOCCC 1996](DOCCC_1996 "DOCCC 1996"), Round 8, [Bionic](Bionic "Bionic") - Hector <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
+
 [Event "DOCCC 1996"]
 [Site "Leiden NED"]
 [Date "1996.11.16"]

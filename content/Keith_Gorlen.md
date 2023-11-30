@@ -21,6 +21,7 @@ Keith Gorlen operating Chess 3.0, [Monty Newborn](Monroe_Newborn "Monroe Newborn
 
 
 ```
+
 [Event "ACM 1970"]
 [Site "New York USA"]
 [Date "1970.08.31"]

@@ -24,6 +24,7 @@ a chess program by [Ard van Bergen](Ard_van_Bergen "Ard van Bergen") written in 
 
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -53,6 +54,7 @@ Nef5 15. g4 Bxc3 16. bxc3 Nxe3 17. fxe3 Nb5 18. c4 Nc3 19. Qf5 g6 20. Qe5 Qxd3
 
 
 ```
+
 [Event "DCCC 1987"]
 [Site "Leiden NED"]
 [Date "1987.10.??"]
@@ -77,6 +79,7 @@ Nef5 15. g4 Bxc3 16. bxc3 Nxe3 17. fxe3 Nb5 18. c4 Nc3 19. Qf5 g6 20. Qe5 Qxd3
 
 
 ```
+
 [Event "DCCC 1987"]
 [Site "Leiden NED"]
 [Date "1987.10.??"]

@@ -31,6 +31,7 @@ The King, famous for "his" interesting and entertaining playing style, was comme
 
 
 ```
+
 [Event "DOCCC 1991"]
 [Site "Utrecht NED"]
 [Date "1991.10.??"]
@@ -64,6 +65,7 @@ Be4 36.b5 Nc4 37.Re7 Bd5 38.Rd7 1-0
 
 
 ```
+
 [Event "ICT 2003"]
 [Site "Leiden NED"]
 [Date "2003.05.18"]
@@ -90,6 +92,7 @@ Nxf6 22.Qxc5 Kg8 23.Rc1 b6 24.Qxc7 Qxc7 25.Rxc7 a5 26.d6 Rd8 27.Ng4 fxg4
 
 
 ```
+
 [Event "ICT 2003"]
 [Site "Leiden NED"]
 [Date "2003.05.18"]

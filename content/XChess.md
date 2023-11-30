@@ -8,7 +8,7 @@ title: XChess
 [](http://www.atarimania.com/game-atari-st-xchess_28576.html) XChess Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **XChess**,  
 
-a commercial chess program with [3D graphics board](3D_Graphics_Board "3D Graphics Board") for the [Atari ST](Atari_ST "Atari ST") by chess programmer [Bert van der Liet](index.php?title=Bert_van_der_Liet&action=edit&redlink=1 "Bert van der Liet (page does not exist)") and graphic artist Karin van Bodegraven, released in 1986. 
+a commercial chess program with   for the [Atari ST](Atari_ST "Atari ST") by chess programmer [Bert van der Liet](index.php?title=Bert_van_der_Liet&action=edit&redlink=1 "Bert van der Liet (page does not exist)") and graphic artist Karin van Bodegraven, released in 1986. 
 XChess is based on the chess engine [SCHK-Y](SCHK-Y "SCHK-Y"), written in [C](C "C") and [68000](68000 "68000") [assembly](Assembly "Assembly"), which played the [DOCCC 1986](DOCCC_1986 "DOCCC 1986") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
 
 

@@ -19,6 +19,7 @@ a chess program for the [TRS-80](TRS-80 "TRS-80") by [Paul Ramsteijn](index.php?
 
 
 ```
+
 [Event "DOCCC 1983"]
 [Site "Leiden NED"]
 [Date "1983.08.21"]

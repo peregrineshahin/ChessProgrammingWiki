@@ -44,6 +44,7 @@ From March 1998 on a [Winboard](WinBoard "WinBoard")-compatible version has been
 
 
 ```
+
 [Event "IPCCC 2002"]
 [Site "Paderborn GER"]
 [Date "2002.03.03"]
@@ -74,6 +75,7 @@ From March 1998 on a [Winboard](WinBoard "WinBoard")-compatible version has been
 
 
 ```
+
 [Event "15th IPCCC 2005"]
 [Site "Paderborn GER"]
 [Date "2005.12.30"]

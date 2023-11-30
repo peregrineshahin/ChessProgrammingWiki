@@ -39,6 +39,7 @@ RomiChess played the [ACCA 2006](ACCA_2006 "ACCA 2006") and [ACCA 2008](ACCA_200
 
 
 ```
+
 [Event "ACCA 2006"]
 [Site "ICC"]
 [Date "2006.11.08"]

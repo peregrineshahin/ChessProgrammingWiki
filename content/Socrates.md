@@ -23,6 +23,7 @@ Since Larry Kaufman mentioned in 1992 that [Null Move Pruning](Null_Move_Pruning
 
 
 ```
+
 [Event "3rd Harvard Cup 1992 G/25"]
 [Site "New York, NY USA"]
 [Date "1992.07.11"]

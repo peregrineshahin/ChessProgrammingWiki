@@ -132,6 +132,7 @@ The Seventh World Computer Chess Championship was a triumph for the [RISC](https
 
 
 ```
+
 [Event "7th World Computer Chess Championship"]
 [Site "Madrid, Spain"]
 [Date "1992.11.24"]
@@ -167,6 +168,7 @@ Round 4, [Chess Genius](Chess_Genius "Chess Genius") - [ChessMachine](ChessMachi
 
 
 ```
+
 [Event "7th World Computer Chess Championship"]
 [Site "Madrid, Spain"]
 [Date "1992.11.26"]
@@ -205,6 +207,7 @@ Round 5, [Kasparov Sparc - ChessMachine WK](Kasparov_Sparc#TheGame "Kasparov Spa
 
 
 ```
+
 [Event "7th World Computer Chess Championship"]
 [Site "Madrid, Spain"]
 [Date "1992.11.27"]

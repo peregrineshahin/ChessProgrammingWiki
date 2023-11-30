@@ -62,6 +62,7 @@ Other [leaf nodes](Leaf_Node "Leaf Node") than terminal nodes determine a heuris
 
 
 ```C++
+
  9*VALUE_QUEEN + 2*VALUE_ROOK + 2*VALUE_BISHOP + 2*VALUE_KNIGHT
 
 ```
@@ -88,6 +89,7 @@ The value range of the score is determined by the mate scores, which range shoul
 
 
 ```C++
+
 -oo                                             zero                                              +oo
  +----------------+-+--------+-+---------------+----+---------------+-+---------+-+---------------+
  | mated in 0...N |~| losing |~| -4 queens ... |draw| ...  4 queens |~| winning |~| mate in N...1 |
@@ -144,6 +146,7 @@ A shiftless sign extension of stored signed values with less bits required than 
 
 
 ```C++
+
 X_signextended ::= (X_zeroextended ^ signbit) - signbit
 
 ```
@@ -154,6 +157,7 @@ or, since masking is usually required anyway,
 
 
 ```C++
+
 X_signextended ::= (X & (signbit-1)) - (X & signbit)
 
 ```

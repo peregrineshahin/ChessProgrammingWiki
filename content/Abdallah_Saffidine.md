@@ -27,7 +27,7 @@ His research interests include [Linear temporal logic (LTL)](https://en.wikipedi
 
 **2011**
 
-- Abdallah Saffidine (**2011**). *Moccos wins the Panthom-Go Tournament*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#PanthomGo "15th Computer Olympiad")
+- Abdallah Saffidine (**2011**). *Moccos wins the Panthom-Go Tournament*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
 - Abdallah Saffidine, [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *Solving breakthrough with Race Patterns and Job-Level Proof Number Search*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13") » [Breakthrough (Game)](</Breakthrough_(Game)> "Breakthrough (Game)")
 - Abdallah Saffidine, [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *A forward chaining based game description language compiler*. [GIGA 2011](http://movingai.com/giga11/cfp.html)
 

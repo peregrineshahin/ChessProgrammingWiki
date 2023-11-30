@@ -27,6 +27,7 @@ For pawns we simply encourage the pawns to advance. Additionally we try to disco
 
 
 ```C++
+
 // pawn
  0,  0,  0,  0,  0,  0,  0,  0,
 50, 50, 50, 50, 50, 50, 50, 50,
@@ -61,6 +62,7 @@ With knights we simply encourage them to go to the center. Standing on the edge 
 
 
 ```C++
+
 // knight
 -50,-40,-30,-30,-30,-30,-40,-50,
 -40,-20,  0,  0,  0,  0,-20,-40,
@@ -82,6 +84,7 @@ As you can see I would happily trade for three pawns any knight standing on the 
 
 
 ```C++
+
 // bishop
 -20,-10,-10,-10,-10,-10,-10,-20,
 -10,  0,  0,  0,  0,  0,  0,-10,
@@ -103,6 +106,7 @@ We avoid corners and borders. Additionally we prefer squares like b3, c4, b5, d3
 
 
 ```C++
+
 rook
   0,  0,  0,  0,  0,  0,  0,  0,
   5, 10, 10, 10, 10, 10, 10,  5,
@@ -124,6 +128,7 @@ The only ideas which came to my mind was to centralize, occupy the 7th rank and 
 
 
 ```C++
+
 //queen
 -20,-10,-10, -5, -5,-10,-10,-20,
 -10,  0,  0,  0,  0,  0,  0,-10,
@@ -145,6 +150,7 @@ Generally with queen I marked places where I wouldn't like to have a queen. Addi
 
 
 ```C++
+
 king middle game
 -30,-40,-40,-50,-50,-40,-40,-30,
 -30,-40,-40,-50,-50,-40,-40,-30,
@@ -166,6 +172,7 @@ In the ending the values change.
 
 
 ```C++
+
 // king end game
 -50,-40,-30,-20,-20,-30,-40,-50,
 -30,-20,-10,  0,  0,-10,-20,-30,

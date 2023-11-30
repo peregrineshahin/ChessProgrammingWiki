@@ -18,6 +18,7 @@ Its predecessor under the name Hector was written in [Delphi](Delphi "Delphi"), 
 [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), round 7, [Telepath](Telepath "Telepath") - Hector for Chess <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
+
 [Event "WCRCC 2007"]
 [Site "Internet Chess Club"]
 [Date "2007.07.21"]
@@ -44,6 +45,7 @@ Rxh4+ 62.Kg6 g4 63.Nd6 Rh3 64.Nf5 g3 65.Nxg3 Rxg3+ 66.Kf6 Re3 67.Kg6 Re6+ 68.Kh7
 [WCCC 2010](WCCC_2010 "WCCC 2010"), round 9, Hector for Chess - [Fridolin](Fridolin "Fridolin") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "WCCC 2010"]
 [Site "Kanazawa, Japan"]
 [Date "2010.09.??"]

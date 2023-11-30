@@ -30,6 +30,7 @@ Kurt 0.9.2.x beta uses [Matt Taylor's](Matt_Taylor "Matt Taylor") [folded BitSca
 
 
 ```C++
+
 static const int LsbDeBruijnMap[64] =
 {
    63, 30,  3, 32, 59, 14, 11, 33,
@@ -61,6 +62,7 @@ unsigned char LeastSignificantBit(bitboard b)
 
 
 ```C++
+
 /**
  * CollapseFiles(bitboard) folds a bitboard vertically into an 8 bit word.
  * By or-ing the files of a bitboard, a 8-bit folded bitboard is calculated. 

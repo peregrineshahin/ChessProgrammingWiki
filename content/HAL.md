@@ -19,6 +19,7 @@ specifically on [linear](https://en.wikipedia.org/wiki/Linearity) [symbolic](htt
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```C++
+
 *                                                                  *)
 (********************************************************************)
 (*                                                                  *)

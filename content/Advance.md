@@ -20,6 +20,7 @@ Advance **2.0** was runner up behind [Cyrus](Cyrus "Cyrus") at the [European MCC
 [ACM 1982](ACM_1982 "ACM 1982"), Round 2, [Ostrich](Ostrich "Ostrich") - Advance 2.4 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
+
 [Event "ACM 1982"]
 [Site "Dallas USA"]
 [Date "1982.10.24"]
@@ -43,6 +44,7 @@ Advance **2.0** was runner up behind [Cyrus](Cyrus "Cyrus") at the [European MCC
 [WCCC 1986](WCCC_1986 "WCCC 1986"), Round 4, [Bebe](Bebe "Bebe") - Advance 68K <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
+
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]

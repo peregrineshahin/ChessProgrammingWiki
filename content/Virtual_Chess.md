@@ -9,7 +9,7 @@ title: Virtual Chess
 **Virtual Chess**,  
 
 a commercial chess program by [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot") and [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") market by [Titus](index.php?title=Titus&action=edit&redlink=1 "Titus (page does not exist)"). It is the 32-bit [Windows](Windows "Windows") version of the [Virtua Chess](Virtua_Chess "Virtua Chess") [MS-DOS](MS-DOS "MS-DOS") program and commercial fellow of [Écume](%C3%89cume "Écume") aka [Cumulus 2](Cumulus "Cumulus").
-Virtual Chess was further ported to the [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) [Video game console](https://en.wikipedia.org/wiki/Video_game_console) released in 1998 as [Virtual Chess 64](https://en.wikipedia.org/wiki/Virtual_Chess_64), featuring a [3D Graphics Board](3D_Graphics_Board "3D Graphics Board") with [animations](https://en.wikipedia.org/wiki/Computer_animation) similar to [Battle Chess](Battle_Chess "Battle Chess"). 
+Virtual Chess was further ported to the [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) [Video game console](https://en.wikipedia.org/wiki/Video_game_console) released in 1998 as [Virtual Chess 64](https://en.wikipedia.org/wiki/Virtual_Chess_64), featuring a   with [animations](https://en.wikipedia.org/wiki/Computer_animation) similar to [Battle Chess](Battle_Chess "Battle Chess"). 
 Virtual Chess participated at the [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), and became two times Professional World Microcomputer Chess Champion <a id="cite-note-2" href="#cite-ref-2">[2]</a> at the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") and [WMCCC 1997](WMCCC_1997 "WMCCC 1997") (runner-up behind [Junior](Junior "Junior")). In 1997, Virtual Chess won the [5th French Computer Chess Championship](FCCC_1997 "FCCC 1997") and participated at the [WCCC 1999](WCCC_1999 "WCCC 1999"). Beside other human-machine matches <a id="cite-note-3" href="#cite-ref-3">[3]</a> , Virtual Chess played the [Harvard Cup 1995](Harvard_Cup_1995 "Harvard Cup 1995") and the [Aegon 1997](Aegon_1997 "Aegon 1997") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . 
 
 
@@ -23,6 +23,7 @@ The two games versus [Étienne Bacrot](https://en.wikipedia.org/wiki/%C3%89tienn
 
 
 ```
+
 [Event "Cap d'Agde comp m"]
 [Site "Cap d'Agde"]
 [Date "1998.??.??"]
