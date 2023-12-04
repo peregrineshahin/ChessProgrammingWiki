@@ -95,7 +95,10 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 </details>
 
 <details>
-<summary><h3>References</h3></summary>
+<summary>
+
+### References
+</summary>
 
 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
 2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
