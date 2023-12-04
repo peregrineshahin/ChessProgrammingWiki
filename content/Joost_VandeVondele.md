@@ -21,9 +21,11 @@ for instance the open source [quantum chemistry](https://en.wikipedia.org/wiki/Q
 focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multiplication algorithms](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm).
 
 
-
 <details>
-<summary><h3>Selected Publications</h3></summary>
+<summary>
+
+### Selected Publications
+</summary>
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
@@ -61,7 +63,10 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 </details>
 
 <details>
-<summary><h3>Postings</h3></summary>
+<summary>
+
+### Postings
+</summary>
 
 
 #### 2019
@@ -83,7 +88,10 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 </details>
 
 <details>
-<summary><h3>External Links</h3></summary>
+<summary>
+
+### External Links
+</summary>
 
 * [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
 * [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
