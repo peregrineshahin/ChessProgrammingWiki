@@ -11,8 +11,14 @@ Oxidation is a [UCI](UCI) compliant variant engine written in [Rust](Rust) and l
  - Support for arbitrary numbers of kings (losing if any of them are checkmated, or by losing all your pieces if you have no king)
  - Options to configure the number of moves a pawn can go on its first move and other miscellaneous settings
 
-## Engine features:
+## Search features:
  - [Alpha-beta search](AlphaBeta)
  - [Quiescence Search](Quiescence_Search) with a limited depth to prevent potential search explosions in variants
  - [Transposition Table](Transposition_Table)
  - [Check Extensions](Check_Extensions)
+ - [Null Move Pruning](Null_Move_Pruning)
+
+## Evaluation features:
+ - [Material](Material)
+ - A penalty for being on the edge of the board
+ - Parameter values tuned with [Texel tuning](Texel27s_Tuning_method)

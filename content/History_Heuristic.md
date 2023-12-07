@@ -8,9 +8,9 @@ title: History Heuristic
 
 a dynamic move ordering method based on the number of cutoffs caused by a given move irrespectively from the position in which the move has been made. The Heuristic was invented by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") in 1983 <a id="cite-note-2" href="#cite-ref-2">[2]</a> and works as follows: on a [cutoff](Beta-Cutoff "Beta-Cutoff") we increment a counter in a special table, addressed either by \[from\]\[to\] (the [Butterfly Boards](Butterfly_Boards "Butterfly Boards")) or by \[piece\]\[to\] <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The added value is typically depth * depth or 2 ^ depth, based on the assumption that otherwise moves from the plies near the leaves would have to much impact on the result. Values retrieved from that table are used to order non-capturing moves. This simple heuristics performs usually better than domain-dependent heuristics, though it may be combined with them. For example, in [Rebel](Rebel "Rebel") only a few non-captures are ordered by history heuristics, then a piece-square approach is used <a id="cite-note-4" href="#cite-ref-4">[4]</a> . In the literature, history heuristic is often presented as depth-independent generalization of the [killer moves](Killer_Heuristic "Killer Heuristic"). It is also said to reflect long-term plans in a position.
 
-## Random Noise?
+## Optimisations to History Heuristic
 
-However, all of those statements were made at the time when typical search depth was much lower than today. Nowadays some authors say that given enough search depth, history heuristic produces just a [random noise](https://en.wikipedia.org/wiki/Pseudorandom_noise) <a id="cite-note-5" href="#cite-ref-5">[5]</a> , whereas [Ed Schröder](Ed_Schroder "Ed Schroder"), advocated not taking into account the cutoffs from the last couple of plies.
+In addition, there has been a new approach to also penalise moves that have been searched but failed to produce a beta cutoff should the node eventually fail high. This heuristic has been worth 5 to 10 elo in modern engines.
 
 ## Update
 
