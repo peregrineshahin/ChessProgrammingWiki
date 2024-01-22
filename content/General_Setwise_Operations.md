@@ -139,27 +139,12 @@ intersection = a & b
 
 Truth table of [and](https://en.wikipedia.org/wiki/AND_gate) for one bit, for a '1' result both inputs need to be '1':
 
-|  a
-|  b
-|  a and b
-|
-| --- | --- | --- |
-|  0
-|  0
-|  0
-|
-|  0
-|  1
-|  0
-|
-|  1
-|  0
-|  0
-|
-|  1
-|  1
-|  1
-|
+|  a  |  b  |  a and b |
+| --- | --- | -------- |
+|  0  |  0  |     0    |
+|  0  |  1  |     0    |
+|  1  |  0  |     0    |
+|  1  |  1  |     1    |
 
 Conjunction acts like a bitwise minimum, min(a, b) or as bitwise multiplication (a * b).
 

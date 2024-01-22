@@ -16,100 +16,24 @@ One [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) digit {'0'..'9', 'A
 
 In a signed nibble [Two's Complement](General_Setwise_Operations#TheTwosComplement "General Setwise Operations") representation, bit 3 is interpreted as sign bit.
 
-
-
-
-
-|  binary
- |  hex
- |  unsigned
- |  signed
- |
-| --- | --- | --- | --- |
-|  0000B
- |  0x0
- |  0
- |  0
- |
-|  0001B
- |  0x1
- |  1
- |  1
- |
-|  0010B
- |  0x2
- |  2
- |  2
- |
-|  0011B
- |  0x3
- |  3
- |  3
- |
-|  0100B
- |  0x4
- |  4
- |  4
- |
-|  0101B
- |  0x5
- |  5
- |  5
- |
-|  0110B
- |  0x6
- |  6
- |  6
- |
-|  0111B
- |  0x7
- |  7
- |  7
- |
-|  1000B
- |  0x8
- |  8
- |  -8
- |
-|  1001B
- |  0x9
- |  9
- |  -7
- |
-|  1010B
- |  0xA
- |  10
- |  -6
- |
-|  1011B
- |  0xB
- |  11
- |  -5
- |
-|  1100B
- |  0xC
- |  12
- |  -4
- |
-|  1101B
- |  0xD
- |  13
- |  -3
- |
-|  1110B
- |  0xE
- |  14
- |  -2
- |
-|  1111B
- |  0xF
- |  15
- |  -1
- |
-
-
-
-
+|  binary |  hex |  unsigned |  signed |
+| ------- | ---- | --------- | ------- |
+|  0000B  |  0x0 |     0     |    0    |
+|  0001B  |  0x1 |     1     |    1    |
+|  0010B  |  0x2 |     2     |    2    |
+|  0011B  |  0x3 |     3     |    3    |
+|  0100B  |  0x4 |     4     |    4    |
+|  0101B  |  0x5 |     5     |    5    |
+|  0110B  |  0x6 |     6     |    6    |
+|  0111B  |  0x7 |     7     |    7    |
+|  1000B  |  0x8 |     8     |    -    |
+|  1001B  |  0x9 |     9     |   -7    |
+|  1010B  |  0xA |    10     |   -6    |
+|  1011B  |  0xB |    11     |   -5    |
+|  1100B  |  0xC |    12     |   -4    |
+|  1101B  |  0xD |    13     |   -3    |
+|  1110B  |  0xE |    14     |   -2    |
+|  1111B  |  0xF |    15     |   -1    |
 
 
 ## Array of Nibbles
