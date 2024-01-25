@@ -4,6 +4,8 @@ description = "Learn about Chess Programming!"
 images = ["cover.png"]
 
 # Doks (@hyas/doks-core)
+mainSections = ["docs"]
+
 [doks]
   # Color mode
   colorMode = "auto" # auto (default), light or dark
@@ -63,9 +65,6 @@ images = ["cover.png"]
   relatedPosts = false # false (default) or true
   imageList = true # true (default) or false
   imageSingle = true # true (default) or false
-
-  # KaTex
-  katex = false
 
   # Repository
   editPage = true # false (default) or true
