@@ -21,9 +21,6 @@ copyRight = "Copyright (c) 2023 Hyas"
 [build.buildStats]
   enable = true
 
-[social]
-  twitter = "getdoks"
-
 [outputs]
   home = ["HTML", "RSS", "searchIndex"]
   section = ["HTML", "RSS", "SITEMAP"]
@@ -34,10 +31,22 @@ copyRight = "Copyright (c) 2023 Hyas"
   isPlainText = true
   notAlternative = true
 
+# Add output format for section sitemap.xml
+[outputFormats.SITEMAP]
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isHTML = false
+  isPlainText = true
+  noUgly = true
+  rel  = "sitemap"
+
+[sitemap]
+  changefreq = "monthly"
+
 [caches]
   [caches.getjson]
     dir = ":cacheDir/:project"
-    maxAge = "30m"
+    maxAge = -1 # "30m"
 
 [taxonomies]
   contributor = "contributors"
@@ -52,18 +61,18 @@ copyRight = "Copyright (c) 2023 Hyas"
   includeNewer = true
   toLower = false
     [[related.indices]]
-    name = "categories"
-    weight = 100
-    [[related.indices]]
-    name = "tags"
-    weight = 80
-    [[related.indices]]
-    name = "date"
-    weight = 10
+      name = "categories"
+      weight = 100
+      [[related.indices]]
+      name = "tags"
+      weight = 80
+      [[related.indices]]
+      name = "date"
+      weight = 10
 
 [imaging]
-  anchor = "Smart"
+  anchor = "Center"
   bgColor = "#ffffff"
   hint = "photo"
-  quality = 75
-  resampleFilter = "Box"
+  quality = 85
+  resampleFilter = "Lanczos"
