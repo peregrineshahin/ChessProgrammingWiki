@@ -3,7 +3,7 @@ title: Michael Chaly
 ---
 **[Home](Home "Home") \* [People](People "People") \* Michael_Chaly**
 
-<img src="https://media.discordapp.net/attachments/1032922913499783169/1168184659377655839/c0L3fT1bpyk.jpg?ex=6550d7be&is=653e62be&hm=59ec1be1ef6dd77aa529e798bccd0c22dc2e131b441b352b39b21fba9e39af4c&=&width=469&height=626" width="300">
+<img src="https://sun10-2.userapi.com/impg/BrY_ImhyKM2_sggvwh73hoMt75trHU10Y6PASw/c0L3fT1bpyk.jpg?size=1620x2160&quality=96&sign=b6970248a404e91d7108c1b258ef9e0e&type=album" width="300">
 
 Michael Chaly, also known as Vizvezdenec, is a prominent contributor to the [Stockfish](Stockfish.md) development community. Born and currently residing in Sevastopol, has made significant contributions to the [Stockfish](Stockfish.md) development community. Demonstrating exceptional mathematical skills, he secured third place in the Ukrainian School Math Olympics in 2004 and 2005. Graduating at the age of 15, he pursued higher education at Moscow Institute of Physics and Technology and St. Petersburg State University before completing his studies at Moscow State University in 2013, specializing in engineering mathematics and physics. His impactful contributions continue to shape the field of [Stockfish](Stockfish.md) development.
 
